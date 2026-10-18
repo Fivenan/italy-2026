@@ -1,0 +1,205 @@
+{
+  "checked_on": "2026-10-18",
+  "budget": "Maximum €80 for TWO for one proper sit-down meal daily; cheaper food for other meals. Prefer a €60–70 order with room for price changes. Menu arithmetic is not a confirmed quote or reservation.",
+  "pricing_rules": [
+    "Published prices and planning allowances are separate below. Water, cover charge, transport and optional alcohol are explicitly identified.",
+    "Do not add a bottle of wine automatically. The Verona farm basket already includes two local glasses; the Milan and Varenna baskets do not include alcohol.",
+    "Recheck the menu at the door and keep the order below €70–75 if the €80 ceiling is firm. Ask about service charges before ordering.",
+    "A meal can be one proper main each plus a shared starter or dessert. There is no need to order every Italian course.",
+    "A date in a filename is disclosed. An official menu currently online establishes published prices, not a guarantee that the identical seasonal dishes will be served on the travel date."
+  ],
+  "destinations": [
+    {
+      "place": "Milan",
+      "date": "2026-10-19 Monday",
+      "proper_meal": {
+        "name": "Risoelatte Duomo",
+        "address": "Via Manfredo Camperio 6, Milan",
+        "why": "A warm 1960s setting and recognisably Milanese dishes, close enough to the cathedral area to avoid a dinner taxi. Better budget fit than ordering two meat mains at Al Mercante.",
+        "proposed_time": "19:00; request the earliest table, then head back to the guesthouse and pack for the 06:20 train.",
+        "published_hours": "Official article: daily 12:00–14:30 and 19:00–23:30. Monday fits; a table is not confirmed.",
+        "basket_for_two": [
+          {"item": "Ossobuco with Milanese risotto", "quantity": 1, "unit_eur": 32, "status": "published menu price"},
+          {"item": "Saffron risotto", "quantity": 1, "unit_eur": 17, "status": "published menu price"},
+          {"item": "Tiramisu to share", "quantity": 1, "unit_eur": 8, "status": "published menu price; confirm sharing is fine"}
+        ],
+        "published_food_subtotal_eur": 57,
+        "water_and_two_coperti_allowance_eur": 12,
+        "allowance_status": "Planning allowance only: the inspected food page does not publish these charges. Confirm with the restaurant.",
+        "planned_total_eur": 69,
+        "alcohol_included": false,
+        "budget_buffer_eur": 11,
+        "sources": ["riso_menu", "riso_hours", "riso_booking"]
+      },
+      "cheaper_meal": {
+        "name": "Spontini Duomo",
+        "address": "Via Santa Radegonda 11, Milan",
+        "why": "Milan's thick pizza slice as a quick lunch near the cathedral; save the long meal for dinner.",
+        "published_hours": "Monday–Sunday 11:00–23:00 at this branch.",
+        "published_chain_prices": {"margherita_slice_eur": 5.7, "larger_slice_supplement_eur": 2.6, "takeaway_water_eur": 1.3, "dinein_water_eur": 1.9, "coperto_eur": 1},
+        "basket": "Two Margherita slices and two takeaway waters: published chain-list arithmetic €14.00. Two larger slices with those waters: €19.20.",
+        "planned_total_eur": "€15–22 for two, depending on portion and actual branch pricing",
+        "qualification": "The official chain list warns of outlet variations and excludes the outlet INSIDE Centrale station. Do not transfer these prices to the station outlet. Santa Radegonda is a quick counter/tray-service stop, not a romantic seated dinner.",
+        "sources": ["spontini_menu", "spontini_duomo"]
+      },
+      "low_cost_memories": [
+        {"experience": "Sant'Ambrogio atrium, interior and accessible crypt: spend time with the Ambrose story rather than paying for another panorama.", "cost": "Main basilica admission is published as free; additional museum spaces or tours are separate.", "source": "ambrogio_free"},
+        {"experience": "Walk through the Galleria and around Piazza del Duomo after the visit, taking a photo together before dinner.", "cost": "Public-street walk, no admission purchase."},
+        {"experience": "Keep the Duomo archaeological area for Augustine's baptism connection; make the roof optional to protect money and energy.", "cost": "Choose the official archaeology-inclusive product; do not assume a roof combo includes it.", "source": "duomo_tickets"}
+      ]
+    },
+    {
+      "place": "Varenna",
+      "date": "2026-10-22 Thursday",
+      "proper_meal": {
+        "name": "Victoria Grill",
+        "address": "Piazza San Giorgio, at Hotel Royal Victoria, Varenna",
+        "why": "A proper meal by the village square with perch risotto and a fully costed menu. This is Victoria Grill, not the hotel's premium Visteria restaurant. Enjoy the lake outside first; the Grill faces the square.",
+        "proposed_time": "19:00 after the villa and waterfront.",
+        "published_hours": "Official restaurant page: Thursday–Sunday 12:00–22:00. Thursday fits; confirm 22 October seasonal operation and a table.",
+        "menu_status": "Prices are in the official site's currently linked Menu_grill_2026_PRIMAVERA.pdf. It is a spring 2026 menu, so reconfirm the autumn dishes.",
+        "basket_for_two": [
+          {"item": "Bresaola starter to share", "quantity": 1, "unit_eur": 16, "status": "published menu price"},
+          {"item": "Perch risotto", "quantity": 2, "unit_eur": 16, "status": "published menu price"},
+          {"item": "Tiramisu to share", "quantity": 1, "unit_eur": 10, "status": "published menu price"},
+          {"item": "Water", "quantity": 1, "unit_eur": 4.5, "status": "published menu price; confirm bottle size"},
+          {"item": "Cover charge", "quantity": 2, "unit_eur": 3.5, "status": "published menu price"}
+        ],
+        "published_basket_total_eur": 69.5,
+        "alcohol_included": false,
+        "budget_buffer_eur": 10.5,
+        "optional_cheapest_fallback": "The same official menu lists Margherita €10. Two Margheritas + one water €4.50 + two covers €7 total €31.50. This is the stronger price-verified fallback if other inexpensive kitchens are closed.",
+        "sources": ["victoria_hours", "victoria_menu"]
+      },
+      "cheaper_meal": {
+        "name": "ALMA Bistrot",
+        "address": "Contrada dell'Arco 8, Varenna",
+        "why": "A simple pizza or focaccia by the waterfront rather than another full-course restaurant meal.",
+        "basket_for_two": [
+          {"item": "Margherita pizza", "quantity": 2, "unit_eur": 12, "status": "published menu price"},
+          {"item": "Water 0.75 L", "quantity": 1, "unit_eur": 5, "status": "published menu price"}
+        ],
+        "published_food_and_water_subtotal_eur": 29,
+        "two_coperti_allowance_eur": 8,
+        "planned_total_eur": 37,
+        "hours_status": "Exact 22 October opening and kitchen hours were not established from the official page. Ask before relying on it; use the price-verified Victoria Grill pizza fallback if closed.",
+        "notes": "The ALMA website appends numbers such as '1-7 persone' to dishes; these behave like allergen codes, not claims that a €12 pizza feeds seven people. Do not repeat that misleading machine-rendered wording.",
+        "source": "alma_menu"
+      },
+      "low_cost_memories": [
+        {"experience": "Walk the Passeggiata degli Innamorati from the ferry landing to the old village, then sit by the water with no appointment to rush toward.", "cost": "Public waterfront walk; no boat ticket required.", "source": "varenna_walk"},
+        {"experience": "Keep Villa Monastero if the budget allows: garden-only €13 each versus garden + house €15 each. The extra €4 for two buys a useful indoor fallback.", "cost": "€26 garden-only for two; €30 garden + house for two, full adult prices.", "source": "villa_prices"},
+        {"experience": "Ask the hotel for a quiet waterfront sitting spot and the story of the village's fishing traditions; take your couple photo before dinner while there is still light.", "cost": "No paid experience needed; exact chat with a local is naturally contingent."}
+      ]
+    },
+    {
+      "place": "Verona",
+      "dates": ["2026-10-23 Friday dinner", "2026-10-24 Saturday lunch only if a later train is chosen"],
+      "proper_meal": {
+        "name": "Corte San Mattia — Bacaro Agricolo",
+        "location": "The family farm associated with La Vineria; confirm the room-to-restaurant route with the host.",
+        "why": "Best fit for the existing hillside accommodation: home-produced goat cheese and wine, conversation about the harvest, and no extra city-dinner taxi after check-in.",
+        "proposed_time": "19:00 Friday, after daylight at the property.",
+        "published_hours": "Official page: dinner daily 19:00–21:30. A booking is recommended. Friday fits; seasonal dishes and table remain unconfirmed.",
+        "basket_for_two": [
+          {"item": "Farm goat-cheese tasting to share", "quantity": 1, "unit_eur": 12, "status": "published menu price"},
+          {"item": "Homemade tagliatelle with ragout", "quantity": 2, "unit_eur": 15, "status": "published menu price"},
+          {"item": "Tiramisu to share", "quantity": 1, "unit_eur": 7, "status": "published menu price"},
+          {"item": "Valpolicella DOP 2024 by the glass", "quantity": 2, "unit_eur": 3.5, "status": "published menu price"},
+          {"item": "Microfiltered still/sparkling water 0.75 L", "quantity": 1, "unit_eur": 2, "status": "published menu price"},
+          {"item": "Cover charge", "quantity": 2, "unit_eur": 2.5, "status": "published menu price"}
+        ],
+        "published_basket_total_eur": 63,
+        "alcohol_included": "Two Valpolicella glasses",
+        "budget_buffer_eur": 17,
+        "notes": "The venue's main page and menu now make the farm dinner a sound budget default. A separate paid guided tasting is unnecessary. Ask a short question about the wine already on your table; a hosted tour is not implied by dinner.",
+        "source": "corte_menu"
+      },
+      "cheaper_meal": {
+        "name": "La Bottega della Gina XXL",
+        "address": "Via Abramo Massalongo 5/A, Verona",
+        "why": "Freshly cooked tortelloni in a simple takeaway format.",
+        "published_menu": "Mixed tortelloni, eight pieces €12; selected-flavour tortelloni €12; truffle version €14. Cooked walk-and-eat service begins at 12:00, no reservation required.",
+        "basket": "Two €12 tortelloni portions: €24 food. Add a €6 planning allowance for two simple drinks; takeaway avoids inventing a table-service cover charge.",
+        "planned_total_eur": 30,
+        "hours_status": "Current main menu page: Tuesday–Sunday 10:00–21:30, Monday closed, but cooked lunch still starts at 12:00. An older Gina-by-night subpage has shorter hours; use the current day menu and reconfirm evening operation if needed.",
+        "schedule_warning": "This does NOT fit a pre-noon departure after San Zeno. Use it at 12:00 only if choosing an onward train around 13:00 or later, with station/luggage time. Otherwise buy a simple packed lunch at the station based on the displayed price rather than detouring across the centre.",
+        "source": "gina_menu"
+      },
+      "city_dinner_alternative": {
+        "name": "Sottoriva 23",
+        "address": "Via Sottoriva 23, Verona",
+        "basket": "Shared baccala pansfoglia €13.50 + Amarone/Monte Veronese risotto €16 + duck-ragout bigoli €16.50 + two Valpolicella glasses €5 each = €56. Add €12 planning allowance for water and two covers: target €68.",
+        "published_amounts": "All food and wine amounts above are on the official menu; €12 water/coperto is an allowance, not a published charge.",
+        "hours": "Official contact page has inconsistent 10:00/11:00 general opening but clearly lists the first dinner sitting 19:00–21:15. Request 19:00.",
+        "transport_caution": "The meal can fit €80, but a return hill-to-city taxi journey costs extra. The farm dinner uses the budget better with this accommodation.",
+        "sources": ["sottoriva_menu", "sottoriva_hours"]
+      },
+      "low_cost_memories": [
+        {"experience": "Use your farm view in daylight, then share local goat cheese and the producer's Valpolicella. Ask how this year's harvest went.", "cost": "Included in the €63 model dinner; no extra tasting fee or tour assumed.", "source": "corte_menu"},
+        {"experience": "San Zeno's medieval doors, Mantegna altarpiece and crypt on Saturday morning.", "cost": "Published single-church admission €4 each, €8 for two; check services.", "source": "sanzeno_tickets"},
+        {"experience": "If the centre is chosen instead of the farm evening, walk Ponte Pietra and the public stairs to Castel San Pietro's viewpoint. Choose this instead of another paid tower.", "cost": "Self-guided public walk; no funicular ticket if walking. Allow for steps, light and energy.", "source": "verona_steps"}
+      ]
+    }
+  ],
+  "downgrade_previous_recommendations": [
+    {
+      "name": "Al Mercante, Milan",
+      "decision": "Remove as default budget dinner; not categorically impossible for every order.",
+      "evidence": "Official menu dated 05/10/2026: cotoletta €39, cover €5/person, water €3. Two cotolette + two covers + one water = €91. Two €25 pasta dishes + shared €12 dessert + covers + water = €75, but there is little room for extras and Risoelatte gives a stronger local-food fit.",
+      "source": "mercante_current"
+    },
+    {
+      "name": "La Vista, Varenna",
+      "decision": "Demote from default. Keep only if the hotel confirms an all-in order within the limit.",
+      "evidence": "Official page requires at least two courses. The linked 2025 menu lists perch €27, dessert €10 and cover €3 each: two fish mains + two desserts + covers already total €80 before water. Three-course menu €55/person exceeds the budget before drinks. A €18 pasta + €10 dessert each could instead be €62 before water, so not every order is unaffordable. These are older published prices, not a confirmed October 2026 quote.",
+      "sources": ["lavista_rules", "lavista_menu_2025"]
+    },
+    {
+      "name": "Al Pompiere, Verona",
+      "decision": "Demote as the default for this hillside stay; farm dinner is cheaper and avoids extra transfers.",
+      "evidence": "Official menu: Amarone-braised cheek €30 and tiramisu €10. Two of each total €80 before water/cover. One €24 pasta each and one shared €10 dessert could fit with a controlled allowance, but downtown dinner means extra transport. Do not describe the restaurant as impossible for all baskets.",
+      "source": "pompiere_menu"
+    },
+    {
+      "name": "Osteria dell'Acquabella / Osteria Conchetta",
+      "decision": "Do not substitute these for Monday 19 October despite tempting published menus.",
+      "evidence": "Acquabella's own site says Mondays closed. Conchetta explicitly says both its usual location and Brioschina are closed on Monday 19 October 2026 for a private event.",
+      "sources": ["acquabella_closed", "conchetta_closed"]
+    }
+  ],
+  "optional_research_lead_not_current_price_promise": {
+    "name": "Bar Il Molo, Varenna",
+    "evidence": "Official menu page publishes general hours 08:00–24:00 daily. An older official PDF remains accessible with sandwiches €7.50–8.50 and water €2.90/0.5 L. The current menu page links an image uploaded in October 2024 that could not be visually read in this session; do not present the older PDF's numbers as verified 2026 prices.",
+    "practical_use": "Consider for a simple snack only after reading the menu outside; use the current Victoria Grill pizza basket for a firmer price reference.",
+    "sources": ["molo_hours", "molo_older_menu"]
+  },
+  "sources": [
+    {"id": "riso_menu", "title": "Risoelatte Duomo — official à la carte menu", "url": "https://www.risoelatte.com/en-gb/menu04448222", "supports": "Saffron risotto17, ossobuco+riso32, tiramisu8; autumn dishes present, water/cover not displayed"},
+    {"id": "riso_hours", "title": "Risoelatte Duomo — official location and hours", "url": "https://www.risoelatte.com/cucina-tipica-a-duomo-la-tradizione-milanese-nel-cuore-della-citta", "supports": "Daily12–14:30/19–23:30, ViaManfredoCamperio6"},
+    {"id": "riso_booking", "title": "Risoelatte Duomo — official booking page", "url": "https://www.risoelatte.com/prenota-duomo", "supports": "Correct Duomo branch booking destination; no reservation submitted"},
+    {"id": "spontini_menu", "title": "Spontini — official menu and pricing caveats", "url": "https://spontinimilano.com/spontini-menu/", "supports": "Margherita5.70, bigger+2.60, takeawaywater1.30, dineinwater1.90, cover1; varies bybranch, notvalidinsideCentrale"},
+    {"id": "spontini_duomo", "title": "Spontini Duomo — official branch hours", "url": "https://spontinimilano.com/pizzerie/MILANO-DUOMO/", "supports": "SantaRadegonda11, daily11–23"},
+    {"id": "victoria_hours", "title": "Hotel Royal Victoria — Victoria Grill hours and official menu link", "url": "https://www.rcollectionhotels.it/en/hotel-royal-victoria/catering-4-star-hotel-lake-como/victoria-grill-restaurant", "supports": "Thursday–Sunday12–22; Grill restaurant, not Visteria; links2026menu"},
+    {"id": "victoria_menu", "title": "Victoria Grill — official linked spring 2026 menu", "url": "https://www.rcollectionhotels.it/images/Varennadocuments2026/Menu_grill_2026_PRIMAVERA.pdf", "supports": "Bresaola16, perchrisotto16, tiramisu10, water4.50, cover3.50each, Margherita10"},
+    {"id": "alma_menu", "title": "ALMA Collection Varenna — Bistrot official menu", "url": "https://alma-collection.it/bistrot/", "supports": "Contradadell'Arco8; Margherita12, 0.75Lwater5; exactdatehours andcover notverified"},
+    {"id": "corte_menu", "title": "Corte San Mattia — official Bacaro Agricolo hours, food and wines", "url": "https://www.agriturismosanmattia.it/en/restaurant-agritourism-verona.php", "supports": "Dailydinner19–21:30, goatcheese12, tagliatelle15, tiramisu7, Valpolicellaglass3.50, water2, cover2.50each"},
+    {"id": "gina_menu", "title": "La Bottega della Gina XXL — official cooked-food day menu", "url": "https://labottegadellagina.weebly.com/day-menu.html", "supports": "Mixedtortelloni8pieces12, cookedservicefrom12; Tue–Sun10–21:30, Mondayclosed; olderby-nightpagehasdifferenthours"},
+    {"id": "sottoriva_menu", "title": "Sottoriva 23 — official food and wine menu", "url": "https://sottoriva23.com/menu/", "supports": "Baccalapansfoglia13.50, Amaronerisotto16, duckbigoli16.50, Valpolicellaglass5; waterandcovernotverified"},
+    {"id": "sottoriva_hours", "title": "Sottoriva 23 — official contacts and dinner sittings", "url": "https://sottoriva23.com/contatti/", "supports": "Dailydinnerfirstsitting19–21:15; pageinconsistent10/11generalopening"},
+    {"id": "mercante_current", "title": "Al Mercante — official menu dated 5 October 2026", "url": "https://ristorantealmercante.it/it/menu-ristorante-milano/menu-del-giorno-milano/", "supports": "Cotoletta39, carbonara25, dessert12, water3, cover5each"},
+    {"id": "lavista_rules", "title": "Albergo Milano — official La Vista minimum courses and season", "url": "https://www.albergomilanovarenna.com/it/ristorante-la-vista/", "supports": "Minimumtwocourses, evening19, April–lateOctoberexceptTuesday"},
+    {"id": "lavista_menu_2025", "title": "La Vista — official linked 2025 menu, historical price evidence", "url": "https://www.albergomilanovarenna.com/wp-content/uploads/2025/03/CON-I-PREZZI-A-la-carte-menu-dinner-2025.pdf", "supports": "Perch27,pasta18,dessert10,cover3,threecourses55pp; notconfirmed2026prices"},
+    {"id": "pompiere_menu", "title": "Al Pompiere — official seasonal menu", "url": "https://alpompiere.com/en/menu/", "supports": "Amaronebeefcheek30,tiramisu10,tagliolini24"},
+    {"id": "acquabella_closed", "title": "Osteria dell'Acquabella — official menu and weekly closure", "url": "https://www.acquabella.it/cucina", "supports": "ClosedMondaysandSundays"},
+    {"id": "conchetta_closed", "title": "Osteria Conchetta — specific 19 October 2026 closure notice", "url": "https://www.osteriaconchetta.it/", "supports": "BothlocationsclosedMonday19October2026privateevent"},
+    {"id": "ambrogio_free", "title": "Sant'Ambrogio — individual admission is free", "url": "https://www.basilicasantambrogio.it/en/pianifica-la-visita-new", "supports": "Freeindividualmainbasilicaentry, nobooking; pagealsohasold2023touropportunitieswhicharenotrecommended"},
+    {"id": "duomo_tickets", "title": "Milan Duomo — official ticket portal", "url": "https://ticket.duomomilano.it/", "supports": "Officialproductselection; actual19Octinventorynotverified"},
+    {"id": "varenna_walk", "title": "Lombardy tourism — Varenna waterfront walk", "url": "https://www.in-lombardia.it/turismo-in-lombardia/lecco-turismo/infopoint-varenna", "supports": "Shortpedestrianwaterfrontlinkfromferrylandingtooldvillage"},
+    {"id": "villa_prices", "title": "Villa Monastero — official 2026 admission", "url": "https://www.villamonastero.eu/en/opening-hours-ticket/", "supports": "Adultgarden13,garden+house15; theseareVarenna-onlyprices,notthe18combinedwithLavello25kmaway"},
+    {"id": "sanzeno_tickets", "title": "Chiese Vive Verona — official church admission", "url": "https://chieseverona.it/it/visite", "supports": "Singlechurch4,onsitepurchase"},
+    {"id": "verona_steps", "title": "Visit Verona — stairs to Castel San Pietro viewpoint", "url": "https://www.visitverona.it/it/luoghi/la-funicolare-verona-east-side-scopriamo-veronetta", "supports": "Walkingstairsalternativetothepaidfunicular, panoramicterrace"},
+    {"id": "molo_hours", "title": "Bar Il Molo — official menu page and general hours", "url": "https://www.barilmolovarenna.it/menu/", "supports": "Daily08–24generalhours,currentimage-basedmenu"},
+    {"id": "molo_older_menu", "title": "Bar Il Molo — older official PDF, not a 2026 guarantee", "url": "https://www.barilmolovarenna.it/wp-content/uploads/2023/01/menu-bar-il-molo-ita.pdf", "supports": "Historicalcheapfoodleadonly; do notpresentascurrentpriceverification"}
+  ]
+}

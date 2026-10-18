@@ -1,0 +1,353 @@
+{
+  "checked_on": "2026-10-18",
+  "scope": "Budget revision for Venice 24–26 October 2026",
+  "budget": {
+    "food": "At most €80 for one meal for two each day; other meals cheaper.",
+    "music": "Hard preference: no more than €60 for two tickets in total.",
+    "lodging": "Exact hotel remains unknown; 'near the main station' does not distinguish Venezia Mestre from Venezia Santa Lucia."
+  },
+  "recommendation": "Make the free 24 October 18:00 conservatory anniversary concert the default if its adventurous twentieth-century programme appeals. Alternatively choose €5-per-person Mozart incompiuto at M9 Mestre that evening. For more familiar vocal Baroque, Venice Music Project advertises a €60 couple rate at the venue, but its online price is €69.86 for two and exceeds the limit. Keep St. Mark's sung Mass strictly as worship. No bookings or contact made.",
+  "music": [
+    {
+      "id": "conservatory-free",
+      "priority": "Best value in historic Venice",
+      "title": "Directors as composers — Conservatorio Benedetto Marcello 150th anniversary",
+      "date": "2026-10-24",
+      "time": "18:00",
+      "venue": "Sala Concerti, Conservatorio Benedetto Marcello, Palazzo Pisani, San Marco 2810, historic Venice",
+      "genre": "Two pianos, percussion and spoken voice; adventurous twentieth-century Italian concert, not opera.",
+      "programme": "Malipiero, Bianchi, Bossi, Dalla Vecchia and Gottipavero; Elena Valentini–Matteo Liva piano duo with conservatory performers.",
+      "ticket_eur_each": 0,
+      "ticket_eur_two": 0,
+      "status": "Official dated programme says free admission until seats are exhausted; no seat guarantee, reservation or duration confirmed.",
+      "source_url": "https://www.conservatoriovenezia.eu/blog/eventi/concerti/direttori-compositori/",
+      "planning": "Aim to reach the venue around 17:30; suggested arrival, not a published door time. This replaces another music event. Eat the larger meal at lunch, or arrange dinner after the actual finish."
+    },
+    {
+      "id": "m9-mozart",
+      "priority": "Lowest-cost familiar classical alternative",
+      "title": "Mozart incompiuto",
+      "date": "2026-10-24",
+      "time": "18:30",
+      "venue": "Auditorium Cesare De Michelis, M9 Museo del '900, Mestre mainland",
+      "genre": "Mozart quartet fragments and orchestra, Bach Art of Fugue; introductory conversation in Italian. Concert, not opera.",
+      "ticket_eur_each": 5,
+      "ticket_eur_two": 10,
+      "status": "Official conservatory programme publishes €5 admission and tickets at the M9 box office. No seats checked.",
+      "source_url": "https://www.conservatoriovenezia.eu/blog/eventi/collaborazioni/mozart-incompiuto/",
+      "planning": "Especially convenient if hotel proves to be on mainland. It conflicts with the historic-Venice free concert and requires foregoing part of the first canal afternoon. Choose one."
+    },
+    {
+      "id": "m9-sunday",
+      "priority": "Optional inexpensive second concert",
+      "title": "Sulle note del secolo — Da Bach a Ravel, attraverso Kurtág, Casella e Boulez",
+      "date": "2026-10-25",
+      "time": "18:00",
+      "venue": "Auditorium Cesare De Michelis, M9 Museo del '900, Mestre mainland",
+      "genre": "Conservatory piano recital, solo and four hands; includes Bach chorales arranged by Kurtág, Casella, Boulez, Ravel and Debussy.",
+      "ticket_eur_each": 10,
+      "ticket_eur_two": 20,
+      "status": "Official programme publishes €10 regular admission; online and M9 box-office sales. Any online fees and seats need checkout; €40 margin remains below ticket cap.",
+      "source_url": "https://www.conservatoriovenezia.eu/blog/eventi/concerti/kurtag-casella-boulez/",
+      "planning": "If selected, replace the San Giorgio sunset outing and Cannaregio evening. Leave historic Venice around 16:00–16:15 with a checked mainland connection to reach M9 by about 17:30. Do not assume M9 is beside Mestre station."
+    },
+    {
+      "id": "vmp-vocal",
+      "priority": "Vocal Baroque option only at the published fee-free venue couple rate",
+      "title": "Intimate Notes: Pearls from Venetian Chamber Music",
+      "date": "2026-10-24",
+      "time": "19:00–20:00",
+      "venue": "Scuola Grande dei Carmini, Dorsoduro 2616–2617, historic Venice",
+      "genre": "Vocal chamber recital, soprano with basso continuo. Vivaldi, Antonia Bembo and Benedetto Marcello; Liesl Odenweller with Venice Music Project Ensemble. Not staged opera.",
+      "published_couple_rate_eur": 60,
+      "online_each": {
+        "face": 30,
+        "presale": 2.55,
+        "fee": 2.38,
+        "total": 34.93
+      },
+      "online_two_eur": 69.86,
+      "status": "Official FAQ lists couple (two together) €60 and direct box-office sales. This supports the advertised venue rate but does not guarantee zero additional fees or available seats on arrival. Online dated Clappit ticket breakdown is €69.86 for two, so exclude online purchase under the €60 cap.",
+      "source_url": "https://venicemusicproject.it/concert/intimate-notes-pearls-from-venetian-chamber-music/",
+      "prices_url": "https://venicemusicproject.it/faq/",
+      "ticket_url": "https://www.clappit.com/biglietti-venicemusicproject/tickets/intimate-notes-pearls-from-venetian-chamber-music-24-october-2026-scuola-grande-dei-carmini-venezia-40494.html",
+      "planning": "Published venue box office daily 10:00–17:00, and event evening 18:00–18:45, except private-event closures. Ask for the couple rate and total before paying. If total exceeds €60 or no seats, use the free conservatory alternative only if timing still allows; otherwise enjoy a meal and canals."
+    },
+    {
+      "id": "laguna-jazz",
+      "priority": "Optional genre change",
+      "title": "Lorenzo Liuzzi Trio — The Door Ajar",
+      "date": "2026-10-24",
+      "time": "First set 18:30–19:30; second set 21:00–22:45 with pause",
+      "venue": "Laguna Libre, Cannaregio 969, historic Venice",
+      "genre": "Contemporary jazz trio, piano/double bass/drums.",
+      "ticket_eur_each": 20,
+      "ticket_eur_two": 40,
+      "status": "Official dated page publishes full-price €20, with concessions requiring eligibility. Food/drink charges are additional; exact booking conditions and any compulsory consumption not established.",
+      "source_url": "https://www.lagunalibre.it/event/lorenzo-liuzzi-trio-%C2%B7-the-door-ajar/",
+      "planning": "Only if jazz appeals; pick one set and clarify the full bill. Not a classical or opera substitute in genre."
+    },
+    {
+      "id": "biennale",
+      "priority": "Optional experimental alternative",
+      "title": "Biennale Musica final evening — Clarissa Connelly / ONCEIM / Jay Mitta, DJ Travella, Pili Pili Girls",
+      "date": "2026-10-24",
+      "time": "19:00, approximately four hours",
+      "venue": "Teatro alle Tese, Arsenale",
+      "genre": "Contemporary voices, orchestra, electronics and singeli DJ sets; experimental festival, not traditional opera.",
+      "ticket_eur_each": 25,
+      "ticket_eur_two_face": 50,
+      "status": "General official 2026 concert tariff €25; dated programme confirmed, final checkout fees and seats not checked. Only consider if final total remains ≤€60.",
+      "source_url": "https://www.labiennale.org/it/musica/2026/biennale-musica-2026?date=2026-10-24",
+      "prices_url": "https://www.labiennale.org/en/music/2026/information",
+      "planning": "Long late event at Arsenale; less relaxed than the conservatory option. Requires early meal and checked late return."
+    },
+    {
+      "id": "berman-over-budget",
+      "priority": "Exclude from default",
+      "title": "Pavel Berman and Maria Meerovitch",
+      "date": "2026-10-24",
+      "time": "20:00",
+      "venue": "La Fenice Sale Apollinee",
+      "genre": "Violin and piano chamber concert",
+      "base_each_eur": 40,
+      "base_two_eur": 80,
+      "published_online_commission_percent": 10,
+      "estimated_online_two_eur": 88,
+      "status": "Dated official booking page shows full €40, booking fee €0, plus final service commission. Organizer publishes 10% online/phone commission. Both €80 face value and roughly €88 online exceed €60. Eligibility discounts exist but user ages/status unknown.",
+      "source_url": "https://feniceonline.tm.vivaticket.com/biglietteria/listaEventiPub.do?codice=kammusic_26&data=20261024&lingua=ita",
+      "prices_url": "https://www.musikamera.it/index.php?id=abbonamenti-musikamera&lang=it"
+    },
+    {
+      "id": "palazzo-over-budget",
+      "priority": "Exclude from default",
+      "title": "Musica a Palazzo — La Traviata",
+      "date": "2026-10-24",
+      "time": "Standard 20:30",
+      "ticket_eur_each": 95,
+      "ticket_eur_two": 190,
+      "status": "Published membership including performance exceeds the music cap.",
+      "source_url": "https://www.musicapalazzo.com/en/book-now/?date=1790812800"
+    },
+    {
+      "id": "marco-worship",
+      "priority": "Keep only if sincerely attending worship",
+      "title": "St. Mark's sung solemn Mass",
+      "date": "2026-10-25",
+      "time": "Regular Sunday 10:00",
+      "ticket_eur_two": 0,
+      "venue": "St. Mark's Basilica; Porta dei Fiori, north side Piazzetta dei Leoncini",
+      "status": "Regular official worship schedule, sung by Cappella Marciana. Services can vary. This is participation in worship, not a free concert or tourist access shortcut.",
+      "source_url": "https://www.basilicasanmarco.it/en/liturgical-services/"
+    }
+  ],
+  "food": [
+    {
+      "id": "do-spade",
+      "type": "One nicer seated meal",
+      "name": "Cantina Do Spade",
+      "area": "San Polo near Rialto",
+      "address": "Calle Do Spade 859",
+      "hours": "Published daily 10:00–15:00 and 18:00–22:00",
+      "menu_url": "https://cantinadospade.com/menu/",
+      "hours_url": "https://cantinadospade.com/en/find-us/",
+      "why": "Traditional Venetian dishes, with an actual priced official menu. A good fit for one unhurried daily meal.",
+      "basket_two": [
+        {
+          "item": "Bigoli in salsa",
+          "qty": 1,
+          "unit_eur": 16,
+          "total_eur": 16,
+          "kind": "published menu"
+        },
+        {
+          "item": "Seppie in nero con polenta",
+          "qty": 1,
+          "unit_eur": 18,
+          "total_eur": 18,
+          "kind": "published menu"
+        },
+        {
+          "item": "Two glasses Vespaiolo or Schiava",
+          "qty": 2,
+          "unit_eur": 4,
+          "total_eur": 8,
+          "kind": "published menu"
+        },
+        {
+          "item": "One shared tiramisu",
+          "qty": 1,
+          "unit_eur": 7,
+          "total_eur": 7,
+          "kind": "published menu"
+        },
+        {
+          "item": "Water and both cover charges",
+          "total_eur": 10,
+          "kind": "planning allowance, not verified venue price"
+        }
+      ],
+      "published_subtotal_eur": 49,
+      "model_all_in_eur": 59,
+      "suggested_allowance_two_eur": "€60–70",
+      "ceiling_note": "Water/coperto not stated in the fetched official menu; verify before ordering. An optional shared €16 baccala starter makes this model €75 with the same €10 extras allowance. Skip it if the stated extras would exceed the €80 limit.",
+      "status": "Menu/hours verified; table, seasonal dishes and exact extras unconfirmed. Reserve a seated table directly if desired; no contact made."
+    },
+    {
+      "id": "bacio",
+      "type": "Alternative nicer seated meal",
+      "name": "Osteria Il Bacio",
+      "area": "Dorsoduro, near Frari/San Pantalon",
+      "address": "Dorsoduro 3958",
+      "hours": "Published daily 11:30–15:00 and 18:00–22:30",
+      "menu_url": "https://osteriailbacio.com/menu",
+      "why": "Transparent menu with drinks and cover charge, useful for controlling the complete bill; convenient after the Frari branch.",
+      "basket_two": [
+        {
+          "item": "Spaghetti alle vongole or spaghetti al nero",
+          "qty": 2,
+          "unit_eur": 20,
+          "total_eur": 40,
+          "kind": "published menu"
+        },
+        {
+          "item": "Two spritz",
+          "qty": 2,
+          "unit_eur": 7,
+          "total_eur": 14,
+          "kind": "published menu"
+        },
+        {
+          "item": "One shared tiramisu",
+          "qty": 1,
+          "unit_eur": 8,
+          "total_eur": 8,
+          "kind": "published menu"
+        },
+        {
+          "item": "One water",
+          "qty": 1,
+          "unit_eur": 4,
+          "total_eur": 4,
+          "kind": "published menu; volume unspecified"
+        },
+        {
+          "item": "Two cover charges",
+          "qty": 2,
+          "unit_eur": 3,
+          "total_eur": 6,
+          "kind": "published menu"
+        }
+      ],
+      "published_subtotal_eur": 72,
+      "model_all_in_eur": 72,
+      "suggested_allowance_two_eur": "€70–80",
+      "ceiling_note": "Use à la carte rather than the €39-per-person special: the special is already €78 before €6 covers and drinks, therefore exceeds €80. The €72 model leaves €8 margin. Avoid fish priced by the 100g unless total weight/price is clear.",
+      "status": "Official menu and hours checked. Dish/table availability and changes remain unconfirmed."
+    },
+    {
+      "id": "dal-moro",
+      "type": "Cheaper takeaway lunch",
+      "name": "Dal Moro's Fresh Pasta To Go",
+      "area": "Castello near San Marco",
+      "address": "Calle de la Casseleria 5324",
+      "hours": "Official page says daily 12:00–18:00; do not use for a late dinner",
+      "menu_url": "https://www.dalmoros.it/fresh-pasta-to-go/menu",
+      "why": "A complete priced pasta-and-water meal for far less than the nicer-meal ceiling. Distinguish the takeaway shop from the separate Dal Moro's seated restaurant.",
+      "basket_two": [
+        {
+          "item": "Veneziana pasta",
+          "qty": 1,
+          "unit_eur": 12,
+          "total_eur": 12,
+          "kind": "published menu"
+        },
+        {
+          "item": "Pesto pasta",
+          "qty": 1,
+          "unit_eur": 10,
+          "total_eur": 10,
+          "kind": "published menu"
+        },
+        {
+          "item": "Two waters",
+          "qty": 2,
+          "unit_eur": 1.5,
+          "total_eur": 3,
+          "kind": "published menu"
+        }
+      ],
+      "published_subtotal_eur": 25,
+      "model_all_in_eur": 25,
+      "suggested_allowance_two_eur": "€25–30",
+      "optional": "Shared homemade tiramisu €4.50 gives €29.50 total. Simpler pasta sauces can lower cost further.",
+      "status": "Menu and hours verified. Takeaway has no promised dining seat. Use a permitted place for eating, keep passageways clear and do not sit on church steps or bridges."
+    },
+    {
+      "id": "farini",
+      "type": "Cheaper bakery breakfast or light meal",
+      "name": "Farini Rialto",
+      "area": "Rialto/San Polo",
+      "address": "Ruga Rialto 655",
+      "hours": "Official location page says daily 08:00–22:00",
+      "menu_url": "https://farini.com/en/venezia/rialto/",
+      "why": "Published branch-specific prices and long hours make it an easy inexpensive fallback after walking or music.",
+      "basket_two": [
+        {
+          "item": "Pizza slices, e.g. Margherita/vegetable",
+          "qty": 4,
+          "unit_eur": 4,
+          "total_eur": 16,
+          "kind": "published menu; pizza by the slice according to venue"
+        },
+        {
+          "item": "Two 0.5L waters",
+          "qty": 2,
+          "unit_eur": 1,
+          "total_eur": 2,
+          "kind": "published menu"
+        }
+      ],
+      "published_subtotal_eur": 18,
+      "model_all_in_eur": 18,
+      "suggested_allowance_two_eur": "€18–22 for counter/takeaway model",
+      "breakfast_model": "Two cappuccinos €1.80 each + two filled croissants €2 each = €7.60 for two, using published prices.",
+      "status": "Branch hours and prices verified. Product size, stock and seating vary; verify any table-service pricing before sitting. A bakery meal is functional rather than a romantic dinner."
+    }
+  ],
+  "useful_planning": [
+    "Keep one €60–75 seated meal per day; use €18–30 bakery or takeaway for the other substantial meal. Do not treat €80 as the amount to spend at every meal.",
+    "For 24 October free concert at 18:00, a substantial lunch followed by a bakery meal afterward avoids rushing a 18:30 dinner before the performance. Dinner after the concert is also possible after checking its finish and kitchen hours.",
+    "For 25 October Frari afternoon, Il Bacio is convenient. For a St. Mark's/San Giorgio day, Do Spade is a cross-city dinner choice and should be timed with the return route.",
+    "Free Saturday historic-Venice concert plus Sunday M9 concert costs €20 for two at base prices, comfortably below the €60 total ticket preference if it applies across both nights.",
+    "The conservatory free programme is mostly twentieth-century instrumental music, not opera. Mozart incompiuto is orchestral/chamber repertoire and not a performance of the Requiem or a staged opera.",
+    "Exact hotel and station remain unresolved. Do not assert either Mestre or Santa Lucia based only on 'near the main station'. M9 requires its own mainland transfer if staying in historic Venice.",
+    "Prices are published observations as of 18 October; modeled bills are transparent examples rather than guaranteed quotes. Check any added service and cover charges before ordering."
+  ],
+  "limitations": [
+    "No actual seats or reservations held, and no restaurant/venue was contacted.",
+    "A €60 couple box-office rate at Venice Music Project is published but cannot be called an available €60 online ticket: the online breakdown exceeds the limit.",
+    "I Musici Veneziani pages show €30–60 ranges but the €30 category and dated 24/25 October inventory were not established; do not advertise €60-for-two on that evidence.",
+    "Interpreti Veneziani's current official material points to Palazzo Zaguri/Chiesa della Pietà rather than relying on old San Vidal details. No verified ≤€60-for-two general-adult ticket was established, so omit from default.",
+    "M9 auditorium address is in Mestre. Its own museum page lists Via Giovanni Pascoli 9 while the Comune auditorium listing uses 11; follow event ticket's entrance instructions.",
+    "Do Spade water/coperto are an explicit allowance; Il Bacio model includes published covers and water. The cheaper Farini model assumes counter/takeaway ordering."
+  ],
+  "extra_sources": [
+    {
+      "title": "M9 — official auditorium location",
+      "url": "https://www.m9museum.it/en/the-district/auditorium/"
+    },
+    {
+      "title": "Comune di Venezia — M9 auditorium",
+      "url": "https://www.comune.venezia.it/it/luoghi-eventi/auditorium-cesare-de-michelis-m9-museo-900"
+    },
+    {
+      "title": "I Musici Veneziani — Four Seasons price range, insufficient for budget claim",
+      "url": "https://www.imusiciveneziani.com/spettacoli/le-quattro-stagioni-di-a-vivaldi-programma-a/"
+    },
+    {
+      "title": "Interpreti Veneziani — current venues",
+      "url": "https://www.interpretiveneziani.com/en/concerts-and-venues"
+    }
+  ]
+}

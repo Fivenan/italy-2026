@@ -1,0 +1,272 @@
+{
+  "checked_on": "2026-10-18",
+  "region": "Venice, 24–26 October 2026",
+  "method": "Official operator, venue, church and municipal pages were read. Published schedules are distinct from ticket availability. Suggested activity times and safety margins are planning judgments. No bookings or messages were made.",
+  "sources": [
+    {
+      "id": "fenice-concert",
+      "title": "Teatro La Fenice — Pavel Berman e Maria Meerovitch",
+      "url": "https://www.teatrolafenice.it/event/musikamera-pavel-berman-e-maria-meerovitch/",
+      "evidence": "Lists 23 and 24 October 2026 at 20:00 in Sale Apollinee; Berman violin, Meerovitch piano; Mozart, Prokofiev, Bloch and Ravel programme. Buy links exist; no seating availability or final ticket price checked."
+    },
+    {
+      "id": "fenice-dance",
+      "title": "Teatro La Fenice — Dear Son",
+      "url": "https://www.teatrolafenice.it/event/danza-25-26-dear-son/",
+      "evidence": "Dance, at Teatro Malibran on Saturday 24 October 2026 at 17:00. This is not opera and not La Fenice main auditorium."
+    },
+    {
+      "id": "fenice-tour",
+      "title": "Teatro La Fenice — Tosca: La Fenice a Shanghai",
+      "url": "https://www.teatrolafenice.it/event/tosca-shanghai-grand-opera-house/",
+      "evidence": "Tosca listed 22–24 October 2026 is a touring event in Shanghai, not a Venice performance."
+    },
+    {
+      "id": "palazzo-calendar",
+      "title": "Musica a Palazzo — October 2026 calendar",
+      "url": "https://www.musicapalazzo.com/en/book-now/?date=1790812800",
+      "evidence": "Calendar lists La Traviata on 24 October with a booking-request button; 25 October has no listed bookable show. Standard doors 20:00, start 20:30, approximately two hours, €95 per person membership including one performance. Provider may advise a different start. A booking request does not establish availability."
+    },
+    {
+      "id": "palazzo-opera",
+      "title": "Musica a Palazzo — La Traviata",
+      "url": "https://www.musicapalazzo.com/en/la-traviata/",
+      "evidence": "Opera moves between three palace rooms. Italian, without subtitles; approximately two hours including interval. General weekly schedule is subordinate to the actual dated calendar."
+    },
+    {
+      "id": "palazzo-faq",
+      "title": "Musica a Palazzo — FAQ",
+      "url": "https://www.musicapalazzo.com/en/faq/",
+      "evidence": "Palazzo Barbarigo Minotto, San Marco 2504, entrance off Fondamenta Duodo o Barbarigo behind Santa Maria del Giglio. Giglio stop Line 1. Thirty stairs, no lift. Seats unnumbered; membership application per person; doors close at start. Check dinner kitchen closure if eating after the roughly 22:30 finish."
+    },
+    {
+      "id": "marco-worship",
+      "title": "St. Mark's Basilica — Mass and Prayer",
+      "url": "https://www.basilicasanmarco.it/en/liturgical-services/",
+      "evidence": "Regular Sunday schedule: 10:00 solemn Mass sung by Cappella Marciana, 12:00 Organ Mass. Free entry for prayers and services via Porta dei Fiori, north side at Piazzetta dei Leoncini. Regular schedule, not a date-specific guarantee."
+    },
+    {
+      "id": "marco-hours",
+      "title": "St. Mark's official ticket office — FAQ",
+      "url": "https://tickets.basilicasanmarco.it/en/support/faq",
+      "evidence": "Basilica and Pala d'Oro Sunday tourist visits 14:00–17:15, last admission 16:45. Monday–Saturday 09:30–17:15, last admission 16:45. Museum and Horses Loggia 09:30–17:15 daily, last admission 16:45; on Sunday before 14:00 only museum/loggia opens to visitors. Special services can change access. The page contains inconsistent winter bell-tower wording; no winter tower hours used."
+    },
+    {
+      "id": "marco-prices",
+      "title": "St. Mark's official ticket office — Prices",
+      "url": "https://tickets.basilicasanmarco.it/en/support/prices",
+      "evidence": "Individual-booking prices listed: basilica €10; basilica + Pala d'Oro €20; basilica + museum/loggia €20; complete €30; Sunday-morning museum/loggia only €14; St. Mark's campanile €15. Porta San Pietro is the individual ticket entrance. Tickets are nominative. Use actual checkout to establish final price and availability."
+    },
+    {
+      "id": "frari-hours",
+      "title": "Basilica dei Frari — Visiting hours",
+      "url": "https://www.basilicadeifrari.it/orari-delle-visite/",
+      "evidence": "Through 31 October: Monday–Friday 09:00–19:30, Saturday 09:00–18:00, Sunday/holidays 13:00–18:00; last entry 30 minutes before closure. Special liturgies and concerts suspend visits; consult the embedded calendar close to visit."
+    },
+    {
+      "id": "frari-prices",
+      "title": "Basilica dei Frari — Entrance tickets",
+      "url": "https://www.basilicadeifrari.it/biglietto-di-ingresso/",
+      "evidence": "On-site adult €8, over 65 €5, students age 12–29 €3. Entrance contribution supports conservation."
+    },
+    {
+      "id": "giorgio",
+      "title": "Abbazia di San Giorgio Maggiore — official visiting notice",
+      "url": "https://www.abbaziasangiorgio.it/",
+      "evidence": "Basilica open daily 09:00–18:00. Bell tower temporarily closed for extraordinary maintenance; no reopening date announced. Sunday Mass 11:00 in Cappella della Deposizione. ACTV Line 2 serves San Giorgio; abbey gives about 3 min from San Zaccaria,45 min from Ferrovia,40 min from Piazzale Roma."
+    },
+    {
+      "id": "actv-fares",
+      "title": "ACTV — Venice urban services and fares",
+      "url": "https://actv.avmspa.it/en/content/venice-urban-services-0",
+      "evidence": "48 h €35,72 h €45,7 days €65 from first validation, with urban ACTV boats, local buses/trams and People Mover. Excludes airport, Alilaguna, routes 16/19/Casino. Airport supplement +€7 one way/+€13 return must be purchased with pass. Separate airport bus 75 min ticket €10, airport+waterbus 90 min €18. Multi-day 48/72 h tickets do not list Trenitalia;24 h €25 Venezia Daily Pass explicitly does include eligible municipal Regional/RV trains. Validate each boarding."
+    },
+    {
+      "id": "atvo-main",
+      "title": "ATVO — Venice Airport Bus Express",
+      "url": "https://www.atvo.it/servizi-erogati/servizi-aereoportuali/venice-airport-bus-express",
+      "evidence": "Separate direct airport services for Venezia/Piazzale Roma and Mestre. Mestre ticket office Via Cappuccina 183. Express luggage included; digital ticket supported. Use the linked route-specific PDF and current operator checkout."
+    },
+    {
+      "id": "atvo-mestre",
+      "title": "ATVO 35 b — Mestre FS / VCE, valid 5 Oct 2026–24 Apr 2027",
+      "url": "https://www.atvo.it/assets/bus_routes/035b_05.10.26-24.04.27.pdf",
+      "evidence": "Mestre FS to VCE 20 min. Monday 26 Oct working-day usable afternoon departures 14:10,14:25,15:00,15:20,16:00.15:00 and 15:20 operate daily. PDF warns services may change. Recommend 15:00 or earlier for 17:55 flight; this is a planning margin, not a last guaranteed departure."
+    },
+    {
+      "id": "atvo-venice",
+      "title": "ATVO 35 — Piazzale Roma / VCE, valid from 1 Feb 2026",
+      "url": "https://www.atvo.it/assets/bus_routes/035_01.02.26-.pdf",
+      "evidence": "Daily Piazzale Roma to VCE 14:20,14:50,15:20,15:50; advertised 20 min. Fare printed€12 single/€20 return, luggage included. For 17:55 flight target 14:50 or earlier. The earlier general fare PDF found on ATVO conflicts; use this current route-specific timetable and checkout."
+    },
+    {
+      "id": "vce-checkin",
+      "title": "Venice Airport — Check-in and baggage drop-off",
+      "url": "https://www.veneziaairport.it/en_gb/at-the-airport/check-in-and-bag-drop",
+      "evidence": "Airport recommends at least 2 h before flights without passport control,3 h for flights requiring it; follow airline instructions. Airport uses current Veneziaairport.it domain."
+    },
+    {
+      "id": "access-fee",
+      "title": "Comune di Venezia — official access contribution",
+      "url": "https://cda.ve.it/it",
+      "evidence": "2026 trial ended 26 July; from 27 July neither payment nor exemption registration required. Therefore 24–26 October 2026 have no access-fee requirement under currently published rules. Accommodation city tax is separate."
+    },
+    {
+      "id": "dst",
+      "title": "European Commission — Summer-time 2022–2026, Official Journal",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=oj%3AJOC_2021_149_R_0001",
+      "evidence": "2026 summer time ends 25 October at 01:00 UTC, corresponding to 03:00 CEST becoming 02:00 CET. Italy and Germany keep the same local time."
+    },
+    {
+      "id": "tides",
+      "title": "Comune di Venezia — Tide forecast",
+      "url": "https://www.comune.venezia.it/it/content/la-previsione",
+      "evidence": "Municipal tide forecast covers current day and next 2 days. Check close to visit; cannot infer 25 October high-water conditions on 18 October."
+    },
+    {
+      "id": "do-spade",
+      "title": "Cantina Do Spade — official restaurant",
+      "url": "https://cantinadospade.com/",
+      "evidence": "Calle Do Spade 859, San Polo near Rialto. Published daily 10:00–15:00 and 18:00–22:00. Reservations by telephone+390415210583. Venetian food and cicchetti; specific dish/table availability unconfirmed."
+    },
+    {
+      "id": "row-venice",
+      "title": "Row Venice — lesson information",
+      "url": "https://rowvenice.org/tourop-info/",
+      "evidence": "Standard lesson 80 min; current page quotes€100 per boat for 1–2 people, but special/holiday pricing differs. Use live calendar; any lesson replaces an afternoon activity. Weather, exact session and rate require confirmation."
+    },
+    {
+      "id": "sunset",
+      "title": "Timeanddate — Venice October 2026 computed sun table",
+      "url": "https://www.timeanddate.com/sun/italy/venice?month=10&year=2026",
+      "kind": "Primary astronomical calculation publisher, not a venue or municipal source",
+      "evidence": "Calculated sunset 24 Oct 18:10 CEST,25 Oct 17:08 CET,26 Oct 17:07 CET. Times describe astronomical sunset, not a clear-sky or visible-sunset promise."
+    }
+  ],
+  "conclusions": [
+    {
+      "claim": "The original chamber concert is real.",
+      "status": "verified published schedule",
+      "detail": "24 Oct 20:00, Sale Apollinee, violin+piano. Not opera and not a main-auditorium visit.",
+      "source_ids": [
+        "fenice-concert"
+      ]
+    },
+    {
+      "claim": "An actual Venice opera option is feasible 24 Oct.",
+      "status": "published; confirmation required",
+      "detail": "Request Musica a Palazzo La Traviata. Adapted chamber-scale palace opera,€95/person,standard 20:30. Choose this OR the 20:00 concert. No date-specific seats or confirmation obtained;25 Oct has no listed bookable performance.",
+      "source_ids": [
+        "palazzo-calendar",
+        "palazzo-opera",
+        "palazzo-faq"
+      ]
+    },
+    {
+      "claim": "No La Fenice mainstage opera in Venice was identified for 24/25 Oct.",
+      "status": "limited negative finding",
+      "detail": "Published season instead has Dear Son dance at Malibran 24 Oct 17:00 and Berman chamber concert. Tosca 22–24 Oct is Shanghai. Do not imply the opera-house main auditorium is included.",
+      "source_ids": [
+        "fenice-concert",
+        "fenice-dance",
+        "fenice-tour"
+      ]
+    },
+    {
+      "claim": "10:00 Sunday sung Mass is supported, but distinct from sightseeing.",
+      "status": "verified regular schedule",
+      "detail": "Arrive 09:30 at Porta dei Fiori if sincerely attending worship. Tourist entry is Porta San Pietro with separate ticket and Sunday opening 14:00. Recheck special services.",
+      "source_ids": [
+        "marco-worship",
+        "marco-hours",
+        "marco-prices"
+      ]
+    },
+    {
+      "claim": "San Giorgio tower must be removed from promised itinerary.",
+      "status": "correction",
+      "detail": "Basilica and waterfront remain reasonable, but tower closed as of 18 Oct.",
+      "source_ids": [
+        "giorgio"
+      ]
+    },
+    {
+      "claim": "Corso Venezia is insufficient to locate accommodation.",
+      "status": "unresolved user detail",
+      "detail": "Do not assert Mestre or an exact address; confirm booking address. If mainland, plan check-in and late return using verified local connections. After a 22:30 opera finish, ensure both vaporetto and mainland leg, or a taxi fallback."
+    },
+    {
+      "claim": "Use 48 hpass only after the lodging route and clock duration are known.",
+      "status": "planning judgment",
+      "detail": "€35 per person for 48 hours versus €45 for 72 hours. Four €9.50 boat tickets total €38. The 48/72-hour ACTV passes exclude Mestre–Santa Lucia trains. Check the printed expiry across Sunday's clock change. Airport travel needs a supplement or separate operator ticket.",
+      "source_ids": [
+        "actv-fares",
+        "dst"
+      ]
+    },
+    {
+      "claim": "No 24–26 Oct 2026 Venice access fee or exemption QR required.",
+      "status": "verified current municipal rule",
+      "source_ids": [
+        "access-fee"
+      ]
+    }
+  ],
+  "suggested_days": [
+    {
+      "date": "2026-10-24",
+      "title": "Arrive gently; make one music evening",
+      "plan": [
+        "Keep Verona departure flexible until exact train and Venice lodging are known. Hotel/luggage first.",
+        "If in historic Venice by midafternoon, take Line 1 along the Grand Canal toward Giglio/Accademia, with a generous venue buffer; drop the boat ride if late.",
+        "Eat early around 18:00–18:45 near the performance. Cicchetti are enjoyable but allow a seated meal if hungry.",
+        "Choose Musica a Palazzo La Traviata at 20:30 (doors 20:00) if the request is explicitly confirmed; alternative Berman/Meerovitch at 20:00 in the Sale Apollinee. Do not stack both.",
+        "Before evening starts, save exact return services to accommodation. The palace has 30 steps and no lift. Italian with no subtitles means reading the synopsis in advance is useful."
+      ],
+      "anchor": "One music evening",
+      "rain": "Keep the confirmed performance, early dinner and a short covered/café pause; the canal ride is optional."
+    },
+    {
+      "date": "2026-10-25",
+      "title": "St. Mark's, then a slow waterfront afternoon",
+      "plan": [
+        "Clocks moved back 03:00 to 02:00 overnight. Target 09:30 at the worship entrance Porta dei Fiori for the regular 10:00 sung solemn Mass, if comfortable joining worship.",
+        "Allow lunch and an unhurried walk after Mass.",
+        "Choose a 14:00 St. Mark's sightseeing slot OR Frari, open 13:00–18:00 with last entry 17:30. Both substantial interiors plus an island trip would rush the day.",
+        "For the St. Mark's branch, visit 14:00–15:00 then take Line 2 from San Zaccaria to San Giorgio around 15:30. For the Frari branch, allow a longer transfer, or stay in San Polo/Dorsoduro and drop the island.",
+        "San Giorgio basilica opens 09:00–18:00; the tower is closed. Enjoy the waterfront before the approximate 17:08 sunset, weather permitting; be there around 16:00–16:30.",
+        "Choose dinner near the return route. Cannaregio is possible with energy but adds cross-city walking. Do Spade in San Polo is a verified restaurant option; reserve seated dining."
+      ],
+      "anchor": "Sunday sacred music and one focused interior",
+      "rain": "Attend Mass if desired, choose one ticketed interior, a long lunch and café; drop the exposed San Giorgio outing if wet/windy or services are disrupted. Check municipal tide forecasts and ACTV alerts."
+    },
+    {
+      "date": "2026-10-26",
+      "title": "A farewell without airport stress",
+      "plan": [
+        "Keep the morning near the luggage plan. If staying on the island, Frari at 09:00 or a small San Polo/Dorsoduro walk is feasible; if mainland, make another crossing only with a firm bag collection plan.",
+        "Finish substantial sightseeing by 12:00–12:30; collect luggage early afternoon.",
+        "From Mestre FS: target ATVO 15:00 or earlier (about 15:20 at VCE). From Piazzale Roma: target 14:50 or earlier (about 15:10 at VCE). Be at the stop 15–20 minutes early. Check the current timetable and traffic.",
+        "Target the airport 15:15–15:30 for the user-supplied 17:55 VCE to DUS flight; airline check-in and bag-drop instructions take precedence. The supplied 17:55–19:30 flight times were not independently validated."
+      ],
+      "anchor": "Airport margin",
+      "rain": "A relaxed mainland breakfast is fine if based in Mestre. Do not add outer-island excursions."
+    }
+  ],
+  "root_html_actionable": [
+    "Replace the original English La Fenice event URL with https://www.teatrolafenice.it/event/musikamera-pavel-berman-e-maria-meerovitch/ .",
+    "Name worship entrance Porta dei Fiori (north side, Piazzetta dei Leoncini); tourist entrance Porta San Pietro.",
+    "Give Sunday St. Mark's hours 14:00–17:15, last admission 16:45; Frari 13:00–18:00, last admission 17:30. Adult basic tickets €10/€8 respectively.",
+    "Include €35/48 hours and €45/72 hours, airport and train exclusions; ACTV airport ticket €10 or a €7 supplement bought with the pass. ATVO is a separate operator.",
+    "State no access fee or exemption registration for 24–26 October under official 2026 rules.",
+    "Optional: La Traviata is Italian without subtitles. Read a synopsis beforehand. The palace has 30 stairs and no lift. Save exact last return connections rather than assuming Line 1 runs all night.",
+    "Make San Giorgio timing conditional if choosing Frari: the cross-city transfer takes longer than the St. Mark's branch. Dorsoduro waterfront is a more relaxed alternative."
+  ],
+  "unresolved": [
+    "Exact 'Corso Venezia' property/address and nearest stop, including whether it is Mestre.",
+    "Train departure 24 Oct and ticketed arrival station; train schedules supplied by user were not independently validated in this subtask.",
+    "Opera response/actual seats/final start time; chamber concert availability/price.",
+    "Sunday special liturgical exceptions, tide/weather, day-specific ACTV alerts, and late return services.",
+    "Exact flight number and airline baggage/check-in rules."
+  ]
+}

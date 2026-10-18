@@ -1,0 +1,34 @@
+# Only reviewed static-site files are public.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/style.css
+!/planner.css
+!/script.js
+!/planner.js
+!/walks-data.js
+!/budget-data.js
+!/README.md
+!/assets/
+/assets/*
+!/assets/varenna.jpg
+!/research/
+/research/*
+!/research/italy.json
+!/research/swiss.json
+!/research/venice.json
+!/research/food-italy.json
+!/research/food-swiss-frankfurt.json
+!/research/food-music-venice.json
+!/research/walking-method.json
+
+# Local secrets and credentials must remain private.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*

@@ -1,0 +1,24 @@
+{
+  "checkedOn": "2026-10-18",
+  "method": "FOSSGIS OSRM pedestrian network routes, full GeoJSON; measured parts only, not guaranteed daily totals.",
+  "routingService": "https://routing.openstreetmap.de/",
+  "routingPolicy": "https://routing.openstreetmap.de/about.html",
+  "geocodingPolicy": "https://operations.osmfoundation.org/policies/nominatim/",
+  "attribution": "© OpenStreetMap contributors; pedestrian routing FOSSGIS / OSRM",
+  "mapFixUrl": "https://www.openstreetmap.org/fixthemap",
+  "rateLimit": "One-off sequential public landmarks, ≥1.15 seconds between requests; raw routes cached; no runtime requests.",
+  "timeModel": "4 km/h moving time only; add visits, rests, slopes, bridge steps and transfers.",
+  "exclusions": [
+    "Unknown hotel legs including Mestre versus Santa Lucia",
+    "Boat, bus, rail, taxi, funicular transfers",
+    "Interiors, garden circulation and wandering",
+    "Farm grounds and mountain paths"
+  ],
+  "limitations": [
+    "Network planning estimates, not live access guarantees. Closures, ice, private access and flooding override route.",
+    "Lakeshore shaping points are planning anchors snapped by OSRM.",
+    "Initial Pisani Gritti hotel geocode corrected to concert conservatory.",
+    "Santa Maria Pontresina coordinate: https://mapcarta.com/W268714113 (OSM-derived)."
+  ],
+  "missingRouteCases": []
+}

@@ -1,0 +1,149 @@
+{
+  "as_of": "2026-10-18",
+  "budget": {
+    "user_limit": "At most EUR 80 for two for one sit-down meal each day; other meals inexpensive. Music at most EUR 60 for two.",
+    "fx_from_root": "Root verified ECB 16 October 2026: EUR 1 = CHF 0.9272; EUR 80 = CHF 74.176. Use CHF 70 as a comfortable Swiss meal target before exchange/card variation.",
+    "fx_url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.ff.html",
+    "price_rules": "The item prices below are published menu prices checked today, not a guaranteed final bill. Computed baskets are for TWO. Allowances are explicitly estimates and are not restaurant quotations. No tips, transport, lifts or extra drinks are silently included. Do not assume free tap water: the Swiss menus charge for it."
+  },
+  "frankfurt_2026_10_18": {
+    "sitdown": {
+      "name": "Apfelwein Wagner",
+      "address": "Schweizer Strasse 71, 60594 Frankfurt am Main",
+      "why": "Traditional apple-wine tavern in Sachsenhausen: local green sauce and a convivial setting, without spending the whole meal budget.",
+      "published_hours": "11:00–00:00 daily on the restaurant's current homepage. Its weekly menu explicitly covers 12–18 October 2026. Kitchen closing time was not separately verified.",
+      "basket": [
+        {"item":"Frankfurter Schnitzel, green sauce and fried potatoes","quantity":1,"unit_eur":22.20},
+        {"item":"Green sauce, boiled organic eggs and fried potatoes","quantity":1,"unit_eur":15.50},
+        {"item":"Apple wine 0.3 L","quantity":2,"unit_eur":2.90},
+        {"item":"Still mineral water 0.75 L","quantity":1,"unit_eur":5.90}
+      ],
+      "computed_total_eur_for_two":49.40,
+      "optional_shared_dessert":{"item":"Warm apple strudel","eur":7.50,"new_total_for_two_eur":56.90},
+      "alcohol_free_swap":"Alcohol-free apple wine 0.3 L is EUR 3.10 each: add EUR 0.40 to the basket if replacing both regular apple wines.",
+      "booking":"The official website accepts reservations for two. Ask for an early 17:00 table if taking the 19:00 concert, but do not force both across an unknown arrival time.",
+      "source_ids":["wagner-home","wagner-food","wagner-drinks"]
+    },
+    "cheap_other_meal": {
+      "name":"Brezelbäckerei Ditsch, Frankfurt Hauptbahnhof",
+      "location":"Ground-floor pavilion opposite platform 14",
+      "published_hours":"DB's station page lists 24/7, including Sundays and holidays.",
+      "plan":"Buy pretzels or filled bakery snacks and fruit/water for a light meal; use a public riverside bench if dry, or eat at the hotel rather than occupying a restaurant table with outside food.",
+      "allowance_eur_for_two":"12–18",
+      "price_status":"Planning allowance only: outlet item prices were not published in the official station page.",
+      "source_ids":["frankfurt-ditsch"]
+    },
+    "music_optional": {
+      "title":"Misatango & Jüdische Kantate — Musik verbindet",
+      "date_time":"Sunday 18 October 2026, 19:00",
+      "venue":"Mozart Saal, Alte Oper Frankfurt",
+      "description":"Quartier Ensemble, conducted by composer Martin Palmeri; a Christian Mass and Jewish cantata with tango influences. About 1 hour 50 minutes including interval. This is particularly aligned with music and Christian-history interests.",
+      "published_price_bands_eur_per_person":[22,33,39],
+      "within_user_music_cap":"Only the EUR 22 band fits: EUR 44 for two before any booking fees. The EUR 33 band would exceed EUR 60 for two.",
+      "availability":"Published date/price verified; two remaining EUR 22 seats and any fees have not been verified. No booking made.",
+      "pacing":"Use only if arrival permits hotel drop-off and a relaxed 18:30 theatre arrival. Substitute it for part of the old-town/tavern evening rather than adding it to a full schedule. If hungry before the concert, a quick bakery meal is easier than crossing Sachsenhausen under time pressure; make the tavern a late lunch if arrival permits.",
+      "source_ids":["frankfurt-concert"]
+    }
+  },
+  "st_moritz_2026_10_20": {
+    "sitdown": {
+      "name":"Restaurant Hauser",
+      "address":"Via Traunter Plazzas 7, 7500 St. Moritz Dorf",
+      "published_hours":"Daily 07:00–22:00; kitchen to 21:00.",
+      "why":"Family-run restaurant with regional dishes priced well below a full mountain dinner. It requires a bus/walk from San Gian in Bad; combine it with the town/lake outing instead of assuming it is in the hotel.",
+      "basket": [
+        {"item":"Pizokels: Engadin spinach dumplings with cheese and dried beef","quantity":1,"unit_chf":26.50},
+        {"item":"Engadiner Rösti with melted cheese, raw ham and dried beef","quantity":1,"unit_chf":25.00},
+        {"item":"Still St. Moritz mountain spring water 1 L","quantity":1,"unit_chf":7.00}
+      ],
+      "computed_total_chf_for_two":58.50,
+      "optional_shared_dessert":{"item":"Tiramisu","chf":9.50,"new_total_chf_for_two":68.00},
+      "price_note":"These are prices from the current linked SUMMER 2026 EVENING menu. The separate lunch menu lists Pizokels at CHF 24.50; do not mix lunch and evening prices. No wine or additional drinks included. Confirm the menu remains applicable on arrival.",
+      "source_ids":["hauser-home","hauser-dinner"]
+    },
+    "cheap_other_meal": {
+      "plan":"Pack breakfast from Milan for the early train, then buy a simple supermarket lunch or supper: bread, cheese or hummus, fruit and drinking water. San Gian's breakfast should be used only if included in the actual booking; its price/inclusion was not checked.",
+      "allowance_chf_for_two":"18–25",
+      "price_status":"Grocery spending target, not a priced fixed basket or guaranteed stock.",
+      "closest_researched_shop":"Coop St. Moritz Bellevue, Via dal Bagn 18, near the Bad side of town.",
+      "opening_caveat":"The official Bellevue locator shows dated regular weekday hours of 08:00–19:00 but also a generic 'temporarily closed' footer. Its output is internally inconsistent, so do not promise 20/21 October opening. Ask hotel reception or telephone the store (+41 81 837 56 60) before relying on it; buy food earlier if needed.",
+      "source_ids":["coop-bellevue"]
+    }
+  },
+  "st_moritz_2026_10_21": {
+    "sitdown": {
+      "name":"La Stalla",
+      "address":"Plazza dal Mulin 2, 7500 St. Moritz Dorf",
+      "published_hours":"Daily 11:45–15:00 and 18:00–23:00.",
+      "preferred_slot":"Lunch around 12:00 before travelling to Pontresina; then mountain views with a hot drink and cheap supper afterwards. This gives regional food, a church interior and mountain scenery without paying for a large mountain dinner.",
+      "regional_basket": [
+        {"item":"Capuns","quantity":1,"unit_chf":29.50},
+        {"item":"Pizzoccheri della Valtellina","quantity":1,"unit_chf":28.00},
+        {"item":"Tap water 1 L including service charge","quantity":1,"unit_chf":5.00}
+      ],
+      "computed_regional_total_chf_for_two":62.50,
+      "cheaper_basket":[
+        {"item":"Margherita pizza","quantity":2,"unit_chf":15.00},
+        {"item":"Tap water 1 L including service charge","quantity":1,"unit_chf":5.00}
+      ],
+      "computed_cheaper_total_chf_for_two":35.00,
+      "price_note":"Official current website links a 2025–2026 named menu. It retains an obsolete VAT footer, so confirm final displayed menu prices before ordering; both baskets have room under the CHF 70 target. The restaurant lists a CHF 4.50 charge for splitting one pizza over two plates; the baskets avoid that assumption. Fondue is CHF 38 per person before water, so it exceeds the meal cap for two.",
+      "fallback":"Hauser's verified CHF 58.50 evening basket can replace La Stalla if its posted menu differs or a table is unavailable. Do not schedule two paid sit-down meals.",
+      "source_ids":["lastalla-home","lastalla-menu"]
+    },
+    "cheap_other_meal": {
+      "name":"Coop Pontresina supermarket",
+      "address":"Via da Mulin 17, 7504 Pontresina",
+      "published_hours":"Pontresina tourist office lists regular Monday–Friday 08:00–19:00, Saturday 08:00–18:00, Sunday closed. Exact holiday/day exceptions still need checking.",
+      "plan":"Before the afternoon church visit, buy simple supper supplies, fruit and a small local cheese or walnut pastry if desired. Take them back to San Gian or use a designated public picnic spot when weather permits.",
+      "allowance_chf_for_two":"18–25",
+      "price_status":"Allowance only; no fixed product/stock claim.",
+      "source_ids":["coop-pontresina","pontresina-coop-hours"]
+    },
+    "low_cost_experiences":[
+      {"experience":"Short Lej da Staz or lake-side walk","cost":"No admission fee identified; local transport and any snack extra.","detail":"Use a dry, ice-free section, with larch colour a possibility. Official tourism identifies public picnic areas at Lake Staz, so this is a better-supported own-food location than restaurant tables.","source_ids":["lake-staz"]},
+      {"experience":"Santa Maria interior, Pontresina","cost":"The guided October 21 visit 17:00–17:30 is explicitly free; the self-visit 15:30–17:30 window is published, but no separate self-visit admission price is stated.","detail":"For views before dusk, choose a short self-visit at 15:30 and transfer to Muottas around 16:45/17:15. For local explanation choose the free guided visit and accept a later ascent or skip the mountain. No photography inside.","source_ids":["santa-maria"]},
+      {"experience":"Muottas Muragl viewpoint and one hot drink","cost":"Food/drink CHF 11 for two cafés crème, or CHF 12.40 for two mountain-herb teas; lift extra unless confirmed included.","detail":"Reserve no dinner by default. Confirm the San Gian pass first, ride up in the late afternoon, pause outdoors near the station when safe, and buy a drink at the café/restaurant. No public source found authorizes outside food on restaurant terraces; do not plan a picnic at their tables.","source_ids":["muottas-menu","muottas-drinks","muottas-hours","san-gian-benefit"]}
+    ]
+  },
+  "muottas_budget_audit": {
+    "dinner_menu_verification":"The new menu page initially displays Lunch in the web reader. Its publicly served page markup contains separate Dinner and Drinks tabs, retrieved read-only without executing scripts. Dinner-specific prices below come from that embedded public menu data, not from lunch prices.",
+    "dinner_items_chf":{"full_capuns_4_pieces":36.50,"small_capuns_2_pieces":25.50,"udon_noodles":29.50,"spaghetti":32.00,"vegan_delica_pumpkin":28.00,"veal_schnitzel":54.50,"still_water_77cl":9.70},
+    "test_baskets":[
+      {"items":"Full capuns + udon + 77 cl water","chf_for_two":75.70,"result":"Exceeds EUR 80 meal cap at supplied reference FX, before extras."},
+      {"items":"Two udon mains + 77 cl water","chf_for_two":68.70,"result":"Fits the CHF 70 food target if this exact menu remains available. Limited choice and no wine, dessert, coffee or lift included."},
+      {"items":"Two vegan pumpkin dishes + 77 cl water","chf_for_two":65.70,"result":"Menu-price arithmetic fits; confirm these are substantial main courses and actually available before treating this as a full dinner."}
+    ],
+    "recommendation":"Do not claim every mountain dinner is unaffordable. The pleasant default is valley lunch plus Muottas views/hot drink, protecting budget for music. A narrowly chosen vegetarian dinner can fit, but a flexible regional three-course dinner does not fit comfortably.",
+    "hot_drinks_chf":{"cafe_creme":5.50,"herbal_tea":6.20,"hot_chocolate":6.10},
+    "lift_published_2026":{"adult_return_before_18_chf":42.50,"two_adults_return_before_18_chf":85.00,"adult_return_from_18_chf":18.00,"two_adults_return_from_18_chf":36.00,"verification":"Official dated summer2026 price list corroborated by indexed PDF text; direct PDF fetch failed. Prices subject to change. The after18:00 ticket does not fund the earlier daylight ascent."},
+    "hotel_benefit":"San Gian's official site advertises free mountain railways and local public transport with summer stays of two nights or more. The user's stay qualifies by length, but actual booked-rate eligibility, issuance, October21 date validity and evening-return validity have not been individually confirmed. Reception must confirm Muottas Muragl and the intended return before the itinerary describes the lift as free. Do not buy a duplicate full-fare ticket before checking.",
+    "without_hotel_benefit":"For a low-cost day, skip the CHF85 two-adult daytime return and choose lake/village views. The CHF36 after18:00 return is cheaper, but gives much less daylight; do not present it as the same sunset experience.",
+    "picnic_rule":"No operator picnic/consumption policy found for Muottas. Restaurant/terrace seats are not assumed public picnic seating. Use confirmed public Lake Staz picnic areas in appropriate weather, eat in the valley beforehand, or take food back to the hotel. Do not recommend a long mountain walk solely to reach a picnic site in late October.",
+    "music_seasonality":"The official 2026 mountain map advertises Wednesday alphorn sunset apéritifs only July8–October14. October21 is outside that series; do not promise live alphorn music.",
+    "source_ids":["muottas-menu","muottas-drinks","muottas-lift-prices","muottas-hours","san-gian-benefit","muottas-map","lake-staz"]
+  },
+  "sources": [
+    {"id":"wagner-home","title":"Apfelwein Wagner — official website and opening hours","url":"https://www.apfelwein-wagner.com/","evidence":"Current homepage shows daily11:00–00:00; weekly menu12–18October2026 and table reservations."},
+    {"id":"wagner-food","title":"Apfelwein Wagner — current food menu","url":"https://www.apfelwein-wagner.com/speisen/","evidence":"FrankfurterSchnitzelEUR22.20; green sauce/eggs/potatoesEUR15.50; apple strudelEUR7.50. Use currentHTML, not indexed2022PDF."},
+    {"id":"wagner-drinks","title":"Apfelwein Wagner — current drinks menu","url":"https://www.apfelwein-wagner.com/getraenke/","evidence":"Applewine0.3LEUR2.90; alcohol-freeEUR3.10; stillwater0.75LEUR5.90."},
+    {"id":"frankfurt-ditsch","title":"Deutsche Bahn — Ditsch at Frankfurt Hauptbahnhof","url":"https://www.bahnhof.de/en/frankfurt-main-hbf/shopping-and-eating/brezelbaeckerei-ditsch","evidence":"Pavilion oppositeplatform14,24/7 includingSunday. Prices not published."},
+    {"id":"frankfurt-concert","title":"Alte Oper — Misatango & Jüdische Kantate, 18 October2026","url":"https://www.alteoper.de/de/programm/misatango-judische-kantate/19091","evidence":"19:00MozartSaal;EUR22/33/39;PalmeriChristianMass/JewishCantata;QuartierEnsemble;~1h50includinginterval. Seat availability not checked."},
+    {"id":"hauser-home","title":"Restaurant Hauser — official hours and menus","url":"https://hotelhauser.ch/en/restaurant/","evidence":"Daily07–22,kitchenuntil21; linksseparatedayandeveningmenus. Family-runrestaurantwithregionalspecialties."},
+    {"id":"hauser-dinner","title":"Hauser — currently linked summer2026 evening menu","url":"https://hotelhauser.ch/wp-content/uploads/2026/05/Sommer-2026Print-1.pdf","evidence":"PizokelsCHF26.50;EngadinerRöstiCHF25;stillmountainwater1LCHF7;tiramisuCHF9.50. PublishedmenupricesincludingVAT."},
+    {"id":"hauser-lunch","title":"Hauser — summer2026 daytime menu","url":"https://hotelhauser.ch/wp-content/uploads/2026/05/2026_Hauser_Menu_Sommer_A5_RZ_Einzelseiten_low.pdf","evidence":"DayPizokelsCHF24.50differsfromevening26.50. Do not use oldweeklymenu12–16OctoberasifitcoversOctober20/21."},
+    {"id":"lastalla-home","title":"La Stalla — official hours and current menu link","url":"https://www.lastalla-stmoritz.ch/","evidence":"Daily11:45–15:00and18:00–23:00;PlazzadalMulin2. Currentmenu linkpointsto2025–2026namedPDF."},
+    {"id":"lastalla-menu","title":"La Stalla — official linked2025–2026 menu","url":"https://lastalla-stmoritz.ch/wp-content/uploads/2025/12/Speisekarte-La-Stalla-Hemingways-2025-2026r.pdf","evidence":"CapunsCHF29.50;pizzoccheriCHF28;MargheritaCHF15;tapwater1LserviceCHF5;plainfondueCHF38/person;onepizzasplitontwoplatesCHF4.50. ObsoleteVATfooterretained;checkpostedpricesbeforeordering."},
+    {"id":"coop-bellevue","title":"Coop — St. Moritz Bellevue locator","url":"https://www.coop.ch/en/locations/coop-supermarkt-st.-moritz-bellevue/1987_POS","evidence":"ViadalBagn18;datedweekday08–19hoursbutcontradictorygenericclosedfooter. ExactOctober20/21openinginconclusive."},
+    {"id":"coop-pontresina","title":"Coop — Pontresina locator","url":"https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten/detail.html/1468/coop-supermarkt-pontresina.html","evidence":"ViadaMulin17,Pontresina,+41818388010."},
+    {"id":"pontresina-coop-hours","title":"Pontresina tourism — Coop opening hours","url":"https://www.pontresina.ch/de/guide/shopping/alle-geschaefte-im-ueberblick/coop-supermarkt-pontresina","evidence":"RegularMonday–Friday08–19,Saturday08–18,Sundayclosed."},
+    {"id":"muottas-menu","title":"Muottas Muragl — current official menu with Lunch/Dinner/Drinks tabs","url":"https://www.muottasmuragl.ch/en/restaurant/muottas-muragl-panorama-restaurant/menu","evidence":"DinnerandDrinkspricesreaddirectlyfrompubliclyservedtabdatainHTML;mainwebreaderonlyshowsLunch. Relevantdinnerpricesandbasketarithmeticareabove."},
+    {"id":"muottas-drinks","title":"Muottas Muragl — official drinks menu","url":"https://www.muottasmuragl.ch/de/essen-trinken/panoramarestaurant/getraenkekarte/","evidence":"CafécrèmeCHF5.50;teaCHF6.20;hotchocolateCHF6.10;stillwater77clCHF9.70. CorroboratedincurrentnewmenuembeddedDrinksdata."},
+    {"id":"muottas-lift-prices","title":"Muottas Muragl — published summer2026 tariff","url":"https://www.mountains.ch/fileadmin/user_upload/Bilddatenbank_HP/Organisation/Dokumente/Preislisten/Preisliste_Region_Muottas_Muragl_Sommer_2026_EN.pdf","evidence":"IndexedofficialdatedPDF:adultdayreturnCHF42.50;eveningreturnfrom18:00CHF18. Directfetchfailed;recheckcurrentfarewhenconfirminghotelpass."},
+    {"id":"muottas-hours","title":"Muottas Muragl — seasonal opening and food hours","url":"https://www.muottasmuragl.ch/en/directions-and-hours-of-operation","evidence":"SummerthroughOctober25;Scatla08–17;panoramicrestaurantlunch12–16,lightselection16–18,dinner18–21;seasonalfunicularuntillast23:00. Returnbustohotelmustbecheckedseparately."},
+    {"id":"san-gian-benefit","title":"Hotel San Gian — inclusions","url":"https://sangian.ch/en/","evidence":"FreeEngadinmountainrailways/localpublictransportwithsummerstaysof2+nights;freeOvaverva. NoindividuallyconfirmedOctober21eveningMuottasentitlement."},
+    {"id":"santa-maria","title":"Pontresina tourism — Santa Maria October21 tour and visiting hours","url":"https://www.pontresina.ch/en/events/guided-tour-of-the-church-of-st-maria-in-pontresina","evidence":"FreeguidedWednesdayOctober21visit17:00–17:30;weekdayself-visit15:30–17:30throughOctober23."},
+    {"id":"lake-staz","title":"Engadin tourism — Lake Staz and public picnic areas","url":"https://www.engadin.ch/en/guide/activities/nature/lake-staz","evidence":"Listsfreepicnicareas,sunloungersandforestlake;walking~50minutesfromCelerina.Currentice/weatherstatusnotverified."},
+    {"id":"muottas-map","title":"Muottas Muragl — official summer2026 mountain map","url":"https://www.muottasmuragl.ch/fileadmin/user_upload/Bilddatenbank_HP/Organisation/Dokumente/Panoramakarten/web_2026_Panoramakarte_MuottasMuragl_Sommer_504x420_Karte_vorne.pdf","evidence":"Wednesdayalphornsunsetapéritifdates8July–14October2026;October21outsidepublishedseries."}
+  ]
+}
