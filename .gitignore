@@ -32,3 +32,22 @@
 *.pfx
 credentials*
 secrets*
+# Revised static guide and individually reviewed reference photographs.
+!/revised/
+/revised/*
+!/revised/index.html
+!/revised/style.css
+!/revised/planner.css
+!/revised/revised.css
+!/revised/script.js
+!/revised/planner.js
+!/revised/maps.js
+!/revised/walks-data.js
+!/revised/budget-data.js
+!/revised/places.js
+!/assets/milan.jpg
+!/assets/stmoritz.jpg
+!/assets/verona.jpg
+!/assets/venice.jpg
+!/assets/giusti.jpg
+!/assets/segantini.jpg
