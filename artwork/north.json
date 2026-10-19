@@ -1,0 +1,359 @@
+{
+  "group": "north",
+  "tool": "builtinimagegen",
+  "inputPhotos": false,
+  "source": "Text-only manifest scenes and general landmark knowledge",
+  "sheetCount": 12,
+  "placeCount": 36,
+  "viewCount": 72,
+  "sheets": [
+    {
+      "id": "north-01",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW Milan Duomo: LEFT broad white Gothic cathedral with many pinnacles across public square; RIGHT low-angle side composition of carved marble portals, tiny couple quietly side by side on square. MIDDLE ROW San Giovanni alle Fonti: LEFT interpretive underground excavation with ancient masonry and octagonal baptismal footprint under cathedral; RIGHT close intimate study of brick and stone baptismal remains, no ceremony. BOTTOM ROW Duomo Museum: LEFT Palazzo Reale museum approach, low neoclassical palace frontage with cathedral beyond; RIGHT imagined museum stone-fragment display, isolated carved Gothic architectural fragments on plain plinths, no copied artworks.",
+      "generatedAt": "2026-10-19T05:26:51.289Z",
+      "output": "assets/watercolors/north/north-01.webp",
+      "sha256": "a071dde15b7047968efb3832ab1d29b24a5a96e2135b0ae81cd04b72fa2d0d7b",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "duomo",
+        "san-giovanni-fonti",
+        "duomo-museum"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    },
+    {
+      "id": "north-02",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW Sant'Ambrogio Milan: LEFT Romanesque brick basilica through arcaded atrium, twin unequal towers; RIGHT oblique close brick arches with quiet adult couple standing in outer courtyard. MIDDLE ROW San Lorenzo Maggiore Milan: LEFT ancient Roman colonnade before broad basilica dome; RIGHT perspective along stone columns toward dome, strongly different diagonal composition. BOTTOM ROW Galleria Vittorio Emanuele II Milan: LEFT grand glass-vaulted arcade cross meeting space at pedestrian eye level; RIGHT dramatic upward close iron-and-glass roof and ornamental warm stone walls. Looser luminous painted washes, never photographic rendering.",
+      "generatedAt": "2026-10-19T05:29:10.185Z",
+      "output": "assets/watercolors/north/north-02.webp",
+      "sha256": "e3b76d2801f704713d82d49568314da3698124db340e3c70fb34c53addfdd526",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "sant-ambrogio",
+        "san-lorenzo",
+        "galleria"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    },
+    {
+      "id": "north-03",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW Piazza della Scala Milan: LEFT wide square facing understated cream neoclassical La Scala theatre exterior; RIGHT planted centre with monument silhouette and civic facades from different direction. MIDDLE ROW Castello Sforzesco: LEFT red brick Milan castle front and tall central Filarete tower; RIGHT oblique interior courtyard brick arcades and tower detail. BOTTOM ROW Parco Sempione: LEFT wide golden autumn park paths and lawns behind castle; RIGHT intimate close golden leaves above generic couple walking together on clear park path, castle only distant. Paint in watercolor, visible paper and pooled pigments.",
+      "generatedAt": "2026-10-19T05:29:11.120Z",
+      "output": "assets/watercolors/north/north-03.webp",
+      "sha256": "5f58d8ac856e1f6b464562d0796caaab30c373de0823b1faaeb67e370a45f922",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "scala-square",
+        "sforza",
+        "sempione"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    },
+    {
+      "id": "north-04",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW Arco della Pace Milan: LEFT white three-opening triumphal arch at end of green park vista, bronze horses silhouette; RIGHT oblique close arch columns and sculptural silhouette against blue wash. MIDDLE ROW Pinacoteca Ambrosiana Milan: LEFT modest historic palace entrance in small city square; RIGHT imagined quiet museum corridor with empty blank frames, warm diffused light, no copied art. BOTTOM ROW Risoelatte Duomo imagined restaurant: LEFT warm retro Milan supper table, two seated adults facing each other holding hands beside saffron risotto and ossobuco plates; RIGHT completely different overhead still life of saffron rice and shared tiramisu on patterned plain crockery, no people, no writing. Watercolor all six cells.",
+      "generatedAt": "2026-10-19T05:31:25.024Z",
+      "output": "assets/watercolors/north/north-04.webp",
+      "sha256": "6e1899ea86b317aa9370717eb0ee5a35a2a0d9555f14f18144b0808952805681",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "arco-pace",
+        "ambrosiana",
+        "risoelatte"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    },
+    {
+      "id": "north-05",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW Spontini Duomo imagined Milan pizza counter: LEFT informal bright counter scene with thick pizza slices and simple stools, no signage; RIGHT close still life two thick Margherita slices in plain takeaway trays, oblique tabletop. MIDDLE ROW Il Luogo Aimo e Nadia imagined fine dining: LEFT serene refined Milan room with two-place table, seasonal small dishes, generic adult couple seated facing each other hands briefly touching beside plates; RIGHT intimate close carefully plated vegetable course and clear water glasses, no exact menu claim. BOTTOM ROW Villa Cipressi Varenna: LEFT terraced Lake Como garden cypresses descending to blue lake and mountains; RIGHT distinct stone garden steps under foliage with small lake glimpse, stronger close diagonal perspective. No venue facades claimed verified.",
+      "generatedAt": "2026-10-19T05:31:25.927Z",
+      "output": "assets/watercolors/north/north-05.webp",
+      "sha256": "48d2ae327c15a9a6328b68491ec35de644c5cb4652dd1cf734b5125df50b5396",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "spontini",
+        "aimo",
+        "cipressi"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    },
+    {
+      "id": "north-06",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW Castello di Vezio: LEFT medieval rough stone square tower high above Varenna and Lake Como; RIGHT close low-angle tower masonry through olive foliage, no lake panorama duplication. MIDDLE ROW Bellagio: LEFT promontory and pastel waterfront across lake, distant layered mountains; RIGHT intimate stepped lane uphill between pastel town buildings with flower pots, no waterfront. BOTTOM ROW Menaggio: LEFT long public lakefront promenade with mountains across blue water; RIGHT close flower-filled lakeside foreground and pastel townfront arcades, distinctly different direction and scale. No signs or lettering.",
+      "generatedAt": "2026-10-19T05:35:14.037Z",
+      "output": "assets/watercolors/north/north-06.webp",
+      "sha256": "c86d42f5679026f243857c8109316ef406940974bdb098e6cbf6825b7f27694d",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "vezio",
+        "bellagio",
+        "menaggio"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    },
+    {
+      "id": "north-07",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW Victoria Grill imagined Varenna restaurant: LEFT square-facing table and two adults seated facing each other, perch risotto, pale yellow town square glimpse, no verified facade; RIGHT overhead two pizzas on plain white plates and water, warm checker tablecloth. MIDDLE ROW ALMA Bistrot imagined small Varenna bistro: LEFT intimate turquoise-and-lake-blue bistro meal setting, small tables and softly glowing window; RIGHT close side-on pizza and two tall water glasses on small blue table, composition unlike overhead row above. BOTTOM ROW La Vineria Verona imagined: LEFT hillside vineyard lodging rustic ochre building among vine rows, exact property unknown, distant city; RIGHT separate close wine-tasting still life two modest glasses red wine and vine leaves on rustic timber with blurred vineyard.",
+      "generatedAt": "2026-10-19T05:35:14.953Z",
+      "output": "assets/watercolors/north/north-07.webp",
+      "sha256": "a8f41de33f5ae91da7cf9f79731ab77ae7fed28211d1bd5f84274b28edc3948c",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "victoria",
+        "alma",
+        "la-vineria"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    },
+    {
+      "id": "north-08",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW Corte San Mattia Verona imagined farm dinner: LEFT rustic hill terrace at dusk, two seated adults facing each other beside tagliatelle and local wine, vines and distant town; RIGHT close overhead goat cheese and two plates ribbon pasta, linen and herbs. MIDDLE ROW Castel San Pietro public terrace Verona: LEFT broad elevated view terracotta rooftops and curving Adige with bridge below, foreground terrace unobtrusive; RIGHT reverse direction up public hill path to ochre castle building, tiny couple standing safely off path centre. BOTTOM ROW Ponte Pietra Verona: LEFT full Roman stone bridge five varied arches over green-blue Adige, stone and brick, hillside town beyond; RIGHT close oblique single arch and river reflection, generic couple on riverside path, not bridge parapet. Six separate paintings.",
+      "generatedAt": "2026-10-19T05:39:22.806Z",
+      "output": "assets/watercolors/north/north-08.webp",
+      "sha256": "09d1babb07b9468b22638342d4dc8ba4969b7ed09fdba57513fa71a2698ce19a",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "corte-mattia",
+        "san-pietro",
+        "ponte-pietra"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    },
+    {
+      "id": "north-09",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW Piazza delle Erbe Verona: LEFT long historic square colorful facades, soft market canopy shapes and tall Lamberti tower; RIGHT upward close fresco-coloured facades and tower silhouette, no readable signs. MIDDLE ROW Piazza dei Signori Verona: LEFT enclosed Renaissance civic square with pale central Dante monument silhouette, loggia facade; RIGHT close stone arcade framing central monument from shade, distinct intimate composition. BOTTOM ROW Giardino Giusti Verona: LEFT formal garden cypress avenue and clipped geometric parterre hedges, long central perspective; RIGHT close garden steps diagonally climbing beside sculpted hedge patterns, generic adult couple paused safely on broad path. All genuine painted pigment, paper grain.",
+      "generatedAt": "2026-10-19T05:39:23.733Z",
+      "output": "assets/watercolors/north/north-09.webp",
+      "sha256": "f57ed34ddd5ba115706e4c1a6445a5d75aeb37d26358b9b386264b56a5926867",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "erbe",
+        "signori",
+        "giusti"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    },
+    {
+      "id": "north-10",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW San Zeno Maggiore Verona: LEFT Romanesque warm stone basilica facade with great rose window and tall detached brick bell tower from square; RIGHT close rose window and projecting columned portal, no copied sacred artworks. MIDDLE ROW Castelvecchio Verona: LEFT red brick castle beside Adige, fortified walls and towers; RIGHT distinct interior courtyard approach with angular battlements and museum entrance, generic adult couple standing safely on public path. BOTTOM ROW Ponte Scaligero: LEFT broad red brick fortified bridge with three large arches spanning Adige, different composition from castle above; RIGHT view along bridge pedestrian walkway between tall swallowtail crenellated parapets, central vanishing perspective, nobody climbing. Luminous watercolor washes.",
+      "generatedAt": "2026-10-19T05:41:53.244Z",
+      "output": "assets/watercolors/north/north-10.webp",
+      "sha256": "940f68c7309040407b68824c0574eea434f1f756c38b731f6dff617589adf40b",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "san-zeno",
+        "castelvecchio",
+        "ponte-scaligero"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    },
+    {
+      "id": "north-11",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW Arena di Verona: LEFT Roman oval amphitheatre exterior multiple tiers of arches beside Piazza Bra, pink-white weathered stone; RIGHT separate interior oval bowl and rising stone seating viewed from ordinary visitor area, open sky. MIDDLE ROW Piazza Bra: LEFT broad square public lawns and cafes beside distant Arena, panoramic garden composition; RIGHT close garden path with civic facades beyond and two generic adults standing side by side, warm autumn planting. BOTTOM ROW Verona Porta Nuova railway station: LEFT broad public forecourt facing low rationalist cream station frontage, no signs or letters; RIGHT separate close perspective along platform canopy, luggage silhouettes and tiny travellers at safe distance from platform edge, no logos, no readable railway boards.",
+      "generatedAt": "2026-10-19T05:41:54.191Z",
+      "output": "assets/watercolors/north/north-11.webp",
+      "sha256": "1ef97804e660aff31442785aedbb022a50d6962b4b3b91cc496be83baf24e56b",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "arena",
+        "piazza-bra",
+        "verona-station"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    },
+    {
+      "id": "north-12",
+      "tool": "builtinimagegen",
+      "inputPhotos": false,
+      "prompt": "Use case: illustration-story. Create one ORIGINAL watercolor travel-journal atlas, portrait 2:3 canvas 1024x1536 or 2048x3072. SIX independent square paintings arranged exact TWO COLUMNS THREE ROWS, each cell exactly half width and one third height. Edge-to-edge full canvas, no margins, no gutters, straight invisible seams, no panel bleed. Every panel composed for separate CSS square crop, focal subjects away from edges. Genuine transparent watercolor pigment washes, wet edges, granulation and cold-pressed paper texture, expressive human brushwork, warm autumn travel mood. No photo inputs, no photo-filter look, no artist imitation. No words, letters, labels, captions, signs, logos, watermarks or signatures anywhere. Two distinct views per place, never recoloring or repeating composition. Broad landmark architecture recognizable, interiors and restaurants interpretive/imagined, no claim of verified property appearance. Generic unidentified adult couple only where described; safe permitted walking ground, never on monuments or railings. TOP ROW La Bottega della Gina XXL Verona imagined pasta shop: LEFT bright humble takeaway counter with folded fresh tortelloni on wooden trays, no signage; RIGHT overhead close mixed filled pasta in two plain bowls on flour-dusted light table. MIDDLE ROW Trattoria Al Pompiere Verona imagined dining: LEFT traditional warm brick-and-timber dinner table with regional pasta and shared dessert, generic adult couple facing each other holding hands briefly beside plates; RIGHT close oblique regional pasta, folded linen napkins and two modest wine glasses, no people. BOTTOM ROW Il Desco Verona imagined refined tasting menu: LEFT restrained elegant warm-stone room and linen table set for two, tiny seasonal dishes, no claim of exact interior/menu; RIGHT close artistic seasonal plated course with delicate vegetables, broad white plate, abstractly imagined ingredients and glass rim. Three clearly different dining atmospheres, no duplicated compositions.",
+      "generatedAt": "2026-10-19T05:43:25.228Z",
+      "output": "assets/watercolors/north/north-12.webp",
+      "sha256": "1f3a7dac2dd5ab63391f0f2a18c2f4f347471b59a4a41b804513b7950d1dd71a",
+      "width": 1024,
+      "height": 1536,
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "gina",
+        "pompiere",
+        "desco"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "distinctViews": true,
+        "noVisibleTextLogosSignatures": true
+      },
+      "encoding": {
+        "format": "webp",
+        "quality": 92,
+        "contentPreserving": true
+      }
+    }
+  ]
+}

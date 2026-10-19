@@ -1,0 +1,333 @@
+{
+  "group": "alps",
+  "tool": "builtin-imagegen",
+  "inputPhotos": [],
+  "reencoding": "Content-preserving PNG to WebP, Sharp quality 92; no crop, resize or effects",
+  "sheets": [
+    {
+      "id": "alps-01",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Original watercolor travel-journal atlas, portrait 2:3 canvas (1024x1536 or larger), EXACT TWO COLUMNS AND THREE ROWS of six equal SQUARE paintings touching edge to edge. Boundaries precisely at half width and one-third/two-thirds height; NO gutters, margins, borders, labels or captions. Every panel is independently composed, not crops or variations of one image. Hand-painted wet pigment washes, granulation, visible cold-press paper texture, loose luminous detail and soft bleeding edges within panels, warm autumn travel journal. No photographs or photographic rendering, no artist imitation, no text/logos/watermarks/signatures. All locations broad interpretive factual landscape/architecture. Top row Varenna Lake Como: LEFT colorful waterfront houses beneath steep green slopes seen across water; RIGHT entirely separate low waterside composition at old harbor with small moored boats. Middle row Varenna-Esino station: LEFT small lakeside-town railway station and platforms from public approach; RIGHT different close view of rails curving toward wooded Lake Como slopes, no readable signs. Bottom row Varenna ferry landing: LEFT ferry approaching landing against lake mountains; RIGHT different shore-side composition focusing on pier posts and boarding shelter. Keep these six pictures clearly different.",
+      "path": "assets/watercolors/alps/alps-01.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "varenna",
+        "varenna-station",
+        "varenna-ferry"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "f0283837fd3879ba98d09fc94c447c95efbd7d0db52ca0e6d85c3b43c33e1ef5",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:26:55.855Z",
+      "bytes": 839730
+    },
+    {
+      "id": "alps-02",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Generate one ORIGINAL watercolor travel journal atlas. Portrait 2:3 canvas 1024x1536, EXACTLY TWO COLUMNS by THREE ROWS of SIX equal SQUARE independent paintings, edge-to-edge. Straight panel divisions at half width and one-third/two-thirds height. ZERO gutters, margins, borders, labels, captions. Each painting must have a different independent composition, never repeated crops. Authentic luminous watercolor pigment washes, granulation, cold-press paper texture, soft blooms, autumn light. No photographic rendering, artist imitation, input photos, text, logos, watermark or signatures. Broad factual architecture/landscape; explicitly imagined venues are atmospheric inventions, not exact interiors. Generic unidentified adult couple only where specified. TOP ROW (San Giorgio, Varenna): LEFT Varenna church and bell tower facing the village square; RIGHT Oblique close view of stone portal and a couple standing aside in the square.\nMIDDLE ROW (San Giovanni Battista, Varenna): LEFT Small old stone church on Varenna's square; RIGHT Distinct close view of weathered stone entrance and narrow church windows.\nBOTTOM ROW (Albergo Milano): LEFT Interpretive Varenna hillside lodging setting overlooking Lake Como, appearance unverified; RIGHT Distinct imagined breakfast table with lake colours beyond, no claim of an actual terrace.",
+      "path": "assets/watercolors/alps/alps-02.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "san-giorgio-varenna",
+        "san-giovanni-varenna",
+        "albergo-milano"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "af948c2dbc7fef5b793f46e2b49c44a9db64b096dec77791256d32ba2b720005",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:28:07.029Z",
+      "bytes": 770962
+    },
+    {
+      "id": "alps-03",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Generate one ORIGINAL watercolor travel journal atlas. Portrait 2:3 canvas 1024x1536, EXACTLY TWO COLUMNS by THREE ROWS of SIX equal SQUARE independent paintings, edge-to-edge. Straight panel divisions at half width and one-third/two-thirds height. ZERO gutters, margins, borders, labels, captions. Each painting must have a different independent composition, never repeated crops. Authentic luminous watercolor pigment washes, granulation, cold-press paper texture, soft blooms, autumn light. No photographic rendering, artist imitation, input photos, text, logos, watermark or signatures. Broad factual architecture/landscape; explicitly imagined venues are atmospheric inventions, not exact interiors. Generic unidentified adult couple only where specified. TOP ROW (Villa Monastero): LEFT Long lakeside villa garden with cypress trees and Lake Como beyond; RIGHT Separate close view of garden balustrade, flowering pots and villa exterior.\nMIDDLE ROW (Lake St. Moritz): LEFT Alpine lake below St. Moritz town with autumn larches; RIGHT Separate low shoreline view with reeds and mountain reflections.\nBOTTOM ROW (Hotel San Gian): LEFT Interpretive St. Moritz Bad lodging approach, exact hotel architecture unverified; RIGHT Separate imagined quiet hotel breakfast setting with Alpine colours.",
+      "path": "assets/watercolors/alps/alps-03.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "monastero",
+        "st-moritz-lake",
+        "san-gian"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "664466516eb35ab74a179b8af2111acf473c019714a569939ea2f0320e548db6",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:29:12.194Z",
+      "bytes": 799404
+    },
+    {
+      "id": "alps-04",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Generate one ORIGINAL watercolor travel journal atlas. Portrait 2:3 canvas 1024x1536, EXACTLY TWO COLUMNS by THREE ROWS of SIX equal SQUARE independent paintings, edge-to-edge. Straight panel divisions at half width and one-third/two-thirds height. ZERO gutters, margins, borders, labels, captions. Each painting must have a different independent composition, never repeated crops. Authentic luminous watercolor pigment washes, granulation, cold-press paper texture, soft blooms, autumn light. No photographic rendering, artist imitation, input photos, text, logos, watermark or signatures. Broad factual architecture/landscape; explicitly imagined venues are atmospheric inventions, not exact interiors. Generic unidentified adult couple only where specified. TOP ROW (St. Moritz station): LEFT Alpine railway station beside the town and lake; RIGHT Separate platform perspective with red train and mountain backdrop.\nMIDDLE ROW (Pontresina station): LEFT Mountain railway junction at Pontresina with red trains and forest; RIGHT Separate view along a public platform toward valley slopes.\nBOTTOM ROW (Santa Maria church, Pontresina): LEFT Small hillside church above Pontresina with stone tower and valley slopes; RIGHT Separate close view of church entrance and surrounding grassy path.",
+      "path": "assets/watercolors/alps/alps-04.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "stmoritz-station",
+        "pontresina-station",
+        "santa-maria"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "ae8a18ea121dd94d733c63250c0f74a8d3cb7d819b059c627c7462ac132c5af7",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:30:18.105Z",
+      "bytes": 845132
+    },
+    {
+      "id": "alps-05",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Generate one ORIGINAL watercolor travel journal atlas. Portrait 2:3 canvas 1024x1536, EXACTLY TWO COLUMNS by THREE ROWS of SIX equal SQUARE independent paintings, edge-to-edge. Straight panel divisions at half width and one-third/two-thirds height. ZERO gutters, margins, borders, labels, captions. Each painting must have a different independent composition, never repeated crops. Authentic luminous watercolor pigment washes, granulation, cold-press paper texture, soft blooms, autumn light. No photographic rendering, artist imitation, input photos, text, logos, watermark or signatures. Broad factual architecture/landscape; explicitly imagined venues are atmospheric inventions, not exact interiors. Generic unidentified adult couple only where specified. TOP ROW (Pontresina): LEFT Engadin village street with Alpine houses and wooded slopes; RIGHT Separate close view of traditional plaster details and autumn plants.\nMIDDLE ROW (Lej da Staz): LEFT Small forest lake ringed by larches below Engadin peaks; RIGHT Separate close view of still water, reeds and a wooden shore walkway.\nBOTTOM ROW (Segantini Museum): LEFT Domed stone museum above St. Moritz in Alpine light; RIGHT Separate close view of domed roof and stone entrance, no painting reproductions.",
+      "path": "assets/watercolors/alps/alps-05.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "pontresina",
+        "staz",
+        "segantini"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "3507c1951371d0583d41b6a05ebb7bf33e365406d1af24add28e448da603fa2e",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:31:27.061Z",
+      "bytes": 866314
+    },
+    {
+      "id": "alps-06",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Generate one ORIGINAL watercolor travel journal atlas. Portrait 2:3 canvas 1024x1536, EXACTLY TWO COLUMNS by THREE ROWS of SIX equal SQUARE independent paintings, edge-to-edge. Straight panel divisions at half width and one-third/two-thirds height. ZERO gutters, margins, borders, labels, captions. Each painting must have a different independent composition, never repeated crops. Authentic luminous watercolor pigment washes, granulation, cold-press paper texture, soft blooms, autumn light. No photographic rendering, artist imitation, input photos, text, logos, watermark or signatures. Broad factual architecture/landscape; explicitly imagined venues are atmospheric inventions, not exact interiors. Generic unidentified adult couple only where specified. TOP ROW (Forum Paracelsus): LEFT Interpretive spa-history pavilion setting at St. Moritz Bad; RIGHT Separate archaeological-spring display vignette with old timber and mineral-water colours.\nMIDDLE ROW (Ovaverva): LEFT Interpretive modern Alpine pool-building exterior at St. Moritz Bad; RIGHT Separate imagined quiet poolside water reflection, no exact interior claim or identifiable bathers.\nBOTTOM ROW (Muottas Muragl): LEFT Panorama of Upper Engadin lakes from a developed mountain viewpoint; RIGHT Separate close view of red funicular near its summit station with distant peaks.",
+      "path": "assets/watercolors/alps/alps-06.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "paracelsus",
+        "ovaverva",
+        "muottas"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "a5f879315adeb5c0425b989378a36a74d9aca4df86aee1c5b03886d4b1dd66b9",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:32:45.122Z",
+      "bytes": 791830
+    },
+    {
+      "id": "alps-07",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Generate one ORIGINAL watercolor travel journal atlas. Portrait 2:3 canvas 1024x1536, EXACTLY TWO COLUMNS by THREE ROWS of SIX equal SQUARE independent paintings, edge-to-edge. Straight panel divisions at half width and one-third/two-thirds height. ZERO gutters, margins, borders, labels, captions. Each painting must have a different independent composition, never repeated crops. Authentic luminous watercolor pigment washes, granulation, cold-press paper texture, soft blooms, autumn light. No photographic rendering, artist imitation, input photos, text, logos, watermark or signatures. Broad factual architecture/landscape; explicitly imagined venues are atmospheric inventions, not exact interiors. Generic unidentified adult couple only where specified. TOP ROW (Diavolezza): LEFT High Alpine glacier panorama toward Bernina mountains from visitor terrace; RIGHT Separate view of cable-car cabin approaching a rocky mountain station.\nMIDDLE ROW (St. Moritz Dorf): LEFT Alpine town streets above the lake at St. Moritz Dorf; RIGHT Separate close view of town steps and mountain-coloured building fronts.\nBOTTOM ROW (St. Moritz Design Gallery): LEFT Interpretive pedestrian passage and lake escalator in St. Moritz; RIGHT Separate close perspective of exhibition panels with abstract blank colour fields, no copied artworks.",
+      "path": "assets/watercolors/alps/alps-07.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "diavolezza",
+        "dorf",
+        "design-gallery"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "6438345f7f4e5c7846cdf0552a524b8bc0237bd53d06ccddda8af9d6b5f53daf",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:33:36.398Z",
+      "bytes": 672788
+    },
+    {
+      "id": "alps-08",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Generate one ORIGINAL watercolor travel journal atlas. Portrait 2:3 canvas 1024x1536, EXACTLY TWO COLUMNS by THREE ROWS of SIX equal SQUARE independent paintings, edge-to-edge. Straight panel divisions at half width and one-third/two-thirds height. ZERO gutters, margins, borders, labels, captions. Each painting must have a different independent composition, never repeated crops. Authentic luminous watercolor pigment washes, granulation, cold-press paper texture, soft blooms, autumn light. No photographic rendering, artist imitation, input photos, text, logos, watermark or signatures. Broad factual architecture/landscape; explicitly imagined venues are atmospheric inventions, not exact interiors. Generic unidentified adult couple only where specified. TOP ROW (Val Roseg): LEFT Broad Alpine valley with larch forest and braided river; RIGHT Separate close view of river stones and golden larch beside an easy forest path.\nMIDDLE ROW (Celerina): LEFT Engadin village amid broad valley and mountains; RIGHT Separate close view of traditional sgraffito-style house decoration without copied exact motifs.\nBOTTOM ROW (Cristolais): LEFT Rolling Engadin hillside path between Celerina and Samedan; RIGHT Separate close view of meadow edge and autumn larches on a valley path.",
+      "path": "assets/watercolors/alps/alps-08.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "roseg",
+        "celerina",
+        "cristolais"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "ff7d1e1a551db44866faa809f48e5684b5f47e067fc2e77ab07bc66e19072983",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:34:42.341Z",
+      "bytes": 848432
+    },
+    {
+      "id": "alps-09",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Generate one ORIGINAL watercolor travel journal atlas. Portrait 2:3 canvas 1024x1536, EXACTLY TWO COLUMNS by THREE ROWS of SIX equal SQUARE independent paintings, edge-to-edge. Straight panel divisions at half width and one-third/two-thirds height. ZERO gutters, margins, borders, labels, captions. Each painting must have a different independent composition, never repeated crops. Authentic luminous watercolor pigment washes, granulation, cold-press paper texture, soft blooms, autumn light. No photographic rendering, artist imitation, input photos, text, logos, watermark or signatures. Broad factual architecture/landscape; explicitly imagined venues are atmospheric inventions, not exact interiors. Generic unidentified adult couple only where specified. TOP ROW (Samedan): LEFT Engadin village roofs against broad mountain slopes; RIGHT Separate street-level view of traditional houses and an open public square.\nMIDDLE ROW (Gravatscha Innauen): LEFT Wetland ponds and flat valley paths near Samedan; RIGHT Separate low view of reeds, river stones and reflected autumn sky.\nBOTTOM ROW (Sils): LEFT Engadin village between lakes with mountain backdrop; RIGHT Separate close view of village lane and autumn garden walls.",
+      "path": "assets/watercolors/alps/alps-09.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "samedan",
+        "gravatscha",
+        "sils"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "f74c1b334d68e706146260231eca679413c3ead6e87b879f4a77b4a6f24bd4bd",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:35:28.649Z",
+      "bytes": 839500
+    },
+    {
+      "id": "alps-10",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Generate one ORIGINAL watercolor travel journal atlas. Portrait 2:3 canvas 1024x1536, EXACTLY TWO COLUMNS by THREE ROWS of SIX equal SQUARE independent paintings, edge-to-edge. Straight panel divisions at half width and one-third/two-thirds height. ZERO gutters, margins, borders, labels, captions. Each painting must have a different independent composition, never repeated crops. Authentic luminous watercolor pigment washes, granulation, cold-press paper texture, soft blooms, autumn light. No photographic rendering, artist imitation, input photos, text, logos, watermark or signatures. Broad factual architecture/landscape; explicitly imagined venues are atmospheric inventions, not exact interiors. Generic unidentified adult couple only where specified. TOP ROW (Chastè peninsula): LEFT Wooded peninsula projecting into Lake Sils; RIGHT Separate close view of shore rocks and larch branches reflected in lake water.\nMIDDLE ROW (Surlej): LEFT Village below Corvatsch slopes beside Upper Engadin lakes; RIGHT Separate view of a forest path leaving the village toward the small lakes.\nBOTTOM ROW (Lej Nair): LEFT Small dark forest lake surrounded by Alpine pines; RIGHT Separate close view of dark water, fallen leaves and wooded shore.",
+      "path": "assets/watercolors/alps/alps-10.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "chaste",
+        "surlej",
+        "lej-nair"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "b9a47447bd63781ce23af377238c5d2390115ddc88566e3a5fbe9fea548420b7",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:36:48.676Z",
+      "bytes": 844948
+    },
+    {
+      "id": "alps-11",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Generate one ORIGINAL watercolor travel journal atlas. Portrait 2:3 canvas 1024x1536, EXACTLY TWO COLUMNS by THREE ROWS of SIX equal SQUARE independent paintings, edge-to-edge. Straight panel divisions at half width and one-third/two-thirds height. ZERO gutters, margins, borders, labels, captions. Each painting must have a different independent composition, never repeated crops. Authentic luminous watercolor pigment washes, granulation, cold-press paper texture, soft blooms, autumn light. No photographic rendering, artist imitation, input photos, text, logos, watermark or signatures. Broad factual architecture/landscape; explicitly imagined venues are atmospheric inventions, not exact interiors. Generic unidentified adult couple only where specified. TOP ROW (Lej Marsch): LEFT Small Engadin lake with reeds and open mountain light; RIGHT Separate close composition of reed beds and shore stones.\nMIDDLE ROW (Museum Alpin Pontresina): LEFT Interpretive historic Engadin museum-house approach in Pontresina; RIGHT Separate mountaineering-history still life of old boots, rope and a plain map, no exact display claim.\nBOTTOM ROW (Restaurant Hauser): LEFT Imagined Alpine restaurant table with pizokels and rösti; RIGHT Distinct overhead close still life of regional dumplings and crisp potato rösti.",
+      "path": "assets/watercolors/alps/alps-11.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "lej-marsch",
+        "museum-alpin",
+        "hauser"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "bd8a30f36c0d7830503dceb733ea4fac07c4e9de78e924e0eb6c20d8d95a879d",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:38:02.862Z",
+      "bytes": 807710
+    },
+    {
+      "id": "alps-12",
+      "tool": "builtin-imagegen",
+      "inputPhotos": [],
+      "prompt": "Use case: illustration-story. Generate one ORIGINAL watercolor travel journal atlas. Portrait 2:3 canvas 1024x1536, EXACTLY TWO COLUMNS by THREE ROWS of SIX equal SQUARE independent paintings, edge-to-edge. Straight panel divisions at half width and one-third/two-thirds height. ZERO gutters, margins, borders, labels, captions. Each painting must have a different independent composition, never repeated crops. Authentic luminous watercolor pigment washes, granulation, cold-press paper texture, soft blooms, autumn light. No photographic rendering, artist imitation, input photos, text, logos, watermark or signatures. Broad factual architecture/landscape; explicitly imagined venues are atmospheric inventions, not exact interiors. Generic unidentified adult couple only where specified. TOP ROW (La Stalla): LEFT Imagined warm Engadin restaurant table with capuns and pizzoccheri; RIGHT Distinct close still life of two plain Margherita pizzas and water.\nMIDDLE ROW (Coop Pontresina): LEFT Imagined grocery-shopping vignette in Pontresina with plain bread and fruit bags; RIGHT Distinct close still life of cheese, bread and apples for two, no brand logos.\nBOTTOM ROW (Bernina railway): LEFT Red train following a high Alpine railway beside mountain lakes; RIGHT Separate view from public station platform of red carriages against rocky snowy peaks.",
+      "path": "assets/watercolors/alps/alps-12.webp",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "la-stalla",
+        "coop",
+        "bernina"
+      ],
+      "qa": {
+        "visuallyInspected": true,
+        "method": "view_image of final WebP",
+        "layout": "Six equal edge-to-edge square panels in manifest row order",
+        "composition": "Two independently composed views per place",
+        "style": "Watercolor pigment washes and paper texture; no downloaded photographic inputs",
+        "notes": "Interpretive venues are imagined; landmark architecture and landscape are illustrative rather than survey-accurate"
+      },
+      "sha256": "a9062dd94b4eee8bcb613be6c47a267618dfc832b8eb82baeadaec1f642e2982",
+      "width": 1024,
+      "height": 1536,
+      "generatedAt": "2026-10-19T05:39:21.534Z",
+      "bytes": 699618
+    }
+  ],
+  "generatedAt": "2026-10-19T05:39:53.860Z"
+}

@@ -1,0 +1,257 @@
+{
+  "group": "venice",
+  "tool": "builtin imagegen",
+  "inputPhotos": false,
+  "inputImages": [],
+  "generationMode": "original text-only watercolor generation",
+  "postprocessing": "Content-preserving WebP re-encoding with sharp quality 94 only; no resize, crop, filter, or style processing.",
+  "usedViews": 62,
+  "unusedPanels": 4,
+  "visualQA": {
+    "method": "Every final WebP inspected with view_image after persistence",
+    "checks": [
+      "Two columns and three equal rows",
+      "Manifest place order, sceneA left and sceneB right",
+      "Distinct original broad and closer compositions",
+      "Visible watercolor pigment and paper texture",
+      "No visible logos, captions, signatures or watermarks",
+      "Four pale empty unused panels on venice-11"
+    ],
+    "notes": [
+      "Architecture is an interpretive illustration, not a documentary record.",
+      "Venue, food, lodging and performance interior scenes are imagined and require interpretive captions in the consuming site.",
+      "venice-07 regenerated once to correct the northern waterfront and Giudecca orientation."
+    ]
+  },
+  "sheets": [
+    {
+      "id": "venice-01",
+      "output": "assets/watercolors/venice/venice-01.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "fcd8f74f4912962a5e99d426c4f0a3a3dd4ff71ad698fcd44af21cc584736714",
+      "bytes": 839056,
+      "generatedAt": "2026-10-19T05:31:33.2943554Z",
+      "columns": 2,
+      "rows": 3,
+      "placeIds": [
+        "santa-lucia",
+        "frari",
+        "accademia-bridge"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE original watercolor atlas, portrait 2:3 canvas nominal 1024x1536 pixels, EXACTLY TWO equal columns by THREE equal rows, six square panels. Panels meet edge-to-edge at x=50%, y=33.333% and 66.667%, NO margins, gutters, frames, borders, labels or cross-panel objects. Each panel is an independent painting, NEVER a crop or color variant of another. Warm travel-journal watercolor, visible wet pigment washes, granulation, softly bleeding edges, textured cold-press paper, luminous reserved highlights, layered translucent pigments; painted not photographic, no artist imitation. No text, lettering, numerals, logos, signatures, watermarks anywhere, including stations and food packaging. Original text-only generation, no reference photos. All couples generic unidentified adults, physically natural, on safe broad permitted ground without blocking pathways. Architecture interpretive but preserve stated distinctive features. Unverified venues/interiors/food settings IMAGINED, not documentary facade or room claims. \n\nROW 1, place Venezia Santa Lucia: LEFT independent broad scene: Venice railway station frontage facing the Grand Canal. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate view from public waterfront of station steps and passing vaporetto. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 2, place Basilica dei Frari: LEFT independent broad scene: Large brick Gothic church and bell tower in Venice. Include a small couple enacting this pose: Stand quietly side by side in the public square, turned toward the entrance; ask before any interior photograph, respect services and use no flash. RIGHT independent distinctly composed closer scene: Separate quiet exterior portal and brick tracery detail, no copied paintings. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 3, place Ponte dell’Accademia: LEFT independent broad scene: Wooden arched footbridge spanning the Grand Canal. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate Grand Canal and Salute panorama from a broad public canal edge. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n",
+      "inputPhotos": false,
+      "tool": "builtin imagegen",
+      "visualQAPassed": true,
+      "unusedPanels": 0
+    },
+    {
+      "id": "venice-02",
+      "output": "assets/watercolors/venice/venice-02.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1ee23007554fcf2568c327802b0abde7bc32e9226a01a7a7d041fbe9823a611f",
+      "bytes": 829282,
+      "generatedAt": "2026-10-19T05:32:59.2776755Z",
+      "columns": 2,
+      "rows": 3,
+      "placeIds": [
+        "pisani",
+        "rialto",
+        "piazzale-roma"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE original watercolor atlas, portrait 2:3 canvas nominal 1024x1536 pixels, EXACTLY TWO equal columns by THREE equal rows, six square panels. Panels meet edge-to-edge at x=50%, y=33.333% and 66.667%, NO margins, gutters, frames, borders, labels or cross-panel objects. Each panel is an independent painting, NEVER a crop or color variant of another. Warm travel-journal watercolor, visible wet pigment washes, granulation, softly bleeding edges, textured cold-press paper, luminous reserved highlights, layered translucent pigments; painted not photographic, no artist imitation. No text, lettering, numerals, logos, signatures, watermarks anywhere, including stations and food packaging. Original text-only generation, no reference photos. All couples generic unidentified adults, physically natural, on safe broad permitted ground without blocking pathways. Architecture interpretive but preserve stated distinctive features. Unverified venues/interiors/food settings IMAGINED, not documentary facade or room claims. \n\nROW 1, place Palazzo Pisani: LEFT independent broad scene: Venetian palace courtyard with stone arcades and wellhead. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate imagined chamber-music rehearsal vignette with generic musicians, no exact hall claim. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 2, place Ponte di Rialto: LEFT independent broad scene: White stone Rialto bridge spanning the Grand Canal. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate lower canal-edge view of bridge arch and colourful boat reflections. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 3, place Piazzale Roma: LEFT independent broad scene: Venice transport square where road meets canal-side pedestrian routes. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate view of canal edge and modern pedestrian-bridge approach. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n",
+      "inputPhotos": false,
+      "tool": "builtin imagegen",
+      "visualQAPassed": true,
+      "unusedPanels": 0
+    },
+    {
+      "id": "venice-03",
+      "output": "assets/watercolors/venice/venice-03.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d382d0f21101864e95cc9967b05629dff39e4e302b0739c601dc0ea66ef28724",
+      "bytes": 744838,
+      "generatedAt": "2026-10-19T05:35:59.3608345Z",
+      "columns": 2,
+      "rows": 3,
+      "placeIds": [
+        "mestre-station",
+        "m9",
+        "st-marks"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE original watercolor atlas, portrait 2:3 canvas nominal 1024x1536 pixels, EXACTLY TWO equal columns by THREE equal rows, six square panels. Panels meet edge-to-edge at x=50%, y=33.333% and 66.667%, NO margins, gutters, frames, borders, labels or cross-panel objects. Each panel is an independent painting, NEVER a crop or color variant of another. Warm travel-journal watercolor, visible wet pigment washes, granulation, softly bleeding edges, textured cold-press paper, luminous reserved highlights, layered translucent pigments; painted not photographic, no artist imitation. No text, lettering, numerals, logos, signatures, watermarks anywhere, including stations and food packaging. Original text-only generation, no reference photos. All couples generic unidentified adults, physically natural, on safe broad permitted ground without blocking pathways. Architecture interpretive but preserve stated distinctive features. Unverified venues/interiors/food settings IMAGINED, not documentary facade or room claims. \n\nROW 1, place Venezia Mestre station: LEFT independent broad scene: Mainland railway station and forecourt with ordinary travellers. Include a small couple enacting this pose: Pause side by side in the public forecourt with bags at your feet; keep all platform edges, doors and pedestrian flows clear. RIGHT independent distinctly composed closer scene: Separate perspective beneath platform canopies with a regional train. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 2, place M9 Museum: LEFT independent broad scene: Contemporary angular museum buildings and public courtyard in Mestre. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate imagined piano recital vignette with a grand piano and audience silhouettes, no exact hall claim. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 3, place St. Mark’s Basilica: LEFT independent broad scene: Five-domed basilica facade across the public square. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate close view of arched entrance and abstract golden mosaic glow, no copied artwork. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n",
+      "inputPhotos": false,
+      "tool": "builtin imagegen",
+      "visualQAPassed": true,
+      "unusedPanels": 0
+    },
+    {
+      "id": "venice-04",
+      "output": "assets/watercolors/venice/venice-04.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "66832688fa2c1f12d426d7fe69a4a454f29d12ceca31ecbd25c020d9a6a63fb4",
+      "bytes": 798146,
+      "generatedAt": "2026-10-19T05:37:09.1189670Z",
+      "columns": 2,
+      "rows": 3,
+      "placeIds": [
+        "dogana",
+        "san-rocco",
+        "accademia-museum"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE original watercolor atlas, portrait 2:3 canvas nominal 1024x1536 pixels, EXACTLY TWO equal columns by THREE equal rows, six square panels. Panels meet edge-to-edge at x=50%, y=33.333% and 66.667%, NO margins, gutters, frames, borders, labels or cross-panel objects. Each panel is an independent painting, NEVER a crop or color variant of another. Warm travel-journal watercolor, visible wet pigment washes, granulation, softly bleeding edges, textured cold-press paper, luminous reserved highlights, layered translucent pigments; painted not photographic, no artist imitation. No text, lettering, numerals, logos, signatures, watermarks anywhere, including stations and food packaging. Original text-only generation, no reference photos. All couples generic unidentified adults, physically natural, on safe broad permitted ground without blocking pathways. Architecture interpretive but preserve stated distinctive features. Unverified venues/interiors/food settings IMAGINED, not documentary facade or room claims. \n\nROW 1, place Punta della Dogana: LEFT independent broad scene: Triangular Venetian waterfront with lagoon and distant San Giorgio. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate low waterside view of stone quay and the old customs-house tower. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 2, place Scuola Grande di San Rocco: LEFT independent broad scene: Ornate Renaissance confraternity facade in its Venetian square. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate close view of stone entrance and sculptural facade details, no copied Tintoretto. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 3, place Gallerie dell’Accademia: LEFT independent broad scene: Museum approach facing the Accademia bridge area. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate interpretive gallery corridor with blank frames, no painting reproductions. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n",
+      "inputPhotos": false,
+      "tool": "builtin imagegen",
+      "visualQAPassed": true,
+      "unusedPanels": 0
+    },
+    {
+      "id": "venice-05",
+      "output": "assets/watercolors/venice/venice-05.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "56c1175b1828bf9e931207a1f5a8aa4f197f9a682acf015bbe33176a81a2c9b1",
+      "bytes": 794694,
+      "generatedAt": "2026-10-19T05:38:12.5138732Z",
+      "columns": 2,
+      "rows": 3,
+      "placeIds": [
+        "bovolo",
+        "doges",
+        "campanile"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE original watercolor atlas, portrait 2:3 canvas nominal 1024x1536 pixels, EXACTLY TWO equal columns by THREE equal rows, six square panels. Panels meet edge-to-edge at x=50%, y=33.333% and 66.667%, NO margins, gutters, frames, borders, labels or cross-panel objects. Each panel is an independent painting, NEVER a crop or color variant of another. Warm travel-journal watercolor, visible wet pigment washes, granulation, softly bleeding edges, textured cold-press paper, luminous reserved highlights, layered translucent pigments; painted not photographic, no artist imitation. No text, lettering, numerals, logos, signatures, watermarks anywhere, including stations and food packaging. Original text-only generation, no reference photos. All couples generic unidentified adults, physically natural, on safe broad permitted ground without blocking pathways. Architecture interpretive but preserve stated distinctive features. Unverified venues/interiors/food settings IMAGINED, not documentary facade or room claims. \n\nROW 1, place Scala Contarini del Bovolo: LEFT independent broad scene: Venetian courtyard with cylindrical spiral staircase and arcades. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate upward close view of staircase arches and warm brick. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 2, place Doge’s Palace: LEFT independent broad scene: Pink-and-white Gothic palace facade beside St. Mark's basin. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate oblique close view of ground-floor stone arcade and patterned upper facade. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 3, place St. Mark’s Campanile: LEFT independent broad scene: Tall brick bell tower rising from Piazza San Marco. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate upward view of tower belfry and pale morning sky. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n",
+      "inputPhotos": false,
+      "tool": "builtin imagegen",
+      "visualQAPassed": true,
+      "unusedPanels": 0
+    },
+    {
+      "id": "venice-06",
+      "output": "assets/watercolors/venice/venice-06.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d6712e3e9017040326da63f8293032d899fbb611811ba0e658d5f3a484564e84",
+      "bytes": 863698,
+      "generatedAt": "2026-10-19T05:39:29.3383426Z",
+      "columns": 2,
+      "rows": 3,
+      "placeIds": [
+        "guggenheim",
+        "san-giorgio-venice",
+        "cannaregio"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE original watercolor atlas, portrait 2:3 canvas nominal 1024x1536 pixels, EXACTLY TWO equal columns by THREE equal rows, six square panels. Panels meet edge-to-edge at x=50%, y=33.333% and 66.667%, NO margins, gutters, frames, borders, labels or cross-panel objects. Each panel is an independent painting, NEVER a crop or color variant of another. Warm travel-journal watercolor, visible wet pigment washes, granulation, softly bleeding edges, textured cold-press paper, luminous reserved highlights, layered translucent pigments; painted not photographic, no artist imitation. No text, lettering, numerals, logos, signatures, watermarks anywhere, including stations and food packaging. Original text-only generation, no reference photos. All couples generic unidentified adults, physically natural, on safe broad permitted ground without blocking pathways. Architecture interpretive but preserve stated distinctive features. Unverified venues/interiors/food settings IMAGINED, not documentary facade or room claims. \n\nROW 1, place Peggy Guggenheim Collection: LEFT independent broad scene: Low white canal-side palace with garden foliage. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate imagined garden corner and abstract sculpture-like stones, no copied artwork. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 2, place San Giorgio Maggiore: LEFT independent broad scene: Island church with white classical facade and bell tower across the basin. Include a small couple enacting this pose: Stand quietly side by side in the public square, turned toward the entrance; ask before any interior photograph, respect services and use no flash. RIGHT independent distinctly composed closer scene: Separate ground-level quay view of facade and mooring posts, no tower-access implication. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 3, place Cannaregio: LEFT independent broad scene: Quiet residential Venetian canal with small bridges. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate close view of canal reflections and modest brick waterside facades. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n",
+      "inputPhotos": false,
+      "tool": "builtin imagegen",
+      "visualQAPassed": true,
+      "unusedPanels": 0
+    },
+    {
+      "id": "venice-07",
+      "output": "assets/watercolors/venice/venice-07.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "b3ae3b345baad285bddc29723d09a0b0e70c573b8b7818a0ed19fa03a9e97d91",
+      "bytes": 824714,
+      "generatedAt": "2026-10-19T05:41:38.6632053Z",
+      "columns": 2,
+      "rows": 3,
+      "placeIds": [
+        "misericordia",
+        "fondamente-nove",
+        "zattere"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE original watercolor atlas, portrait 2:3 canvas nominal 1024x1536 pixels, EXACTLY TWO equal columns by THREE equal rows, six square panels. Panels meet edge-to-edge at x=50%, y=33.333% and 66.667%, NO margins, gutters, frames, borders, labels or cross-panel objects. Each panel is an independent painting, NEVER a crop or color variant of another. Warm travel-journal watercolor, visible wet pigment washes, granulation, softly bleeding edges, textured cold-press paper, luminous reserved highlights, layered translucent pigments; painted not photographic, no artist imitation. No text, lettering, numerals, logos, signatures, watermarks anywhere, including stations and food packaging. Original text-only generation, no reference photos. All couples generic unidentified adults, physically natural, on safe broad permitted ground without blocking pathways. Architecture interpretive but preserve stated distinctive features. Unverified venues/interiors/food settings IMAGINED, not documentary facade or room claims. \n\nROW 1, place Misericordia, Venice: LEFT independent broad scene: Broad canal-side walkway in Cannaregio beside historic brick buildings. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate low view of a little footbridge and water reflections. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 2, place Fondamente Nove: LEFT independent broad scene: Northern Venice waterfront facing the open lagoon. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate view of mooring posts and a waterbus stop against lagoon islands. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 3, place Zattere: LEFT independent broad scene: Broad Dorsoduro promenade along the Giudecca Canal. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate close view of stone quay, cafe-table silhouettes and passing boats. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nGEOGRAPHIC ACCURACY OVERRIDE: Row1 Misericordia: simple long brick warehouse/confraternity architecture, no Gothic church facade. Row2 Fondamente Nove faces NORTH toward San Michele cemetery island: distant LOW island walls and modest trees, NO San Giorgio Maggiore church, NO tall isolated bell tower, NO domed church. Row3 Zattere faces the Giudecca Canal toward Giudecca's modest ochre waterfront and distant white Redentore church; NO Santa Maria della Salute panorama, NO San Giorgio. Keep waterfront orientation believable.",
+      "inputPhotos": false,
+      "tool": "builtin imagegen",
+      "visualQAPassed": true,
+      "unusedPanels": 0
+    },
+    {
+      "id": "venice-08",
+      "output": "assets/watercolors/venice/venice-08.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "238bdc307064a48faea5dfa0751dff75d4a7bf140c51ca81d8346cd106eb520d",
+      "bytes": 840186,
+      "generatedAt": "2026-10-19T05:42:52.7832048Z",
+      "columns": 2,
+      "rows": 3,
+      "placeIds": [
+        "salute",
+        "san-polo",
+        "carmini"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE original watercolor atlas, portrait 2:3 canvas nominal 1024x1536 pixels, EXACTLY TWO equal columns by THREE equal rows, six square panels. Panels meet edge-to-edge at x=50%, y=33.333% and 66.667%, NO margins, gutters, frames, borders, labels or cross-panel objects. Each panel is an independent painting, NEVER a crop or color variant of another. Warm travel-journal watercolor, visible wet pigment washes, granulation, softly bleeding edges, textured cold-press paper, luminous reserved highlights, layered translucent pigments; painted not photographic, no artist imitation. No text, lettering, numerals, logos, signatures, watermarks anywhere, including stations and food packaging. Original text-only generation, no reference photos. All couples generic unidentified adults, physically natural, on safe broad permitted ground without blocking pathways. Architecture interpretive but preserve stated distinctive features. Unverified venues/interiors/food settings IMAGINED, not documentary facade or room claims. \n\nROW 1, place Santa Maria della Salute: LEFT independent broad scene: Great domed white church at the mouth of the Grand Canal. Include a small couple enacting this pose: Stand quietly side by side in the public square, turned toward the entrance; ask before any interior photograph, respect services and use no flash. RIGHT independent distinctly composed closer scene: Separate public-quay view of dome, stone steps and water, no posing on restricted steps. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 2, place San Polo: LEFT independent broad scene: Venetian campo with a church bell tower and brick paving. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate view into a small San Polo canal and quiet lane. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 3, place Scuola Grande dei Carmini: LEFT independent broad scene: Venetian confraternity building near Campo Santa Margherita. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate imagined intimate chamber ensemble with generic musicians, no copied art or exact hall claim. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n",
+      "inputPhotos": false,
+      "tool": "builtin imagegen",
+      "visualQAPassed": true,
+      "unusedPanels": 0
+    },
+    {
+      "id": "venice-09",
+      "output": "assets/watercolors/venice/venice-09.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "4378240d0fabbb2255c7c9c4eba0e3c763e0141c88e1c13ee708f89d0fed8209",
+      "bytes": 768686,
+      "generatedAt": "2026-10-19T05:43:59.0095013Z",
+      "columns": 2,
+      "rows": 3,
+      "placeIds": [
+        "ferretto",
+        "corso-property",
+        "do-spade"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE original watercolor atlas, portrait 2:3 canvas nominal 1024x1536 pixels, EXACTLY TWO equal columns by THREE equal rows, six square panels. Panels meet edge-to-edge at x=50%, y=33.333% and 66.667%, NO margins, gutters, frames, borders, labels or cross-panel objects. Each panel is an independent painting, NEVER a crop or color variant of another. Warm travel-journal watercolor, visible wet pigment washes, granulation, softly bleeding edges, textured cold-press paper, luminous reserved highlights, layered translucent pigments; painted not photographic, no artist imitation. No text, lettering, numerals, logos, signatures, watermarks anywhere, including stations and food packaging. Original text-only generation, no reference photos. All couples generic unidentified adults, physically natural, on safe broad permitted ground without blocking pathways. Architecture interpretive but preserve stated distinctive features. Unverified venues/interiors/food settings IMAGINED, not documentary facade or room claims. \n\nROW 1, place Piazza Ferretto: LEFT independent broad scene: Mestre pedestrian square with civic tower and cafe fronts. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate close view of paving and a couple paused beside a cafe frontage. Change viewpoint, scale and composition substantially. Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.\n\nROW 2, place Corso del Popolo 124, Mestre: LEFT independent broad scene: Interpretive mainland Mestre lodging-neighbourhood street, exact property appearance unverified. Include a small couple enacting this pose: Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear. RIGHT independent distinctly composed closer scene: Separate imagined quiet breakfast-and-luggage vignette, no exact room claim. Change viewpoint, scale and composition substantially. Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.\n\nROW 3, place Cantina Do Spade: LEFT independent broad scene: Imagined small Venetian supper table with bigoli and cuttlefish with polenta. Include a small couple enacting this pose: Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners. RIGHT independent distinctly composed closer scene: Distinct close still life of pasta, polenta and two modest wine glasses. Change viewpoint, scale and composition substantially. Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.\n",
+      "inputPhotos": false,
+      "tool": "builtin imagegen",
+      "visualQAPassed": true,
+      "unusedPanels": 0
+    },
+    {
+      "id": "venice-10",
+      "output": "assets/watercolors/venice/venice-10.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "54297a452b0f05cb737a686eac64290401d5288700bcf20fbafd12c8f111fed1",
+      "bytes": 766492,
+      "generatedAt": "2026-10-19T05:45:02.9356190Z",
+      "columns": 2,
+      "rows": 3,
+      "placeIds": [
+        "dal-moro",
+        "farini",
+        "wisteria"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE original watercolor atlas, portrait 2:3 canvas nominal 1024x1536 pixels, EXACTLY TWO equal columns by THREE equal rows, six square panels. Panels meet edge-to-edge at x=50%, y=33.333% and 66.667%, NO margins, gutters, frames, borders, labels or cross-panel objects. Each panel is an independent painting, NEVER a crop or color variant of another. Warm travel-journal watercolor, visible wet pigment washes, granulation, softly bleeding edges, textured cold-press paper, luminous reserved highlights, layered translucent pigments; painted not photographic, no artist imitation. No text, lettering, numerals, logos, signatures, watermarks anywhere, including stations and food packaging. Original text-only generation, no reference photos. All couples generic unidentified adults, physically natural, on safe broad permitted ground without blocking pathways. Architecture interpretive but preserve stated distinctive features. Unverified venues/interiors/food settings IMAGINED, not documentary facade or room claims. \n\nROW 1, place Dal Moro's Fresh Pasta To Go: LEFT independent broad scene: Imagined Venice takeaway-counter vignette with two plain pasta cartons. Include a small couple enacting this pose: Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners. RIGHT independent distinctly composed closer scene: Distinct close overhead view of pesto pasta and tomato-coloured pasta in plain cartons. Change viewpoint, scale and composition substantially. Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.\n\nROW 2, place Farini Rialto: LEFT independent broad scene: Imagined Venetian bakery breakfast setting with two cappuccinos and croissants. Include a small couple enacting this pose: Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners. RIGHT independent distinctly composed closer scene: Distinct close still life of rectangular pizza slices and plain water bottles. Change viewpoint, scale and composition substantially. Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.\n\nROW 3, place Wistèria: LEFT independent broad scene: Imagined refined Venice dinner setting with garden-green accents. Include a small couple enacting this pose: Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners. RIGHT independent distinctly composed closer scene: Distinct close still life of a seasonal tasting course and two water glasses. Change viewpoint, scale and composition substantially. Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.\n",
+      "inputPhotos": false,
+      "tool": "builtin imagegen",
+      "visualQAPassed": true,
+      "unusedPanels": 0
+    },
+    {
+      "id": "venice-11",
+      "output": "assets/watercolors/venice/venice-11.webp",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "24cbee7abbecffd7d1173f8dd1cd773c10c9da9010e108c408dfcb86f6f10ec2",
+      "bytes": 517358,
+      "generatedAt": "2026-10-19T05:45:53.5405317Z",
+      "columns": 2,
+      "rows": 3,
+      "placeIds": [
+        "local"
+      ],
+      "prompt": "Use case: illustration-story. Create ONE original watercolor atlas, portrait 2:3 canvas nominal 1024x1536 pixels, EXACTLY TWO equal columns by THREE equal rows, six square panels. Panels meet edge-to-edge at x=50%, y=33.333% and 66.667%, NO margins, gutters, frames, borders, labels or cross-panel objects. Each panel is an independent painting, NEVER a crop or color variant of another. Warm travel-journal watercolor, visible wet pigment washes, granulation, softly bleeding edges, textured cold-press paper, luminous reserved highlights, layered translucent pigments; painted not photographic, no artist imitation. No text, lettering, numerals, logos, signatures, watermarks anywhere, including stations and food packaging. Original text-only generation, no reference photos. All couples generic unidentified adults, physically natural, on safe broad permitted ground without blocking pathways. Architecture interpretive but preserve stated distinctive features. Unverified venues/interiors/food settings IMAGINED, not documentary facade or room claims. \n\nROW 1, place Local: LEFT independent broad scene: Imagined contemporary Venetian tasting-menu table in lagoon colours. Include a small couple enacting this pose: Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners. RIGHT independent distinctly composed closer scene: Distinct close still life of a delicately plated seasonal seafood course. Change viewpoint, scale and composition substantially. Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.\nRows TWO and THREE (four bottom panels) MUST be plain pale empty watercolor paper texture, absolutely no objects, people, food or scene. Only the top row contains the two requested paintings.",
+      "inputPhotos": false,
+      "tool": "builtin imagegen",
+      "visualQAPassed": true,
+      "unusedPanels": 4
+    }
+  ]
+}

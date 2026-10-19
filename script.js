@@ -5,7 +5,7 @@
   if (expand) expand.addEventListener('click', () => { const open = !toggles.every(d => d.open); toggles.forEach(d => d.open = open); updateLabel(); });
   toggles.forEach(d => d.addEventListener('toggle', updateLabel));
   updateLabel();
-  const storeKey = 'italy-2026-trip-checklist-v2';
+  const storeKey = 'italy-2026-revised-checklist-v1';
   let saved = {};
   try { saved = JSON.parse(localStorage.getItem(storeKey) || '{}') || {}; } catch (_) {}
   const boxes = [...document.querySelectorAll('.check input')];

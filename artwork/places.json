@@ -1,0 +1,2879 @@
+{
+  "version": 1,
+  "style": "Original AI-generated watercolor illustrations; no photo inputs",
+  "artDirection": "Warm travel journal, wet pigment, textured paper; original compositions, no artist imitation, no text, logos, watermarks or signatures. Each row has two separately composed paintings of its named place, left broad view and right different closer view. Generic unidentified adults only. No photo reference input. Interpretive/imagined scenes must be captioned as such.",
+  "panelContract": {
+    "columns": 2,
+    "rows": 3,
+    "rowOrder": "placeIds order; sceneA left and sceneB right",
+    "panelIsolation": "Six equal edge-to-edge panels, clean straight boundaries, no cross-panel elements or decorative gutters. Last sheet may contain fewer than three places; unused last row is plain pale paper and never exposed as a place."
+  },
+  "places": [
+    {
+      "id": "duomo",
+      "name": "Duomo di Milano",
+      "city": "milan",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Duomo di Milano",
+        "Duomo",
+        "Duomo interior + San Giovanni alle Fonti archaeology",
+        "Duomo terraces"
+      ],
+      "sceneA": "White Gothic cathedral and its many pinnacles across the public square",
+      "sceneB": "Low-angle side view of carved marble portals and a couple on the square",
+      "pose": "Stand quietly side by side in the public square, turned toward the entrance; ask before any interior photograph, respect services and use no flash.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Duomo di Milano Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "san-giovanni-fonti",
+      "name": "San Giovanni alle Fonti",
+      "city": "milan",
+      "group": "north",
+      "kind": "interpretive-place",
+      "aliases": [
+        "San Giovanni alle Fonti",
+        "San Giovanni alle Fonti archaeology",
+        "Augustine’s baptism site"
+      ],
+      "sceneA": "Interpretive archaeological excavation beneath Milan cathedral, ancient masonry and baptismal footprint",
+      "sceneB": "Separate close study of ancient brick and stone baptismal remains, no reconstructed ceremony",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "San Giovanni alle Fonti Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "duomo-museum",
+      "name": "Duomo Museum",
+      "city": "milan",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Duomo Museum",
+        "Duomo Museum rather than roof in rain"
+      ],
+      "sceneA": "Museum approach at Palazzo Reale with cathedral architecture beyond",
+      "sceneB": "Interpretive display of architectural stone fragments, no copied artwork",
+      "pose": "Stand quietly side by side in the public square, turned toward the entrance; ask before any interior photograph, respect services and use no flash.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Duomo Museum Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "sant-ambrogio",
+      "name": "Basilica di Sant’Ambrogio",
+      "city": "milan",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Basilica di Sant’Ambrogio",
+        "Sant’Ambrogio",
+        "Sant'Ambrogio"
+      ],
+      "sceneA": "Romanesque brick basilica framed by its arcaded atrium",
+      "sceneB": "Closer oblique view of brick arches and a quiet couple at the outer courtyard",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Basilica di Sant’Ambrogio Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "san-lorenzo",
+      "name": "San Lorenzo Maggiore",
+      "city": "milan",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "San Lorenzo Maggiore"
+      ],
+      "sceneA": "Ancient columns before the basilica in Milan",
+      "sceneB": "Different perspective along the stone column rhythm toward the church dome",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "San Lorenzo Maggiore Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "galleria",
+      "name": "Galleria Vittorio Emanuele II",
+      "city": "milan",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Galleria Vittorio Emanuele II",
+        "Galleria Vittorio EmanueleII + Piazza della Scala"
+      ],
+      "sceneA": "Glass-vaulted Milan arcade with cross-shaped meeting space",
+      "sceneB": "Low close perspective of iron-and-glass roof meeting ornamental stone walls",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Galleria Vittorio Emanuele II Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "scala-square",
+      "name": "Piazza della Scala",
+      "city": "milan",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Piazza della Scala"
+      ],
+      "sceneA": "Milan square with La Scala theatre exterior",
+      "sceneB": "Separate view of the square's planted centre and civic facades",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Piazza della Scala Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "sforza",
+      "name": "Castello Sforzesco",
+      "city": "milan",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Castello Sforzesco",
+        "Castello Sforzesco exterior/courtyards"
+      ],
+      "sceneA": "Red brick Milan castle front and central tower",
+      "sceneB": "Oblique courtyard view of brick arches and tower details",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Castello Sforzesco Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "sempione",
+      "name": "Parco Sempione",
+      "city": "milan",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Parco Sempione",
+        "Parco Sempione to Arco della Pace"
+      ],
+      "sceneA": "Autumn paths and open lawns behind Milan castle",
+      "sceneB": "Separate close view of golden leaves and a couple on a park path",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Parco Sempione Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "arco-pace",
+      "name": "Arco della Pace",
+      "city": "milan",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Arco della Pace"
+      ],
+      "sceneA": "White triumphal arch at the end of the park vista",
+      "sceneB": "Oblique close view of the arch columns and sculptural silhouettes",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Arco della Pace Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "ambrosiana",
+      "name": "Pinacoteca Ambrosiana",
+      "city": "milan",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Pinacoteca Ambrosiana"
+      ],
+      "sceneA": "Historic Milan palace entrance in a small city square",
+      "sceneB": "Interpretive quiet museum corridor and blank frames, no copied paintings",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Pinacoteca Ambrosiana Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "risoelatte",
+      "name": "Risoelatte Duomo",
+      "city": "milan",
+      "group": "north",
+      "kind": "food-venue",
+      "aliases": [
+        "Risoelatte Duomo",
+        "Risoelatte"
+      ],
+      "sceneA": "Imagined Milan supper setting with saffron risotto and ossobuco",
+      "sceneB": "Distinct overhead close still life of saffron rice and shared tiramisu",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Risoelatte Duomo Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "spontini",
+      "name": "Spontini Duomo",
+      "city": "milan",
+      "group": "north",
+      "kind": "food-venue",
+      "aliases": [
+        "Spontini Duomo",
+        "Spontini"
+      ],
+      "sceneA": "Imagined informal Milan pizza-counter setting with thick pizza slices",
+      "sceneB": "Distinct close still life of two thick Margherita slices in plain takeaway trays",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Spontini Duomo Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "aimo",
+      "name": "Il Luogo Aimo e Nadia",
+      "city": "milan",
+      "group": "north",
+      "kind": "food-venue",
+      "aliases": [
+        "Il Luogo Aimo e Nadia",
+        "Monday Aimo e Nadia · less convenient",
+        "Aimo e Nadia",
+        "Aimo"
+      ],
+      "sceneA": "Imagined refined Milan dinner table with two places and seasonal small dishes",
+      "sceneB": "Distinct intimate close still life of a carefully plated vegetable course and water glasses",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Il Luogo Aimo e Nadia Milan",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "varenna",
+      "name": "Varenna",
+      "city": "varenna",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Varenna",
+        "Lovers' walk + old harbour/Riva Grande",
+        "Lovers’ walk + old harbour/Riva Grande"
+      ],
+      "sceneA": "Lake Como village waterfront with colourful houses beneath steep green slopes",
+      "sceneB": "Separate low waterside view of the old harbour and small moored boats",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Varenna Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "varenna-station",
+      "name": "Varenna-Esino station",
+      "city": "varenna",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Varenna-Esino station",
+        "Varenna-Esino"
+      ],
+      "sceneA": "Small lakeside-town railway station and platforms seen from public approach",
+      "sceneB": "Different close view of rails curving toward wooded Lake Como slopes, no readable signs",
+      "pose": "Pause side by side in the public forecourt with bags at your feet; keep all platform edges, doors and pedestrian flows clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Varenna-Esino station Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "varenna-ferry",
+      "name": "Varenna ferry landing",
+      "city": "varenna",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Varenna ferry landing"
+      ],
+      "sceneA": "Ferry approaching Varenna landing against the lake mountains",
+      "sceneB": "Separate view from public shore of pier posts and boarding shelter",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Varenna ferry landing Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "san-giorgio-varenna",
+      "name": "San Giorgio, Varenna",
+      "city": "varenna",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "San Giorgio, Varenna",
+        "San Giorgio",
+        "Piazza San Giorgio + San Giorgio/San Giovanni Battista",
+        "Piazza San Giorgio"
+      ],
+      "sceneA": "Varenna church and bell tower facing the village square",
+      "sceneB": "Oblique close view of stone portal and a couple standing aside in the square",
+      "pose": "Stand quietly side by side in the public square, turned toward the entrance; ask before any interior photograph, respect services and use no flash.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "San Giorgio, Varenna Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "san-giovanni-varenna",
+      "name": "San Giovanni Battista, Varenna",
+      "city": "varenna",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "San Giovanni Battista, Varenna",
+        "San Giovanni Battista"
+      ],
+      "sceneA": "Small old stone church on Varenna's square",
+      "sceneB": "Distinct close view of weathered stone entrance and narrow church windows",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "San Giovanni Battista, Varenna Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "albergo-milano",
+      "name": "Albergo Milano",
+      "city": "varenna",
+      "group": "alps",
+      "kind": "interpretive-place",
+      "aliases": [
+        "Albergo Milano"
+      ],
+      "sceneA": "Interpretive Varenna hillside lodging setting overlooking Lake Como, appearance unverified",
+      "sceneB": "Distinct imagined breakfast table with lake colours beyond, no claim of an actual terrace",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Albergo Milano Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "monastero",
+      "name": "Villa Monastero",
+      "city": "varenna",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Villa Monastero",
+        "Villa Monastero garden",
+        "Monastero house museum"
+      ],
+      "sceneA": "Long lakeside villa garden with cypress trees and Lake Como beyond",
+      "sceneB": "Separate close view of garden balustrade, flowering pots and villa exterior",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Villa Monastero Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "cipressi",
+      "name": "Villa Cipressi",
+      "city": "varenna",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Villa Cipressi",
+        "Villa Cipressi garden"
+      ],
+      "sceneA": "Terraced Lake Como garden with cypresses descending toward the water",
+      "sceneB": "Separate closer composition of stone garden steps and foliage beside the lake",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Villa Cipressi Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "vezio",
+      "name": "Castello di Vezio",
+      "city": "varenna",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Castello di Vezio"
+      ],
+      "sceneA": "Medieval stone tower above Varenna and the lake",
+      "sceneB": "Distinct low-angle view of rough tower masonry and surrounding olive foliage",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Castello di Vezio Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "bellagio",
+      "name": "Bellagio",
+      "city": "varenna",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Bellagio",
+        "Bellagio: later boat alternative",
+        "Bellagio mini-trip before the Verona train"
+      ],
+      "sceneA": "Bellagio promontory and waterfront seen across Lake Como",
+      "sceneB": "Separate close street view up a stepped lane between pastel buildings",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Bellagio Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "menaggio",
+      "name": "Menaggio",
+      "city": "varenna",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Menaggio",
+        "Menaggio: best boat alternative after arrival",
+        "Menaggio early sampler"
+      ],
+      "sceneA": "Menaggio lakefront promenade and mountains across the water",
+      "sceneB": "Separate close view of lakeside flowers and pastel townfront arcades",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Menaggio Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria Grill",
+      "city": "varenna",
+      "group": "north",
+      "kind": "food-venue",
+      "aliases": [
+        "Victoria Grill",
+        "Victoria Grill · pizzas"
+      ],
+      "sceneA": "Imagined Varenna square-facing restaurant table with perch risotto",
+      "sceneB": "Distinct overhead still life of two pizzas, water and plain plates",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Victoria Grill Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "alma",
+      "name": "ALMA Bistrot",
+      "city": "varenna",
+      "group": "north",
+      "kind": "food-venue",
+      "aliases": [
+        "ALMA Bistrot"
+      ],
+      "sceneA": "Imagined small Varenna bistro meal setting with lake-colour palette",
+      "sceneB": "Distinct close still life of pizza and two water glasses on a small table",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "ALMA Bistrot Lake Como",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "la-vineria",
+      "name": "La Vineria",
+      "city": "verona",
+      "group": "north",
+      "kind": "interpretive-place",
+      "aliases": [
+        "La Vineria",
+        "FARM VIEW/WALK",
+        "FARM TASTING",
+        "Via Sommavalle 1"
+      ],
+      "sceneA": "Interpretive Verona hillside vineyard lodging setting, exact property appearance unverified",
+      "sceneB": "Separate imagined wine-tasting still life with two modest glasses and vine leaves",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "La Vineria Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "corte-mattia",
+      "name": "Corte San Mattia",
+      "city": "verona",
+      "group": "north",
+      "kind": "food-venue",
+      "aliases": [
+        "Corte San Mattia",
+        "Corte San Mattia · Bacaro Agricolo",
+        "Bacaro Agricolo",
+        "Bacaro"
+      ],
+      "sceneA": "Imagined farm dinner setting in the Verona hills with tagliatelle and local wine",
+      "sceneB": "Distinct close still life of goat cheese and two plates of pasta",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Corte San Mattia Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "san-pietro",
+      "name": "Castel San Pietro terrace",
+      "city": "verona",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Castel San Pietro terrace",
+        "CASTEL SAN PIETRO TERRACE",
+        "Ponte Pietra + SanPietro viewpoint",
+        "SanPietro viewpoint"
+      ],
+      "sceneA": "Verona rooftops and Adige bend from the public hill terrace",
+      "sceneB": "Separate view back toward the hill castle from a broad public path",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Castel San Pietro terrace Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "ponte-pietra",
+      "name": "Ponte Pietra",
+      "city": "verona",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Ponte Pietra",
+        "PONTE PIETRA + PIAZZA ERBE"
+      ],
+      "sceneA": "Roman stone bridge spanning the Adige at Verona",
+      "sceneB": "Separate close oblique bridge-arch reflection with a couple on the riverside path",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Ponte Pietra Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "erbe",
+      "name": "Piazza delle Erbe",
+      "city": "verona",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Piazza delle Erbe",
+        "Piazza Erbe"
+      ],
+      "sceneA": "Long historic Verona square with colourful facades and market canopy shapes",
+      "sceneB": "Separate upward close view of fresco-coloured facades and tower silhouette",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Piazza delle Erbe Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "signori",
+      "name": "Piazza dei Signori",
+      "city": "verona",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Piazza dei Signori",
+        "Erbe/Signori",
+        "Piazza Signori"
+      ],
+      "sceneA": "Verona civic square enclosed by Renaissance facades",
+      "sceneB": "Separate close view of stone arcade and central monument silhouette",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Piazza dei Signori Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "giusti",
+      "name": "Giardino Giusti",
+      "city": "verona",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Giardino Giusti",
+        "GIARDINO GIUSTI"
+      ],
+      "sceneA": "Formal Verona garden with cypress avenue and geometric hedges",
+      "sceneB": "Separate close view of garden steps and sculpted hedge patterns",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Giardino Giusti Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "san-zeno",
+      "name": "San Zeno Maggiore",
+      "city": "verona",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "San Zeno Maggiore",
+        "San Zeno"
+      ],
+      "sceneA": "Romanesque Verona basilica facade and bell tower from the square",
+      "sceneB": "Separate close view of rose window and warm stone portal, no copied sacred artwork",
+      "pose": "Stand quietly side by side in the public square, turned toward the entrance; ask before any interior photograph, respect services and use no flash.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "San Zeno Maggiore Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "castelvecchio",
+      "name": "Castelvecchio",
+      "city": "verona",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Castelvecchio",
+        "Castelvecchio museum",
+        "Castelvecchio/Ponte Scaligero exterior"
+      ],
+      "sceneA": "Brick Verona castle beside the Adige",
+      "sceneB": "Separate courtyard view of battlements and museum approach",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Castelvecchio Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "ponte-scaligero",
+      "name": "Ponte Scaligero",
+      "city": "verona",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Ponte Scaligero"
+      ],
+      "sceneA": "Red brick fortified bridge over the Adige",
+      "sceneB": "Separate view along its pedestrian walkway and crenellated parapets",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Ponte Scaligero Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "arena",
+      "name": "Arena di Verona",
+      "city": "verona",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Arena di Verona",
+        "Arena / Piazza Bra",
+        "Arena interior",
+        "Piazza Bra/Arena exterior + Erbe/Signori"
+      ],
+      "sceneA": "Roman amphitheatre exterior beside Piazza Bra",
+      "sceneB": "Separate interior bowl and stone seating viewed from an ordinary visitor area",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Arena di Verona Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "piazza-bra",
+      "name": "Piazza Bra",
+      "city": "verona",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Piazza Bra"
+      ],
+      "sceneA": "Broad Verona square with lawns and cafes beside the Arena",
+      "sceneB": "Separate close view of public garden path and civic facades",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Piazza Bra Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "verona-station",
+      "name": "Verona Porta Nuova",
+      "city": "verona",
+      "group": "north",
+      "kind": "landmark",
+      "aliases": [
+        "Verona Porta Nuova"
+      ],
+      "sceneA": "Verona railway station frontage from its public forecourt",
+      "sceneB": "Separate close perspective of platform canopy and luggage silhouettes",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Verona Porta Nuova Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "gina",
+      "name": "La Bottega della Gina XXL",
+      "city": "verona",
+      "group": "north",
+      "kind": "food-venue",
+      "aliases": [
+        "La Bottega della Gina XXL",
+        "La Bottega della Gina"
+      ],
+      "sceneA": "Imagined Verona takeaway pasta-shop setting with folded fresh tortelloni",
+      "sceneB": "Distinct overhead close study of mixed filled pasta in two plain bowls",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "La Bottega della Gina XXL Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "pompiere",
+      "name": "Trattoria Al Pompiere",
+      "city": "verona",
+      "group": "north",
+      "kind": "food-venue",
+      "aliases": [
+        "Trattoria Al Pompiere",
+        "Al Pompiere"
+      ],
+      "sceneA": "Imagined traditional Verona dinner table with pasta and a shared dessert",
+      "sceneB": "Distinct close still life of regional pasta, napkins and two wine glasses",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Trattoria Al Pompiere Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "desco",
+      "name": "Il Desco",
+      "city": "verona",
+      "group": "north",
+      "kind": "food-venue",
+      "aliases": [
+        "Il Desco",
+        "Add a second splurge: Friday Il Desco"
+      ],
+      "sceneA": "Imagined refined Verona tasting-menu table in warm stone colours",
+      "sceneB": "Distinct close view of a delicate seasonal plated course with no invented exact menu",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Il Desco Verona",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "st-moritz-lake",
+      "name": "Lake St. Moritz",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Lake St. Moritz",
+        "West lakeshore",
+        "Meierei lakeshore",
+        "South lakeshore",
+        "Lake St. Moritz: brief shore pause or official circuit",
+        "Nearby lake: 30-minute pause OR official circuit"
+      ],
+      "sceneA": "Alpine lake below St. Moritz town with autumn larches",
+      "sceneB": "Separate low shoreline view with reeds and mountain reflections",
+      "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Lake St. Moritz Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "san-gian",
+      "name": "Hotel San Gian",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "interpretive-place",
+      "aliases": [
+        "Hotel San Gian"
+      ],
+      "sceneA": "Interpretive St. Moritz Bad lodging approach, exact hotel architecture unverified",
+      "sceneB": "Separate imagined quiet hotel breakfast setting with Alpine colours",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Hotel San Gian Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "stmoritz-station",
+      "name": "St. Moritz station",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "St. Moritz station"
+      ],
+      "sceneA": "Alpine railway station beside the town and lake",
+      "sceneB": "Separate platform perspective with red train and mountain backdrop",
+      "pose": "Pause side by side in the public forecourt with bags at your feet; keep all platform edges, doors and pedestrian flows clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "St. Moritz station Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "pontresina-station",
+      "name": "Pontresina station",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Pontresina station"
+      ],
+      "sceneA": "Mountain railway junction at Pontresina with red trains and forest",
+      "sceneB": "Separate view along a public platform toward valley slopes",
+      "pose": "Pause side by side in the public forecourt with bags at your feet; keep all platform edges, doors and pedestrian flows clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Pontresina station Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "santa-maria",
+      "name": "Santa Maria church, Pontresina",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Santa Maria church, Pontresina",
+        "Santa Maria church",
+        "Pontresina village + Santa Maria"
+      ],
+      "sceneA": "Small hillside church above Pontresina with stone tower and valley slopes",
+      "sceneB": "Separate close view of church entrance and surrounding grassy path",
+      "pose": "Stand quietly side by side in the public square, turned toward the entrance; ask before any interior photograph, respect services and use no flash.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Santa Maria church, Pontresina Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "pontresina",
+      "name": "Pontresina",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Pontresina"
+      ],
+      "sceneA": "Engadin village street with Alpine houses and wooded slopes",
+      "sceneB": "Separate close view of traditional plaster details and autumn plants",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Pontresina Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "staz",
+      "name": "Lej da Staz",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Lej da Staz",
+        "Longer optional forest/lake outing · Lej da Staz"
+      ],
+      "sceneA": "Small forest lake ringed by larches below Engadin peaks",
+      "sceneB": "Separate close view of still water, reeds and a wooden shore walkway",
+      "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Lej da Staz Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "segantini",
+      "name": "Segantini Museum",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Segantini Museum"
+      ],
+      "sceneA": "Domed stone museum above St. Moritz in Alpine light",
+      "sceneB": "Separate close view of domed roof and stone entrance, no painting reproductions",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Segantini Museum Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "paracelsus",
+      "name": "Forum Paracelsus",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "interpretive-place",
+      "aliases": [
+        "Forum Paracelsus",
+        "Ovaverva + Forum Paracelsus"
+      ],
+      "sceneA": "Interpretive spa-history pavilion setting at St. Moritz Bad",
+      "sceneB": "Separate archaeological-spring display vignette with old timber and mineral-water colours",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Forum Paracelsus Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "ovaverva",
+      "name": "Ovaverva",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "interpretive-place",
+      "aliases": [
+        "Ovaverva"
+      ],
+      "sceneA": "Interpretive modern Alpine pool-building exterior at St. Moritz Bad",
+      "sceneB": "Separate imagined quiet poolside water reflection, no exact interior claim or identifiable bathers",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Ovaverva Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "muottas",
+      "name": "Muottas Muragl",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Muottas Muragl",
+        "Muottas Muragl viewpoint",
+        "Muottas Muragl panorama"
+      ],
+      "sceneA": "Panorama of Upper Engadin lakes from a developed mountain viewpoint",
+      "sceneB": "Separate close view of red funicular near its summit station with distant peaks",
+      "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Muottas Muragl Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "diavolezza",
+      "name": "Diavolezza",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Diavolezza",
+        "Diavolezza glacier panorama"
+      ],
+      "sceneA": "High Alpine glacier panorama toward Bernina mountains from visitor terrace",
+      "sceneB": "Separate view of cable-car cabin approaching a rocky mountain station",
+      "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Diavolezza Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "dorf",
+      "name": "St. Moritz Dorf",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "St. Moritz Dorf",
+        "Dorf, lake escalator and Design Gallery",
+        "Dorf"
+      ],
+      "sceneA": "Alpine town streets above the lake at St. Moritz Dorf",
+      "sceneB": "Separate close view of town steps and mountain-coloured building fronts",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "St. Moritz Dorf Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "design-gallery",
+      "name": "St. Moritz Design Gallery",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "interpretive-place",
+      "aliases": [
+        "St. Moritz Design Gallery",
+        "Design Gallery",
+        "lake escalator"
+      ],
+      "sceneA": "Interpretive pedestrian passage and lake escalator in St. Moritz",
+      "sceneB": "Separate close perspective of exhibition panels with abstract blank colour fields, no copied artworks",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "St. Moritz Design Gallery Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "roseg",
+      "name": "Val Roseg",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Val Roseg",
+        "Val Roseg: forest, river and a gentle turn-back walk"
+      ],
+      "sceneA": "Broad Alpine valley with larch forest and braided river",
+      "sceneB": "Separate close view of river stones and golden larch beside an easy forest path",
+      "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Val Roseg Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "celerina",
+      "name": "Celerina",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Celerina",
+        "Celerina → Cristolais → Samedan"
+      ],
+      "sceneA": "Engadin village amid broad valley and mountains",
+      "sceneB": "Separate close view of traditional sgraffito-style house decoration without copied exact motifs",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Celerina Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "cristolais",
+      "name": "Cristolais",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Cristolais"
+      ],
+      "sceneA": "Rolling Engadin hillside path between Celerina and Samedan",
+      "sceneB": "Separate close view of meadow edge and autumn larches on a valley path",
+      "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Cristolais Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "samedan",
+      "name": "Samedan",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Samedan"
+      ],
+      "sceneA": "Engadin village roofs against broad mountain slopes",
+      "sceneB": "Separate street-level view of traditional houses and an open public square",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Samedan Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "gravatscha",
+      "name": "Gravatscha Innauen",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Gravatscha Innauen",
+        "Gravatscha Innauen circular walk"
+      ],
+      "sceneA": "Wetland ponds and flat valley paths near Samedan",
+      "sceneB": "Separate low view of reeds, river stones and reflected autumn sky",
+      "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Gravatscha Innauen Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "sils",
+      "name": "Sils",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Sils",
+        "Sils → Chastè → Sils"
+      ],
+      "sceneA": "Engadin village between lakes with mountain backdrop",
+      "sceneB": "Separate close view of village lane and autumn garden walls",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Sils Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "chaste",
+      "name": "Chastè peninsula",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Chastè peninsula",
+        "Chastè"
+      ],
+      "sceneA": "Wooded peninsula projecting into Lake Sils",
+      "sceneB": "Separate close view of shore rocks and larch branches reflected in lake water",
+      "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Chastè peninsula Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "surlej",
+      "name": "Surlej",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Surlej",
+        "Surlej → Lej Nair → Lej Marsch"
+      ],
+      "sceneA": "Village below Corvatsch slopes beside Upper Engadin lakes",
+      "sceneB": "Separate view of a forest path leaving the village toward the small lakes",
+      "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Surlej Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "lej-nair",
+      "name": "Lej Nair",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Lej Nair"
+      ],
+      "sceneA": "Small dark forest lake surrounded by Alpine pines",
+      "sceneB": "Separate close view of dark water, fallen leaves and wooded shore",
+      "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Lej Nair Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "lej-marsch",
+      "name": "Lej Marsch",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Lej Marsch"
+      ],
+      "sceneA": "Small Engadin lake with reeds and open mountain light",
+      "sceneB": "Separate close composition of reed beds and shore stones",
+      "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Lej Marsch Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "museum-alpin",
+      "name": "Museum Alpin Pontresina",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "interpretive-place",
+      "aliases": [
+        "Museum Alpin Pontresina"
+      ],
+      "sceneA": "Interpretive historic Engadin museum-house approach in Pontresina",
+      "sceneB": "Separate mountaineering-history still life of old boots, rope and a plain map, no exact display claim",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Museum Alpin Pontresina Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "hauser",
+      "name": "Restaurant Hauser",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "food-venue",
+      "aliases": [
+        "Restaurant Hauser",
+        "Hauser"
+      ],
+      "sceneA": "Imagined Alpine restaurant table with pizokels and rösti",
+      "sceneB": "Distinct overhead close still life of regional dumplings and crisp potato rösti",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Restaurant Hauser Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "la-stalla",
+      "name": "La Stalla",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "food-venue",
+      "aliases": [
+        "La Stalla",
+        "La Stalla · pizza"
+      ],
+      "sceneA": "Imagined warm Engadin restaurant table with capuns and pizzoccheri",
+      "sceneB": "Distinct close still life of two plain Margherita pizzas and water",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "La Stalla Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "coop",
+      "name": "Coop Pontresina",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "food-venue",
+      "aliases": [
+        "Coop Pontresina"
+      ],
+      "sceneA": "Imagined grocery-shopping vignette in Pontresina with plain bread and fruit bags",
+      "sceneB": "Distinct close still life of cheese, bread and apples for two, no brand logos",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Coop Pontresina Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "bernina",
+      "name": "Bernina railway",
+      "city": "stmoritz",
+      "group": "alps",
+      "kind": "landmark",
+      "aliases": [
+        "Bernina railway",
+        "Across the Bernina"
+      ],
+      "sceneA": "Red train following a high Alpine railway beside mountain lakes",
+      "sceneB": "Separate view from public station platform of red carriages against rocky snowy peaks",
+      "pose": "Pause side by side in the public forecourt with bags at your feet; keep all platform edges, doors and pedestrian flows clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Bernina railway Engadin Switzerland",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "santa-lucia",
+      "name": "Venezia Santa Lucia",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Venezia Santa Lucia",
+        "Santa Lucia"
+      ],
+      "sceneA": "Venice railway station frontage facing the Grand Canal",
+      "sceneB": "Separate view from public waterfront of station steps and passing vaporetto",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Venezia Santa Lucia Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "frari",
+      "name": "Basilica dei Frari",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Basilica dei Frari",
+        "Frari",
+        "Frari interior",
+        "Frari / San Rocco branch",
+        "Optional island farewell: one western stop only"
+      ],
+      "sceneA": "Large brick Gothic church and bell tower in Venice",
+      "sceneB": "Separate quiet exterior portal and brick tracery detail, no copied paintings",
+      "pose": "Stand quietly side by side in the public square, turned toward the entrance; ask before any interior photograph, respect services and use no flash.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Basilica dei Frari Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "accademia-bridge",
+      "name": "Ponte dell’Accademia",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Ponte dell’Accademia",
+        "Accademia bridge",
+        "Dorsoduro photo walk"
+      ],
+      "sceneA": "Wooden arched footbridge spanning the Grand Canal",
+      "sceneB": "Separate Grand Canal and Salute panorama from a broad public canal edge",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Ponte dell’Accademia Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "pisani",
+      "name": "Palazzo Pisani",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Palazzo Pisani",
+        "Conservatorio / Palazzo Pisani",
+        "Free Pisani concert",
+        "Directors as composers — Conservatorio Benedetto Marcello 150th anniversary",
+        "Free Pisani",
+        "Conservatorio Benedetto Marcello"
+      ],
+      "sceneA": "Venetian palace courtyard with stone arcades and wellhead",
+      "sceneB": "Separate imagined chamber-music rehearsal vignette with generic musicians, no exact hall claim",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Palazzo Pisani Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "rialto",
+      "name": "Ponte di Rialto",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Ponte di Rialto",
+        "Rialto bridge"
+      ],
+      "sceneA": "White stone Rialto bridge spanning the Grand Canal",
+      "sceneB": "Separate lower canal-edge view of bridge arch and colourful boat reflections",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Ponte di Rialto Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "piazzale-roma",
+      "name": "Piazzale Roma",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Piazzale Roma"
+      ],
+      "sceneA": "Venice transport square where road meets canal-side pedestrian routes",
+      "sceneB": "Separate view of canal edge and modern pedestrian-bridge approach",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Piazzale Roma Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "mestre-station",
+      "name": "Venezia Mestre station",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Venezia Mestre station",
+        "Mestre FS",
+        "Mestre station"
+      ],
+      "sceneA": "Mainland railway station and forecourt with ordinary travellers",
+      "sceneB": "Separate perspective beneath platform canopies with a regional train",
+      "pose": "Pause side by side in the public forecourt with bags at your feet; keep all platform edges, doors and pedestrian flows clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Venezia Mestre station Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "m9",
+      "name": "M9 Museum",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "M9 Museum",
+        "M9 Mozart alternative",
+        "Mozart incompiuto",
+        "Sulle note del secolo — Da Bach a Ravel, attraverso Kurtág, Casella e Boulez",
+        "M9 Mozart",
+        "M9"
+      ],
+      "sceneA": "Contemporary angular museum buildings and public courtyard in Mestre",
+      "sceneB": "Separate imagined piano recital vignette with a grand piano and audience silhouettes, no exact hall claim",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "M9 Museum Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "st-marks",
+      "name": "St. Mark’s Basilica",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "St. Mark’s Basilica",
+        "St. Mark's Basilica",
+        "St Mark's sightseeing",
+        "St Mark’s sightseeing",
+        "10:00 sung Mass at St Mark's",
+        "10:00 sung Mass at St Mark’s",
+        "St. Mark's sung solemn Mass"
+      ],
+      "sceneA": "Five-domed basilica facade across the public square",
+      "sceneB": "Separate close view of arched entrance and abstract golden mosaic glow, no copied artwork",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "St. Mark’s Basilica Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "dogana",
+      "name": "Punta della Dogana",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Punta della Dogana"
+      ],
+      "sceneA": "Triangular Venetian waterfront with lagoon and distant San Giorgio",
+      "sceneB": "Separate low waterside view of stone quay and the old customs-house tower",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Punta della Dogana Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "san-rocco",
+      "name": "Scuola Grande di San Rocco",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Scuola Grande di San Rocco",
+        "Scuola Grande San Rocco",
+        "San Rocco"
+      ],
+      "sceneA": "Ornate Renaissance confraternity facade in its Venetian square",
+      "sceneB": "Separate close view of stone entrance and sculptural facade details, no copied Tintoretto",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Scuola Grande di San Rocco Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "accademia-museum",
+      "name": "Gallerie dell’Accademia",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Gallerie dell’Accademia",
+        "Accademia museum",
+        "Accademia"
+      ],
+      "sceneA": "Museum approach facing the Accademia bridge area",
+      "sceneB": "Separate interpretive gallery corridor with blank frames, no painting reproductions",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Gallerie dell’Accademia Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "bovolo",
+      "name": "Scala Contarini del Bovolo",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Scala Contarini del Bovolo"
+      ],
+      "sceneA": "Venetian courtyard with cylindrical spiral staircase and arcades",
+      "sceneB": "Separate upward close view of staircase arches and warm brick",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Scala Contarini del Bovolo Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "doges",
+      "name": "Doge’s Palace",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Doge’s Palace",
+        "Doge's Palace"
+      ],
+      "sceneA": "Pink-and-white Gothic palace facade beside St. Mark's basin",
+      "sceneB": "Separate oblique close view of ground-floor stone arcade and patterned upper facade",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Doge’s Palace Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "campanile",
+      "name": "St. Mark’s Campanile",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "St. Mark’s Campanile",
+        "St Mark's Campanile",
+        "St Mark’s Campanile"
+      ],
+      "sceneA": "Tall brick bell tower rising from Piazza San Marco",
+      "sceneB": "Separate upward view of tower belfry and pale morning sky",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "St. Mark’s Campanile Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "guggenheim",
+      "name": "Peggy Guggenheim Collection",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Peggy Guggenheim Collection",
+        "Peggy Guggenheim"
+      ],
+      "sceneA": "Low white canal-side palace with garden foliage",
+      "sceneB": "Separate imagined garden corner and abstract sculpture-like stones, no copied artwork",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Peggy Guggenheim Collection Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "san-giorgio-venice",
+      "name": "San Giorgio Maggiore",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "San Giorgio Maggiore",
+        "San Giorgio waterfront/church",
+        "San Giorgio’s tower"
+      ],
+      "sceneA": "Island church with white classical facade and bell tower across the basin",
+      "sceneB": "Separate ground-level quay view of facade and mooring posts, no tower-access implication",
+      "pose": "Stand quietly side by side in the public square, turned toward the entrance; ask before any interior photograph, respect services and use no flash.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "San Giorgio Maggiore Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "cannaregio",
+      "name": "Cannaregio",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Cannaregio",
+        "Quiet Cannaregio / lagoon-edge walk"
+      ],
+      "sceneA": "Quiet residential Venetian canal with small bridges",
+      "sceneB": "Separate close view of canal reflections and modest brick waterside facades",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Cannaregio Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "misericordia",
+      "name": "Misericordia, Venice",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Misericordia, Venice",
+        "Misericordia"
+      ],
+      "sceneA": "Broad canal-side walkway in Cannaregio beside historic brick buildings",
+      "sceneB": "Separate low view of a little footbridge and water reflections",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Misericordia, Venice Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "fondamente-nove",
+      "name": "Fondamente Nove",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Fondamente Nove"
+      ],
+      "sceneA": "Northern Venice waterfront facing the open lagoon",
+      "sceneB": "Separate view of mooring posts and a waterbus stop against lagoon islands",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Fondamente Nove Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "zattere",
+      "name": "Zattere",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Zattere"
+      ],
+      "sceneA": "Broad Dorsoduro promenade along the Giudecca Canal",
+      "sceneB": "Separate close view of stone quay, cafe-table silhouettes and passing boats",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Zattere Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "salute",
+      "name": "Santa Maria della Salute",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Santa Maria della Salute",
+        "Salute"
+      ],
+      "sceneA": "Great domed white church at the mouth of the Grand Canal",
+      "sceneB": "Separate public-quay view of dome, stone steps and water, no posing on restricted steps",
+      "pose": "Stand quietly side by side in the public square, turned toward the entrance; ask before any interior photograph, respect services and use no flash.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Santa Maria della Salute Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "san-polo",
+      "name": "San Polo",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "San Polo",
+        "San Polo arrival walk"
+      ],
+      "sceneA": "Venetian campo with a church bell tower and brick paving",
+      "sceneB": "Separate view into a small San Polo canal and quiet lane",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "San Polo Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "carmini",
+      "name": "Scuola Grande dei Carmini",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Scuola Grande dei Carmini",
+        "Intimate Notes: Pearls from Venetian Chamber Music",
+        "Intimate Notes"
+      ],
+      "sceneA": "Venetian confraternity building near Campo Santa Margherita",
+      "sceneB": "Separate imagined intimate chamber ensemble with generic musicians, no copied art or exact hall claim",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Scuola Grande dei Carmini Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "ferretto",
+      "name": "Piazza Ferretto",
+      "city": "venice",
+      "group": "venice",
+      "kind": "landmark",
+      "aliases": [
+        "Piazza Ferretto",
+        "Mestre breakfast + Piazza Ferretto pause"
+      ],
+      "sceneA": "Mestre pedestrian square with civic tower and cafe fronts",
+      "sceneB": "Separate close view of paving and a couple paused beside a cafe frontage",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "reviewQuery": "Piazza Ferretto Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "corso-property",
+      "name": "Corso del Popolo 124, Mestre",
+      "city": "venice",
+      "group": "venice",
+      "kind": "interpretive-place",
+      "aliases": [
+        "Corso del Popolo 124, Mestre",
+        "Corso del Popolo 124",
+        "B&B Corso Venezia"
+      ],
+      "sceneA": "Interpretive mainland Mestre lodging-neighbourhood street, exact property appearance unverified",
+      "sceneB": "Separate imagined quiet breakfast-and-luggage vignette, no exact room claim",
+      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Corso del Popolo 124, Mestre Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "do-spade",
+      "name": "Cantina Do Spade",
+      "city": "venice",
+      "group": "venice",
+      "kind": "food-venue",
+      "aliases": [
+        "Cantina Do Spade",
+        "Do Spade"
+      ],
+      "sceneA": "Imagined small Venetian supper table with bigoli and cuttlefish with polenta",
+      "sceneB": "Distinct close still life of pasta, polenta and two modest wine glasses",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Cantina Do Spade Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "dal-moro",
+      "name": "Dal Moro's Fresh Pasta To Go",
+      "city": "venice",
+      "group": "venice",
+      "kind": "food-venue",
+      "aliases": [
+        "Dal Moro's Fresh Pasta To Go",
+        "Dal Moro’s Fresh Pasta To Go",
+        "Dal Moro&#x27",
+        "s Fresh Pasta To Go",
+        "Dal Moro's"
+      ],
+      "sceneA": "Imagined Venice takeaway-counter vignette with two plain pasta cartons",
+      "sceneB": "Distinct close overhead view of pesto pasta and tomato-coloured pasta in plain cartons",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Dal Moro's Fresh Pasta To Go Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "farini",
+      "name": "Farini Rialto",
+      "city": "venice",
+      "group": "venice",
+      "kind": "food-venue",
+      "aliases": [
+        "Farini Rialto",
+        "Farini"
+      ],
+      "sceneA": "Imagined Venetian bakery breakfast setting with two cappuccinos and croissants",
+      "sceneB": "Distinct close still life of rectangular pizza slices and plain water bottles",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Farini Rialto Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "wisteria",
+      "name": "Wistèria",
+      "city": "venice",
+      "group": "venice",
+      "kind": "food-venue",
+      "aliases": [
+        "Wistèria",
+        "1 / Sunday Wistèria · strongest practical fit",
+        "Wisteria"
+      ],
+      "sceneA": "Imagined refined Venice dinner setting with garden-green accents",
+      "sceneB": "Distinct close still life of a seasonal tasting course and two water glasses",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Wistèria Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    },
+    {
+      "id": "local",
+      "name": "Local",
+      "city": "venice",
+      "group": "venice",
+      "kind": "food-venue",
+      "aliases": [
+        "Local",
+        "2 / Sunday Local · farther east"
+      ],
+      "sceneA": "Imagined contemporary Venetian tasting-menu table in lagoon colours",
+      "sceneB": "Distinct close still life of a delicately plated seasonal seafood course",
+      "pose": "Sit facing each other at your permitted table; hold hands briefly beside the plates, with staff permission and without photographing other diners.",
+      "poseNote": "Illustrated setting is imagined; actual facade, interior, view and photo permission are unverified.",
+      "reviewQuery": "Local Venice Italy",
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+    }
+  ],
+  "sheets": [
+    {
+      "id": "north-01",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "duomo",
+        "san-giovanni-fonti",
+        "duomo-museum"
+      ]
+    },
+    {
+      "id": "north-02",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "sant-ambrogio",
+        "san-lorenzo",
+        "galleria"
+      ]
+    },
+    {
+      "id": "north-03",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "scala-square",
+        "sforza",
+        "sempione"
+      ]
+    },
+    {
+      "id": "north-04",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "arco-pace",
+        "ambrosiana",
+        "risoelatte"
+      ]
+    },
+    {
+      "id": "north-05",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "spontini",
+        "aimo",
+        "cipressi"
+      ]
+    },
+    {
+      "id": "north-06",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "vezio",
+        "bellagio",
+        "menaggio"
+      ]
+    },
+    {
+      "id": "north-07",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "victoria",
+        "alma",
+        "la-vineria"
+      ]
+    },
+    {
+      "id": "north-08",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "corte-mattia",
+        "san-pietro",
+        "ponte-pietra"
+      ]
+    },
+    {
+      "id": "north-09",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "erbe",
+        "signori",
+        "giusti"
+      ]
+    },
+    {
+      "id": "north-10",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "san-zeno",
+        "castelvecchio",
+        "ponte-scaligero"
+      ]
+    },
+    {
+      "id": "north-11",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "arena",
+        "piazza-bra",
+        "verona-station"
+      ]
+    },
+    {
+      "id": "north-12",
+      "group": "north",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "gina",
+        "pompiere",
+        "desco"
+      ]
+    },
+    {
+      "id": "alps-01",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "varenna",
+        "varenna-station",
+        "varenna-ferry"
+      ]
+    },
+    {
+      "id": "alps-02",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "san-giorgio-varenna",
+        "san-giovanni-varenna",
+        "albergo-milano"
+      ]
+    },
+    {
+      "id": "alps-03",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "monastero",
+        "st-moritz-lake",
+        "san-gian"
+      ]
+    },
+    {
+      "id": "alps-04",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "stmoritz-station",
+        "pontresina-station",
+        "santa-maria"
+      ]
+    },
+    {
+      "id": "alps-05",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "pontresina",
+        "staz",
+        "segantini"
+      ]
+    },
+    {
+      "id": "alps-06",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "paracelsus",
+        "ovaverva",
+        "muottas"
+      ]
+    },
+    {
+      "id": "alps-07",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "diavolezza",
+        "dorf",
+        "design-gallery"
+      ]
+    },
+    {
+      "id": "alps-08",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "roseg",
+        "celerina",
+        "cristolais"
+      ]
+    },
+    {
+      "id": "alps-09",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "samedan",
+        "gravatscha",
+        "sils"
+      ]
+    },
+    {
+      "id": "alps-10",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "chaste",
+        "surlej",
+        "lej-nair"
+      ]
+    },
+    {
+      "id": "alps-11",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "lej-marsch",
+        "museum-alpin",
+        "hauser"
+      ]
+    },
+    {
+      "id": "alps-12",
+      "group": "alps",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "la-stalla",
+        "coop",
+        "bernina"
+      ]
+    },
+    {
+      "id": "venice-01",
+      "group": "venice",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "santa-lucia",
+        "frari",
+        "accademia-bridge"
+      ]
+    },
+    {
+      "id": "venice-02",
+      "group": "venice",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "pisani",
+        "rialto",
+        "piazzale-roma"
+      ]
+    },
+    {
+      "id": "venice-03",
+      "group": "venice",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "mestre-station",
+        "m9",
+        "st-marks"
+      ]
+    },
+    {
+      "id": "venice-04",
+      "group": "venice",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "dogana",
+        "san-rocco",
+        "accademia-museum"
+      ]
+    },
+    {
+      "id": "venice-05",
+      "group": "venice",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "bovolo",
+        "doges",
+        "campanile"
+      ]
+    },
+    {
+      "id": "venice-06",
+      "group": "venice",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "guggenheim",
+        "san-giorgio-venice",
+        "cannaregio"
+      ]
+    },
+    {
+      "id": "venice-07",
+      "group": "venice",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "misericordia",
+        "fondamente-nove",
+        "zattere"
+      ]
+    },
+    {
+      "id": "venice-08",
+      "group": "venice",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "salute",
+        "san-polo",
+        "carmini"
+      ]
+    },
+    {
+      "id": "venice-09",
+      "group": "venice",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "ferretto",
+        "corso-property",
+        "do-spade"
+      ]
+    },
+    {
+      "id": "venice-10",
+      "group": "venice",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "dal-moro",
+        "farini",
+        "wisteria"
+      ]
+    },
+    {
+      "id": "venice-11",
+      "group": "venice",
+      "cols": 2,
+      "rows": 3,
+      "placeIds": [
+        "local"
+      ]
+    }
+  ],
+  "coverage": {
+    "foodRows": 15,
+    "foodPhysicalVenues": 13,
+    "additionalSplurgeVenues": 4,
+    "unillustratedGenericCards": [
+      "Airport & flight preparations",
+      "Choose a boat instead of a villa",
+      "Early boat only if it matters more than a relaxed breakfast",
+      "Verona morning · choose one anchor near your departure route",
+      "Venice after arrival · eight alternatives, including mutually exclusive music",
+      "Short local coffee stop, then pack",
+      "Unhurried Mestre lunch",
+      "A full rest morning"
+    ],
+    "combinedCards": {
+      "Duomo interior + San Giovanni alle Fonti archaeology": [
+        "duomo",
+        "san-giovanni-fonti"
+      ],
+      "Galleria Vittorio EmanueleII + Piazza della Scala": [
+        "galleria",
+        "scala-square"
+      ],
+      "Parco Sempione to Arco della Pace": [
+        "sempione",
+        "arco-pace"
+      ],
+      "Dorf, lake escalator and Design Gallery": [
+        "dorf",
+        "design-gallery"
+      ],
+      "Celerina → Cristolais → Samedan": [
+        "celerina",
+        "cristolais",
+        "samedan"
+      ],
+      "Sils → Chastè → Sils": [
+        "sils",
+        "chaste"
+      ],
+      "Surlej → Lej Nair → Lej Marsch": [
+        "surlej",
+        "lej-nair",
+        "lej-marsch"
+      ],
+      "Pontresina village + Santa Maria": [
+        "pontresina",
+        "santa-maria"
+      ],
+      "Ovaverva + Forum Paracelsus": [
+        "ovaverva",
+        "paracelsus"
+      ],
+      "Piazza San Giorgio + San Giorgio/San Giovanni Battista": [
+        "san-giorgio-varenna",
+        "san-giovanni-varenna"
+      ],
+      "PONTE PIETRA + PIAZZA ERBE": [
+        "ponte-pietra",
+        "erbe"
+      ],
+      "Castelvecchio/Ponte Scaligero exterior": [
+        "castelvecchio",
+        "ponte-scaligero"
+      ],
+      "Piazza Bra/Arena exterior + Erbe/Signori": [
+        "piazza-bra",
+        "arena",
+        "erbe",
+        "signori"
+      ],
+      "Ponte Pietra + SanPietro viewpoint": [
+        "ponte-pietra",
+        "san-pietro"
+      ],
+      "Frari / San Rocco branch": [
+        "frari",
+        "san-rocco"
+      ],
+      "Dorsoduro photo walk": [
+        "accademia-bridge",
+        "dogana",
+        "zattere"
+      ],
+      "Quiet Cannaregio / lagoon-edge walk": [
+        "cannaregio",
+        "misericordia",
+        "fondamente-nove"
+      ]
+    },
+    "excludedMereMentions": [
+      "Il Bacio: closure-warning prose only, no place card",
+      "Tirano railway change: transport explanatory prose only",
+      "Linate and Venice airports: transfer prose only"
+    ],
+    "staticCards": [
+      {
+        "heading": "Risoelatte Duomo",
+        "placeIds": [
+          "risoelatte"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Spontini Duomo",
+        "placeIds": [
+          "spontini"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Restaurant Hauser",
+        "placeIds": [
+          "hauser"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "La Stalla",
+        "placeIds": [
+          "la-stalla"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "La Stalla · pizza",
+        "placeIds": [
+          "la-stalla"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Coop Pontresina",
+        "placeIds": [
+          "coop"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Victoria Grill",
+        "placeIds": [
+          "victoria"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Victoria Grill · pizzas",
+        "placeIds": [
+          "victoria"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "ALMA Bistrot",
+        "placeIds": [
+          "alma"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Corte San Mattia · Bacaro Agricolo",
+        "placeIds": [
+          "corte-mattia"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "La Bottega della Gina XXL",
+        "placeIds": [
+          "gina"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Trattoria Al Pompiere",
+        "placeIds": [
+          "pompiere"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Cantina Do Spade",
+        "placeIds": [
+          "do-spade"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Dal Moro's Fresh Pasta To Go",
+        "placeIds": [
+          "dal-moro"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Farini Rialto",
+        "placeIds": [
+          "farini"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "1 / Sunday Wistèria · strongest practical fit",
+        "placeIds": [
+          "wisteria"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "2 / Sunday Local · farther east",
+        "placeIds": [
+          "local"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Add a second splurge: Friday Il Desco",
+        "placeIds": [
+          "desco"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Monday Aimo e Nadia · less convenient",
+        "placeIds": [
+          "aimo"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Directors as composers — Conservatorio Benedetto Marcello 150th anniversary",
+        "placeIds": [
+          "pisani"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Mozart incompiuto",
+        "placeIds": [
+          "m9"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Sulle note del secolo — Da Bach a Ravel, attraverso Kurtág, Casella e Boulez",
+        "placeIds": [
+          "m9"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Intimate Notes: Pearls from Venetian Chamber Music",
+        "placeIds": [
+          "carmini"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "St. Mark's sung solemn Mass",
+        "placeIds": [
+          "st-marks"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Duomo terraces",
+        "placeIds": [
+          "duomo"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Sant'Ambrogio",
+        "placeIds": [
+          "sant-ambrogio"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Galleria Vittorio EmanueleII + Piazza della Scala",
+        "placeIds": [
+          "galleria",
+          "scala-square"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Castello Sforzesco exterior/courtyards",
+        "placeIds": [
+          "sforza"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Parco Sempione to Arco della Pace",
+        "placeIds": [
+          "sempione",
+          "arco-pace"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Duomo Museum rather than roof in rain",
+        "placeIds": [
+          "duomo-museum"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Lake St. Moritz: brief shore pause or official circuit",
+        "placeIds": [
+          "st-moritz-lake"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Forum Paracelsus",
+        "placeIds": [
+          "paracelsus"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Ovaverva",
+        "placeIds": [
+          "ovaverva"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Muottas Muragl viewpoint",
+        "placeIds": [
+          "muottas"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Longer optional forest/lake outing · Lej da Staz",
+        "placeIds": [
+          "staz"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Dorf, lake escalator and Design Gallery",
+        "placeIds": [
+          "dorf",
+          "design-gallery"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Val Roseg: forest, river and a gentle turn-back walk",
+        "placeIds": [
+          "roseg"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Celerina → Cristolais → Samedan",
+        "placeIds": [
+          "celerina",
+          "cristolais",
+          "samedan"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Gravatscha Innauen circular walk",
+        "placeIds": [
+          "gravatscha"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Sils → Chastè → Sils",
+        "placeIds": [
+          "sils",
+          "chaste"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Surlej → Lej Nair → Lej Marsch",
+        "placeIds": [
+          "surlej",
+          "lej-nair",
+          "lej-marsch"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Muottas Muragl panorama",
+        "placeIds": [
+          "muottas"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Diavolezza glacier panorama",
+        "placeIds": [
+          "diavolezza"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Pontresina village + Santa Maria",
+        "placeIds": [
+          "pontresina",
+          "santa-maria"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Ovaverva + Forum Paracelsus",
+        "placeIds": [
+          "ovaverva",
+          "paracelsus"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Monastero house museum",
+        "placeIds": [
+          "monastero"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Villa Cipressi garden",
+        "placeIds": [
+          "cipressi"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Castello di Vezio",
+        "placeIds": [
+          "vezio"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Lovers' walk + old harbour/Riva Grande",
+        "placeIds": [
+          "varenna"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Piazza San Giorgio + San Giorgio/San Giovanni Battista",
+        "placeIds": [
+          "san-giorgio-varenna",
+          "san-giovanni-varenna"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Menaggio: best boat alternative after arrival",
+        "placeIds": [
+          "menaggio"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Bellagio: later boat alternative",
+        "placeIds": [
+          "bellagio"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "FARM TASTING",
+        "placeIds": [
+          "la-vineria"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "CASTEL SAN PIETRO TERRACE",
+        "placeIds": [
+          "san-pietro"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "PONTE PIETRA + PIAZZA ERBE",
+        "placeIds": [
+          "ponte-pietra",
+          "erbe"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "GIARDINO GIUSTI",
+        "placeIds": [
+          "giusti"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Bellagio mini-trip before the Verona train",
+        "placeIds": [
+          "bellagio"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Menaggio early sampler",
+        "placeIds": [
+          "menaggio"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Castelvecchio museum",
+        "placeIds": [
+          "castelvecchio"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Castelvecchio/Ponte Scaligero exterior",
+        "placeIds": [
+          "castelvecchio",
+          "ponte-scaligero"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Arena interior",
+        "placeIds": [
+          "arena"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Piazza Bra/Arena exterior + Erbe/Signori",
+        "placeIds": [
+          "piazza-bra",
+          "arena",
+          "erbe",
+          "signori"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Ponte Pietra + SanPietro viewpoint",
+        "placeIds": [
+          "ponte-pietra",
+          "san-pietro"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Giardino Giusti",
+        "placeIds": [
+          "giusti"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "San Polo arrival walk",
+        "placeIds": [
+          "san-polo"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Frari interior",
+        "placeIds": [
+          "frari"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Scuola Grande San Rocco",
+        "placeIds": [
+          "san-rocco"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Dorsoduro photo walk",
+        "placeIds": [
+          "accademia-bridge",
+          "dogana",
+          "zattere"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Accademia museum",
+        "placeIds": [
+          "accademia-museum"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Scala Contarini del Bovolo",
+        "placeIds": [
+          "bovolo"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Free Pisani concert",
+        "placeIds": [
+          "pisani"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "M9 Mozart alternative",
+        "placeIds": [
+          "m9"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "St Mark's sightseeing",
+        "placeIds": [
+          "st-marks"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Doge's Palace",
+        "placeIds": [
+          "doges"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "St Mark's Campanile",
+        "placeIds": [
+          "campanile"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Frari / San Rocco branch",
+        "placeIds": [
+          "frari",
+          "san-rocco"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Peggy Guggenheim",
+        "placeIds": [
+          "guggenheim"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "San Giorgio waterfront/church",
+        "placeIds": [
+          "san-giorgio-venice"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Quiet Cannaregio / lagoon-edge walk",
+        "placeIds": [
+          "cannaregio",
+          "misericordia",
+          "fondamente-nove"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      },
+      {
+        "heading": "Short local coffee stop, then pack",
+        "placeIds": [],
+        "reason": "Generic activity or editorial introduction; render without a fabricated city gallery"
+      },
+      {
+        "heading": "Unhurried Mestre lunch",
+        "placeIds": [],
+        "reason": "Generic activity or editorial introduction; render without a fabricated city gallery"
+      },
+      {
+        "heading": "A full rest morning",
+        "placeIds": [],
+        "reason": "Generic activity or editorial introduction; render without a fabricated city gallery"
+      },
+      {
+        "heading": "Optional island farewell: one western stop only",
+        "placeIds": [
+          "frari"
+        ],
+        "reason": "Exact heading/alias or explicit combined-place mapping"
+      }
+    ]
+  },
+  "groupNotes": {
+    "north": "Milan, part of Lake Como, Verona",
+    "alps": "Engadin, Bernina, plus seven Varenna places to balance image-generation workload",
+    "venice": "Historic Venice and Mestre"
+  }
+}
