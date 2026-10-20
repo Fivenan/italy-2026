@@ -2,7 +2,9 @@
   "region": "St. Moritz, Engadin and the Bernina railway",
   "verified_as_of": "2026-10-18",
   "method": "Official operator and destination sources checked through web search and page fetches. Published timetables are not a live operating guarantee; availability and the user's purchased tickets were not accessible.",
+  "lakes_updated_on": "2026-10-20",
   "priority_corrections": [
+    {"id":"two-lakes-priority","status":"User priority updated 20 October 2026","finding":"After the user-supplied12:35 arrival, luggage and lunch at Hotel San Gian, prioritise Silvaplanersee and Silsersee using601 outward,605 between shore walks,601 return. Lake St Moritz is a nearby fallback. Published departure candidates require live reconfirmation because current diversions affect stop times.","source_ids":["engadin601-station","engadin609-station","engadin601-hotel","engadin605-lakes","engadin601-return","engadin-sils-live","hotel-transport2026"]},
     {"id":"muottas","status":"Original recommendation corroborated","finding":"Muottas Muragl is a valid October 21 sunset/dinner plan. The official 2026 summer season runs through October 25; the panoramic restaurant serves its evening menu 18:00–21:00; the funicular publishes a final descent at 23:00. Weather, a table and the return transport still need checking.","source_ids":["muottas-hours","muottas-facilities"]},
     {"id":"mountain-alternatives","status":"Clarification","finding":"Corvatsch summer service ends October 16, so exclude it from October 20–22. Diavolezza remains a possible sightseeing alternative: the cable car and Berghaus operate daily October 17–November 15, 07:40–16:20. Skiing starts October 24 on selected weekdays; that does not mean the cable car is closed to pedestrians on October 21.","source_ids":["corvatsch-times"]},
     {"id":"san-gian-church","status":"Correction","finding":"Do not promise the San Gian church interior in Celerina. Its published 2026 public viewing season ends October 15. Enjoy the exterior, or request a private tour from Celerina tourist information; no private availability has been confirmed.","source_ids":["san-gian"]},
@@ -23,17 +25,50 @@
   },
   "recommended_days": [
     {
-      "date":"2026-10-20",
-      "theme":"The railway is the headline; leave the afternoon loose.",
-      "schedule_type":"Suggested pacing around user-provided transport",
-      "plan":[
-        {"time":"Morning","title":"Bernina railway northbound","detail":"Pack breakfast and water, check train/coach on the reservation, and enjoy the changing landscapes. No additional excursion is needed to justify the travel day."},
-        {"time":"After arrival","title":"Lunch and luggage at Hotel San Gian","detail":"Allow hotel travel and check-in time. San Gian is in St. Moritz Bad, so avoid treating it as adjacent to the railway station."},
-        {"time":"14:30–16:00 suggested","title":"Choose a short lake stroll or Segantini","detail":"If clear and rested, walk one accessible stretch of the lake. If wet, Segantini Museum is open on October 20, 11:00–17:00, last admission16:45; visit today because it closes for the season afterwards. Do not schedule both by default.","source_ids":["segantini"]},
-        {"time":"Late afternoon","title":"Ovaverva and an easy supper","detail":"Collect the guest wristband/towel at San Gian reception. Eat at VIVA in the hotel for a low-effort evening; the hotel describes its food as Engadin and international. Ask for a regional dish and a local wine or nonalcoholic pairing.","source_ids":["san-gian-instays","ovaverva-hours"]}
+      "date": "2026-10-20",
+      "theme": "Bernina railway, hotel luggage drop and two priority Engadin lakes.",
+      "schedule_type": "User-supplied12:35 train arrival; published bus timetable candidates; estimated activity blocks and OSRM pedestrian measurements.",
+      "plan": [
+        {
+          "time": "12:35 arrival;12:46 bus candidate",
+          "title": "St Moritz station to Hotel San Gian",
+          "detail": "Take601 to Via San Gian, about11minutes;609 at13:01 (~7minutes) or taxi is backup. Walk about5–10minutes to Via San Gian23. Leave luggage if room not ready; quick lunch and request actual hotel-issued transport pass.",
+          "source_ids": [
+            "engadin601-station",
+            "engadin609-station",
+            "san-gian-hotel",
+            "hotel-transport2026"
+          ]
+        },
+        {
+          "time": "13:57 bus candidate;shore walk finished by14:40–14:42",
+          "title": "Silvaplanersee first",
+          "detail": "601 from Via San Gian to Silvaplana Rundella Curtins (~14:07), then pedestrian route via Mandra, Mulets shore and Senda dal Lej photo turn to Camping. Measured1,737.7m,26min moving at4km/h; allow30–35min with brief pauses, arrive Camping14:40–14:42.14:27 bus is a backup.",
+          "source_ids": [
+            "engadin601-hotel"
+          ]
+        },
+        {
+          "time": "14:47 bus candidate;15:00–16:05 walk",
+          "title": "Silsersee and Chastè approach",
+          "detail": "605 from Camping to Sils/Segl Maria Posta (~7min). Walk directly toward Chastè approach at eastern Silsersee shore and return same route to Posta. Measured2,832.6m,42min moving; allow55–65min with photos. Do not detour through Baselgia village or add full Chastè circuit by default. Backup15:17Camping→15:24Posta shifts walk to15:30; shorten if needed and use checked16:57return.",
+          "source_ids": [
+            "engadin605-lakes",
+            "chaste"
+          ]
+        },
+        {
+          "time": "Around16:30 return;16:27/16:57 printed candidates",
+          "title": "601 back to hotel",
+          "detail": "Sils/Segl Maria Posta to Via San Gian, roughly30–35min on printed route, plus walk to San Gian. Check live time/destination because current diversions change stop times. Finish shore walking by16:30; hotel around17:00–17:30, then dinner/optional short spa.",
+          "source_ids": [
+            "engadin601-return",
+            "engadin-sils-live"
+          ]
+        }
       ],
-      "food":"A slice of Engadiner Nusstorte is a good low-pressure local treat; San Gian sells its own at reception. For a regional dinner, ask what is actually on the current menu rather than assuming capuns is always available.",
-      "rain_plan":"Segantini on the arrival afternoon, then pool/spa and dinner. If delayed, drop the museum and keep the spa; the travel day is already full."
+      "food": "A slice of Engadiner Nusstorte is a good low-pressure local treat; San Gian sells its own at reception. For a regional dinner, ask what is actually on the current menu rather than assuming capuns is always available.",
+      "rain_plan": "Shorten both shores if a safe dry window remains. If delayed/insufficient daylight, visit one lake and give the other priority in21October landscape slot. Persistent rain/ice: replace outing with Segantini today (last seasonal day), Ovaverva or Forum. Local St Moritz lake remains fallback."
     },
     {
       "date":"2026-10-21",
@@ -75,6 +110,38 @@
     {"id":"trenord-line","title":"Trenord — RE8 line status and timetable","url":"https://www.trenord.it/linee-e-orari/circolazione/le-nostre-linee/tirano-sondrio-lecco-milano/?code=RE_8","type":"official rail operator","fetched":"2026-10-18","evidence":"Line includesMilano,Lecco,Tirano. Short platform notice forTirano andVarennaEsino specifically says avoid the final coaches when boarding/alighting."},
     {"id":"trenord-works-ended","title":"Trenord — Milano/Monza/Carnate works ended October9","url":"https://cantieri.trenord.it/it/lavori-nel-nodo-di-milano-e-sulla-linea-milano-monza-carnate","type":"official rail operator","fetched":"2026-10-18","evidence":"2026 notice is marked concluded; applicableAugust29–30 andSeptember1–October9. Does not establish anOctober20/22 disruption or all-clear."},
     {"id":"rhb-construction","title":"RhB — construction work","url":"https://www.rhb.ch/en/news/construction-work/","type":"official rail operator","fetched":"2026-10-18","evidence":"LinksOctober2026 Bernina/Samedan–Pontresina night works calendar; warns dates can shift. Check live timetable for actual service impacts."},
-    {"id":"rhb-nightworks","title":"RhB — October2026 Bernina line night works/noise calendar","url":"https://assets.eu.ctfassets.net/h76myjvzsgnd/3W0DEsWsm8cJ6bAQzPon4L/6d6e88593a802bc8bde62c19cfcdd10b/Internet_-_NRS_2026_-_Darstellung_Strecken_Linie_14_13_-_Okt_2026.pdf","type":"official rail operator linked PDF","fetched":"2026-10-18","evidence":"Title identifies night noise from construction, not a daytime closure announcement. Contains work blocks including19/20October onward; no timetable cancellation is inferable from this calendar alone."}
+    {"id":"rhb-nightworks","title":"RhB — October2026 Bernina line night works/noise calendar","url":"https://assets.eu.ctfassets.net/h76myjvzsgnd/3W0DEsWsm8cJ6bAQzPon4L/6d6e88593a802bc8bde62c19cfcdd10b/Internet_-_NRS_2026_-_Darstellung_Strecken_Linie_14_13_-_Okt_2026.pdf","type":"official rail operator linked PDF","fetched":"2026-10-18","evidence":"Title identifies night noise from construction, not a daytime closure announcement. Contains work blocks including19/20October onward; no timetable cancellation is inferable from this calendar alone."},
+    {"id":"engadin601-station","title":"Engadin Bus601 — St Moritz Bahnhof departures","url":"https://engadinbus.ch/fahrplan/2026-sommer/601_St_Moritz_Bahnhof_8281_H.pdf","type":"official operator or destination","fetched":"2026-10-20","evidence":"Summer timetable valid6June–25October2026.12:46 candidate; Via San Gian+11min. Published timetable, not live operating guarantee."},
+    {"id":"engadin609-station","title":"Engadin Bus609 — station backup to Bad","url":"https://engadinbus.ch/fahrplan/2026-sommer/609_St_Moritz_Bahnhof_8281_H.pdf","type":"official operator or destination","fetched":"2026-10-20","evidence":"13:01 candidate to Via San Gian about7min."},
+    {"id":"engadin601-hotel","title":"Engadin Bus601 — Via San Gian outward","url":"https://engadinbus.ch/fahrplan/2026-sommer/601_St_Moritz_Bad_Via_San_Gian_8267_H.pdf","type":"official operator or destination","fetched":"2026-10-20","evidence":"13:57→Rundella Curtins about14:07;14:27backup."},
+    {"id":"engadin605-lakes","title":"Engadin Bus605 — Silvaplana to Sils","url":"https://engadinbus.ch/fahrplan/2026-sommer/605_Silvaplana_Rundella_Curtins_8320_H.pdf","type":"official operator or destination","fetched":"2026-10-20","evidence":"Rundella Curtins afternoon:16/:46; Camping+1min; Sils Posta+8min. From Camping approx7min riding."},
+    {"id":"engadin601-return","title":"Engadin Bus601 — Sils Posta return","url":"https://engadinbus.ch/fahrplan/2026-sommer/601_Sils_Segl_Maria_Posta_8256_R.pdf","type":"official operator or destination","fetched":"2026-10-20","evidence":"16:27/16:57 printed candidates, Via San Gian roughly33min; current live times can differ due diversions."},
+    {"id":"engadin-sils-live","title":"Engadin Bus — Sils Posta live departures and current notices","url":"https://engadinbus.ch/haltestelle/silssegl-maria-posta","type":"official operator or destination","fetched":"2026-10-20","evidence":"Current stop snippets:26/:56 can differ from summer PDF. Serlas closure, temporary Signalbahn stop and Furtschellasbahn not served from17October require live recheck."},
+    {"id":"hotel-transport2026","title":"Engadin — hotel and public transport inclusion2026","url":"https://booking.engadin.ch/de/experiences/hotel--offentlicher-verkehr-inklusive-sommer","type":"official operator or destination","fetched":"2026-10-20","evidence":"Summer1May–31October2026; qualifying hotel2+nights. Hotel-issued ticket required including arrival journey; booking confirmation alone insufficient. Confirm actual coverage/issue with San Gian."},
+    {"id":"chaste","title":"Sils — Chastè peninsula walking route","url":"https://www.sils.ch/en/guide/power-of-nature/chaste-peninsula","type":"official operator or destination","fetched":"2026-10-20","evidence":"Official full route4.36km,1h12moving,49m ascent. Default short shore approach is a different OSRM route."}
+  ],
+  "lake_photographs": [
+    {
+      "place": "Silvaplanersee",
+      "file": "assets/photos/engadin/silvaplanersee.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lake_Silvaplana.jpg",
+      "date_taken": "2021-08-17",
+      "author": "Tiia Monto",
+      "license": "CC BY-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Commons thumbnail resized proportionally; no crop in guide",
+      "context": "Elevated summer panorama, not October shoreline documentary view"
+    },
+    {
+      "place": "Silsersee",
+      "file": "assets/photos/engadin/silsersee.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Silsersee_and_Piz_da_la_Margna.jpg",
+      "date_taken": "2021-08-14",
+      "author": "Tiia Monto",
+      "license": "CC BY-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Commons thumbnail resized proportionally; no crop in guide",
+      "context": "Elevated summer panorama, not October shoreline documentary view"
+    }
   ]
 }

@@ -52,6 +52,12 @@
 !/artwork/venice.json
 !/assets/
 /assets/*
+!/assets/photos/
+/assets/photos/*
+!/assets/photos/engadin/
+/assets/photos/engadin/*
+!/assets/photos/engadin/silvaplanersee.jpg
+!/assets/photos/engadin/silsersee.jpg
 !/assets/watercolors/
 /assets/watercolors/*
 !/assets/watercolors/north/

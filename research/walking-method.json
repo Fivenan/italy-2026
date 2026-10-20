@@ -20,5 +20,26 @@
     "Initial Pisani Gritti hotel geocode corrected to concert conservatory.",
     "Santa Maria Pontresina coordinate: https://mapcarta.com/W268714113 (OSM-derived)."
   ],
-  "missingRouteCases": []
+  "missingRouteCases": [],
+  "engadin_update": {
+    "checkedOn": "2026-10-20",
+    "method": "FOSSGIS OSRM pedestrian GeoJSON routes; shore shaping points checked against OSM map. Network measurements are not access guarantees.",
+    "arrival": "12:35 St Moritz station→Hotel San Gian by bus/taxi; optional2,289.2m station walk excluded from default.",
+    "default": "Two separate shore parts1,737.7m+2,832.6m=4,570.3m.601station/hotel/Silvaplana,605Camping/Sils,601return are bus legs, never drawn as walking.",
+    "pace": "4km/h model:69min moving; allow85–100min with photos plus stop/hotel access and bus waits. Reach Camping14:40–14:42 for14:47candidate;15:17backup needs later walk/return. Live operation and ice clearance unverified.",
+    "routes": [
+      {
+        "label": "Silvaplanersee · Rundella Curtins → Mulets shore → Camping",
+        "distanceM": 1737.7,
+        "routeSource": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/9.79798317,46.46045685;9.7928772,46.45772552;9.79531765,46.45661545;9.797,46.4557;9.7926693,46.45654297?overview=full&geometries=geojson&steps=false",
+        "coordinateSource": "https://api3.geo.admin.ch/rest/services/api/SearchServer?type=locations&sr=4326&searchText=Silvaplana%20Rundella%20Curtins"
+      },
+      {
+        "label": "Silsersee · Sils Maria Posta → Chastè approach → return",
+        "distanceM": 2832.6,
+        "routeSource": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/9.7650404,46.43024063;9.75218105,46.43009949;9.7650404,46.43024063?overview=full&geometries=geojson&steps=false",
+        "coordinateSource": "https://api3.geo.admin.ch/rest/services/api/SearchServer?type=locations&sr=4326&searchText=Sils%20Segl%20Maria%20Posta"
+      }
+    ]
+  }
 }
