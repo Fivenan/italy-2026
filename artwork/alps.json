@@ -329,5 +329,62 @@
       "bytes": 699618
     }
   ],
-  "generatedAt": "2026-10-19T05:39:53.860Z"
+  "generatedAt": "2026-10-19T05:39:53.860Z",
+  "poseGuides": [
+    {
+      "id": "st-moritz-lake",
+      "path": "assets/pose-guides/st-moritz-lake.webp",
+      "tool": "builtin-imagegen",
+      "prompt": "Use case: photorealistic-natural. Create a photographic pose-guide triptych, 1536x1024 landscape canvas divided into exactly THREE EQUAL VERTICAL PANELS edge-to-edge, no gaps, no text. Scene is Lake St. Moritz Switzerland in clear autumn afternoon light. Ground geography in the viewed official tourism lake photograph: broad blue lake, town/hotels spreading along rising opposite north shore below forested rounded Alpine slopes, layered ridges, golden larches, grassy shore and occasional rocks. Do not invent a giant Matterhorn or remote wilderness. Beautiful convincing real landscape photography, natural scale and perspective. Overlay ONLY two generic adults as high-contrast hand-drawn white and dark teal contour sketch figures with lightly translucent cream fill; landscape remains photographic, figures intentionally drawn and readable with clothes/limbs/body orientation. LEFT: full-length couple on broad dry shore walking path, side by side backs three-quarter toward camera, holding hands low, looking across water at hillside town; camera eye-level 4 metres behind; leave beautiful wide lake above figures. CENTRE: couple seated naturally on simple public lakeside bench on dry path, both feet grounded, bodies turned slightly together, one looks at lake other toward partner; camera 3 metres away at seated eye height from their side, lake and hillside town visible. RIGHT: couple strolling on generous shoreline path fully away from water edge, one half-step ahead turns head back toward partner; camera eye-height 5 metres ahead, full bodies and path curving gently beside lake with town across water. Preserve exactly three clear separate panels with straight division at 1/3 and 2/3. No labels, arrows, text, logos, watermark. Reference is factual visual guidance only, do not copy reference people or exact photo composition. Illustration is a plausible guide, not documentary.",
+      "referencePages": [
+        {
+          "title": "St. Moritz Tourism · lake photograph",
+          "url": "https://www.stmoritz.com/en/lake-st-moritz"
+        },
+        {
+          "title": "Switzerland Tourism · St. Moritz",
+          "url": "https://www.myswitzerland.com/en-gb/destinations/st-moritz/"
+        }
+      ],
+      "referencePhotosVisuallyInspected": true,
+      "referenceImagesUsed": "Local previews supplied to built-in generation; third-party photographs not published.",
+      "qa": {
+        "visuallyInspected": true,
+        "layout": "Three equal vertical panels, realistic photographic backgrounds and contour sketch couple overlays",
+        "notes": "Illustrative geography, bench and station placement; no documentary exactness. Modern panoramic coaches; safe seated and platform poses."
+      }
+    },
+    {
+      "id": "bernina",
+      "path": "assets/pose-guides/bernina.webp",
+      "tool": "builtin-imagegen",
+      "prompt": "Use case: photorealistic-natural. Create a photographic travel pose-guide triptych, 1536x1024 landscape canvas divided into exactly THREE EQUAL VERTICAL PANELS edge-to-edge no gaps no text. Bernina Express Switzerland, modern red panoramic railway coaches, not vintage Pullman. Geography grounded in reference photo: Lago Bianco turquoise high Alpine reservoir amid broad treeless rocky grey slopes and distant snow patches; realistic restrained terrain and daylight. Modern interiors light grey walls black/grey upholstered seats with pale headrests, huge fixed glazed panoramic windows extending into roof, modest white tables. Photorealistic beautiful scenery and train architecture. Overlay ONLY generic adult couple as clearly readable hand-drawn dark teal and white outline sketch figures with translucent pale cream fill, no photographic faces or people. LEFT: side profile of one adult seated naturally at closed panoramic window looking outside, second adult seated opposite with hand on table and looks at partner; camera from seated opposite aisle-side seat, candid medium framing waist up, dominant panoramic window shows turquoise lake rocky Alpine horizon. CENTRE: two adults seated beside each other in modern panorama coach, shoulders turned gently together and heads looking at each other, hands resting on laps, keep aisle empty; camera from opposite seats, chest-height medium view with window and roof glazing visible, autumn mountain scenery beyond. RIGHT: couple standing together fully on broad paved public station platform pedestrian area several metres behind visible white safety line, stationary modern red panoramic train behind them, no doors blocked; relaxed full-body three-quarter pose looking at each other, camera on same pedestrian area 4 metres away eye level, distant rocky mountain slope. Show both figures clearly inland of safety line, tracks on far side inaccessible. No leaning out, open windows, tracks under subjects, overhead drone pose, vintage furnishings, ornate dining, text labels, arrows, logos, watermark. References ground factual train and landscape appearance, create independent illustrative compositions rather than copied photographs. Exactly three equally sized separate panels, each independently framed.",
+      "referencePages": [
+        {
+          "title": "RhB · Bernina Express photo gallery",
+          "url": "https://www.rhb.ch/en/panoramic-journeys/bernina-express/"
+        },
+        {
+          "title": "RhB · modern panoramic cars",
+          "url": "https://www.rhb.ch/en/charter-rides/panoramic-cars/"
+        }
+      ],
+      "referencePhotosVisuallyInspected": true,
+      "referenceImagesUsed": "Local previews supplied to built-in generation; third-party photographs not published.",
+      "qa": {
+        "visuallyInspected": true,
+        "layout": "Three equal vertical panels, realistic photographic backgrounds and contour sketch couple overlays",
+        "notes": "Illustrative geography, bench and station placement; no documentary exactness. Modern panoramic coaches; safe seated and platform poses."
+      },
+      "edits": [
+        {
+          "tool": "builtin-imagegen",
+          "prompt": "Edit the supplied photographic pose-guide triptych. Preserve exactly the entire LEFT and MIDDLE interior panels, their people, scenery, framing, colors and straight panel boundaries. Change ONLY RIGHT THIRD platform scene to remove safety ambiguity. Keep modern red panoramic train and rocky Alpine mountain background and same cream/dark-teal sketch adult couple style. Recompose right third with train MUCH FARTHER in background; a broad empty paved public platform spans at least 3 metres between sketch couple and the single safety boundary line nearest train. The clear solid WHITE SAFETY LINE must run across the ground BEHIND BOTH FIGURES, visibly BETWEEN couple and train for its ENTIRE LENGTH, with both feet and all body parts firmly on foreground public pedestrian side, far from edge. No white line in foreground or across/beneath couple. Show line unobscured on both sides of couple and wide empty paving buffer behind them. Train stands beyond line at platform edge, smaller in scene. Couple full-length foreground looking at each other, relaxed, camera also safely on same spacious public pedestrian side. Prefer a horizontal-to-shallow-diagonal safety line across background to make depth totally clear. Preserve three equal-width panels and 1536x1024 overall; no text, arrows, logo, watermark. Right scene clearly illustrative generic station; realistic ordinary public platform photo, not trackside portrait.",
+          "target": "assets/pose-guides/bernina.webp",
+          "qa": "Visually inspected original PNG and optimized WebP. Couple fully in foreground public pedestrian area; white safety line behind both figures and between them and distant stationary train. First two interior compositions visually preserved; no pixel-identity claim."
+        }
+      ]
+    }
+  ],
+  "poseGuideReencoding": "Content-preserving PNG to WebP, Sharp quality 88; no crop, resize or effects, 1536x1024 each"
 }

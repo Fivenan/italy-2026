@@ -58,6 +58,10 @@
 /assets/photos/engadin/*
 !/assets/photos/engadin/silvaplanersee.jpg
 !/assets/photos/engadin/silsersee.jpg
+!/assets/pose-guides/
+/assets/pose-guides/*
+!/assets/pose-guides/st-moritz-lake.webp
+!/assets/pose-guides/bernina.webp
 !/assets/watercolors/
 /assets/watercolors/*
 !/assets/watercolors/north/

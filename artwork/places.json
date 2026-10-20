@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "style": "Original AI-generated watercolor illustrations; no photo inputs",
-  "artDirection": "Warm travel journal, wet pigment, textured paper; original compositions, no artist imitation, no text, logos, watermarks or signatures. Each row has two separately composed paintings of its named place, left broad view and right different closer view. Generic unidentified adults only. No photo reference input. Interpretive/imagined scenes must be captioned as such.",
+  "style": "Original AI-generated watercolor illustrations, plus photo-informed illustrative pose guides for Lake St. Moritz and Bernina Express",
+  "artDirection": "Warm travel journal, wet pigment, textured paper; original compositions, no artist imitation, no text, logos, watermarks or signatures. Each row has two separately composed paintings of its named place, left broad view and right different closer view. Generic unidentified adults only. No photo reference input. Interpretive/imagined scenes must be captioned as such. Exception: poseGuide entries use realistic generated scenery informed by inspected official photographs, with sketch figures and separate practical captions; source links are recorded per guide.",
   "panelContract": {
     "columns": 2,
     "rows": 3,
@@ -770,7 +770,41 @@
       "pose": "Stand shoulder to shoulder on a broad open permitted path, looking toward the water or peaks; stay away from edges and avoid icy ground.",
       "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
       "reviewQuery": "Lake St. Moritz Engadin Switzerland",
-      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware.",
+      "poseGuide": {
+        "src": "assets/pose-guides/st-moritz-lake.webp",
+        "sources": [
+          {
+            "title": "St. Moritz Tourism · lake photograph",
+            "url": "https://www.stmoritz.com/en/lake-st-moritz"
+          },
+          {
+            "title": "Switzerland Tourism · St. Moritz",
+            "url": "https://www.myswitzerland.com/en-gb/destinations/st-moritz/"
+          }
+        ],
+        "note": "Use the dry public shore path and an available bench; keep the path clear. The bench location is illustrative. Do not step onto wet rocks or into the lake.",
+        "poses": [
+          {
+            "title": "1 · Hand in hand by the lake",
+            "body": "Stand or walk side by side on the dry path, backs three-quarter to the camera; join your inside hands low.",
+            "gaze": "Look across the water toward the hillside town.",
+            "camera": "Eye height, about 4 m behind. Frame both people head to toe in the lower half; leave room for water and the town."
+          },
+          {
+            "title": "2 · A quiet bench moment",
+            "body": "Sit close on an available bench with both feet down; turn your shoulders slightly toward each other.",
+            "gaze": "One looks over the lake while the other turns gently toward their partner.",
+            "camera": "About 3 m behind the bench, slightly to one side at seated eye height. Include the bench, water and rising town."
+          },
+          {
+            "title": "3 · Walk and look back",
+            "body": "Walk slowly along the broad dry path; let one partner stay half a step ahead, hands relaxed.",
+            "gaze": "The leading partner glances back toward the other.",
+            "camera": "Eye height, about 5 m behind. Keep full bodies and a strip of path; place lake and town beside and above them."
+          }
+        ]
+      }
     },
     {
       "id": "san-gian",
@@ -1238,7 +1272,41 @@
       "pose": "Pause side by side in the public forecourt with bags at your feet; keep all platform edges, doors and pedestrian flows clear.",
       "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
       "reviewQuery": "Bernina railway Engadin Switzerland",
-      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
+      "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware.",
+      "poseGuide": {
+        "src": "assets/pose-guides/bernina.webp",
+        "sources": [
+          {
+            "title": "RhB · Bernina Express photo gallery",
+            "url": "https://www.rhb.ch/en/panoramic-journeys/bernina-express/"
+          },
+          {
+            "title": "RhB · modern panoramic cars",
+            "url": "https://www.rhb.ch/en/charter-rides/panoramic-cars/"
+          }
+        ],
+        "note": "Stay seated inside with windows closed and aisles clear. For the platform pose, use a permitted stopping place well behind the safety line, away from doors and moving trains; skip it if space or time is limited. The illustrated station setting is generic.",
+        "poses": [
+          {
+            "title": "1 · Across the window table",
+            "body": "Sit facing each other in your assigned seats, hands relaxed on the table or lap; angle one shoulder toward the closed window.",
+            "gaze": "Turn between the passing view and your partner for a natural profile.",
+            "camera": "From an available opposite or aisle-side seat, seated eye height. Frame both profiles, the table and a generous area of panoramic window."
+          },
+          {
+            "title": "2 · Side by side in the panorama car",
+            "body": "Sit close in your assigned adjacent seats, shoulders gently turned together; rest hands on your laps.",
+            "gaze": "Look at each other, keeping your heads below the main landscape view.",
+            "camera": "From the opposite seat with permission, chest height. Use a medium two-person frame including the curved roof glazing."
+          },
+          {
+            "title": "3 · Beside the red train",
+            "body": "On a permitted broad platform, stand close together well behind the safety line, with the stationary train behind you.",
+            "gaze": "Turn faces gently toward each other, shoulders relaxed.",
+            "camera": "Eye height about 4 m away, also behind the line. Include full bodies, red carriage windows and mountain sky; keep doors clear."
+          }
+        ]
+      }
     },
     {
       "id": "santa-lucia",
