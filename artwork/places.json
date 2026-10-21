@@ -262,8 +262,8 @@
       ],
       "sceneA": "Lake Como village waterfront with colourful houses beneath steep green slopes",
       "sceneB": "Separate low waterside view of the old harbour and small moored boats",
-      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
-      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "pose": "Riva Grande couple: stand 45° toward each other, inner hands linked, look at each other; camera chest height, 1×, 3–5 m away. Solo: weight on rear leg, soft front knee, torso toward lake, face to camera. Lovers’ Walk: hand-in-hand toward camera, one looks lakeward and one at partner; short 1× burst from a wider section.",
+      "poseNote": "Creative photo directions; watercolor views are imagined. Check actual public access and weather, keep paths clear, and do not climb railings. Hills may shade the shore before sunset.",
       "reviewQuery": "Varenna Lake Como",
       "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
     },
@@ -295,8 +295,8 @@
       ],
       "sceneA": "Ferry approaching Varenna landing against the lake mountains",
       "sceneB": "Separate view from public shore of pier posts and boarding shelter",
-      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
-      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "pose": "Stand shoulder to shoulder diagonally toward the shore, faces into soft light; camera 1×, horizon level, a little railing in the foreground. Take turns for a solo portrait looking back toward Varenna. Stay inside the rail and clear of boarding.",
+      "poseNote": "Creative photo directions; watercolor views are imagined. Check actual public access and weather, keep paths clear, and do not climb railings. Hills may shade the shore before sunset.",
       "reviewQuery": "Varenna ferry landing Lake Como",
       "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
     },
@@ -416,8 +416,8 @@
       ],
       "sceneA": "Bellagio promontory and waterfront seen across Lake Como",
       "sceneB": "Separate close street view up a stepped lane between pastel buildings",
-      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
-      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "pose": "Salita Serbelloni: on a broad landing, angle bodies along the stairs and look back toward camera below, 1×/2×. Solo: one hand at lapel and a soft front knee. Punta Spartivento: side by side with lake branches behind, look at mountains then each other; chest-height 1×, off-centre framing. Allow about an hour for the village loop; skip Punta if return margin tight.",
+      "poseNote": "Creative photo directions; watercolor views are imagined. Check actual public access and weather, keep paths clear, and do not climb railings. Hills may shade the shore before sunset.",
       "reviewQuery": "Bellagio Lake Como",
       "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
     },
@@ -430,12 +430,13 @@
       "aliases": [
         "Menaggio",
         "Menaggio: best boat alternative after arrival",
-        "Menaggio early sampler"
+        "Menaggio early sampler",
+        "Menaggio: optional waterfront alternative"
       ],
       "sceneA": "Menaggio lakefront promenade and mountains across the water",
       "sceneB": "Separate close view of lakeside flowers and pastel townfront arcades",
-      "pose": "Stand together on a broad public approach, one partner turned toward the landmark and the other smiling toward them; keep doorways and paths clear.",
-      "poseNote": "Use public permitted ground; never sit or climb on railings or monuments. Ask before photographing people.",
+      "pose": "On the free waterfront/Piazza Garibaldi loop, walk side by side in profile with lake behind, look toward each other; chest-height 1× burst. Solo: turn torso toward the lake and face back to camera, weight on rear leg. This is an optional alternative to Bellagio.",
+      "poseNote": "Creative photo directions; watercolor views are imagined. Check actual public access and weather, keep paths clear, and do not climb railings. Hills may shade the shore before sunset.",
       "reviewQuery": "Menaggio Lake Como",
       "sourceContext": "Visible revised guide activity/choice/food card or selectable walking stop; alias matching must be exact and city-aware."
     },
@@ -2702,7 +2703,7 @@
         "reason": "Exact heading/alias or explicit combined-place mapping"
       },
       {
-        "heading": "Menaggio: best boat alternative after arrival",
+        "heading": "Menaggio: optional waterfront alternative",
         "placeIds": [
           "menaggio"
         ],

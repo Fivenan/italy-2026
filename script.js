@@ -29,7 +29,7 @@
     try { id = decodeURIComponent(location.hash.slice(1)); } catch (_) { return; }
     const target = document.getElementById(id);
     if (target?.tagName === 'DETAILS') target.open = true;
-    else if (target?.classList.contains('day')) target.querySelector('details').open = true;
+    else if (target?.classList.contains('day') && target.id !== 'day22') { const details = target.querySelector('details'); if (details) details.open = true; }
   };
   window.addEventListener('hashchange', revealHash);
   revealHash();

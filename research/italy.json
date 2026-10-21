@@ -1,6 +1,6 @@
 {
   "scope": "Milan, Varenna and Verona, 19–24 October 2026",
-  "checked_on": "2026-10-18",
+  "checked_on": "2026-10-22",
   "research_policy": "Official venue, operator and destination sources. Suggested activity times are planning estimates. No tickets, hotel reservations, transfers or tables have been booked.",
   "critical_corrections": [
     {
@@ -54,6 +54,7 @@
     }
   ],
   "verified_facts": [
+    {"id":"day22_regional_and_ferry_plan","status":"published_timetables_not_live_booking","fact":"22October primary candidate08:48 StMoritz→11:00Tirano,12:08RE2827→13:35Varenna.68minute buffer. Bags first;15:25Bellagio ferry,17:20return,18:20backup; later16:30out/18:20return/18:50backup.15min arrival arithmetic. Varenna has rail; Bellagio/Menaggio do not. Two-person ordinary return€22,threelegs€33,stretch3daypass€35 with geographic validity tocheck. Swiss ticket quote unresolved; Italian€16–20two allowance only; no pass assumed. All actual journeys require live status and tickets.","sources":["summer_2026_connections","trenord_re8_2026","como_autumn_2026","como_fares_2026","rhb_regional_reservations"]},
     {
       "id": "santambrogio_monday",
       "status": "published_hours",
@@ -184,6 +185,7 @@
     }
   ],
   "must_confirm": [
+    "22October live SBB and Trenord itineraries and actual two-adult fares/discount entitlement; hotel bag storage/address; same-day ferry notices, capacity and weather. Photo poses and walking/café durations are creative planning suggestions.",
     "All traveller-supplied train times, train numbers, changes and ticket conditions; no rail booking engine confirmation was obtained by this researcher.",
     "Milan guesthouse luggage drop and access, plus early checkout before the 06:20 train.",
     "Official full-view returns for Giselle only if ballet interests you; current normal tickets say sold out.",
@@ -219,6 +221,13 @@
     {"id": "arena_season", "title": "Fondazione Arena — 2026 Opera Festival dates", "url": "https://www.arena.it/magazine/news/svelati-i-cast-dellarena-opera-festival-2026/", "supports": "12 June–12 September 2026 festival"},
     {"id": "arena_calendar", "title": "Fondazione Arena — official upcoming performances", "url": "https://www.arena.it/spettacoli/", "supports": "25 October 15:30 Filarmonico Jeu de cartes/Amelia al ballo opening; no opera listed 23 October"},
     {"id": "pompiere_hours", "title": "Trattoria Al Pompiere — location, opening and booking", "url": "https://alpompiere.com/en/contatti/", "supports": "Vicolo Regina d'Ungheria 5, Monday–Saturday 12:30–14:00 and 19:30–22:00, Sunday closed, request needs confirmation"},
-    {"id": "pompiere_menu", "title": "Trattoria Al Pompiere — official seasonal menu", "url": "https://alpompiere.com/en/menu/", "supports": "Lessinia salami, Amarone-braised beef cheek, sbrisolona; seasonally variable menu"}
+    {"id": "pompiere_menu", "title": "Trattoria Al Pompiere — official seasonal menu", "url": "https://alpompiere.com/en/menu/", "supports": "Lessinia salami, Amarone-braised beef cheek, sbrisolona; seasonally variable menu"},
+    {"id":"rhb_regional_reservations","title":"RhB — Bernina line regional seat reservations","url":"https://www.rhb.ch/en/tickets/bernina-line-reservations/","supports":"Optional CHF5 regional seat reservation, unreserved travel permitted; travel ticket separate"},
+    {"id":"summer_2026_connections","title":"Engadin Bus / RhB — summer 2026 timetable through 25 October","url":"https://engadinbus.ch/wp-content/uploads/2026/05/final-low-sommerfahrplan-2026.pdf","supports":"RhB08:48–11:00 and09:48–12:23 Tirano;60409:18–10:56 /10:18–11:56 Chiavenna; live date recheck required"},
+    {"id":"trenord_re8_2026","title":"Trenord — Q180 June 2026 timetable","url":"https://www.trenord.it/fileadmin/contenuti/TRENORD/2-Linee_e_orari/Orario_ferroviario/ORARIO_in_vigore/Q180_giugno_2026.pdf","supports":"PDF page10 printed636 RE2827 Tirano12:08→Varenna13:35, note4 from5August; live disruptions separate"},
+    {"id":"como_autumn_2026","title":"Navigazione Laghi — weekday5 October–1 November ferry timetable","url":"https://www.navigazionelaghi.it/wp-content/uploads/2026/09/Orari_WebVerticali-A26_Tfer.pdf","supports":"Varenna15:25/16:30 toBellagio; Bellagio17:20/18:20/18:50 back; Menaggio alternative retained. Arrivals15min arithmetic"},
+    {"id":"como_fares_2026","title":"Navigazione Laghi — April2026 passenger fares","url":"https://www.navigazionelaghi.it/wp-content/uploads/2026/03/NLC_Tariffe-A4_042026_CT012018_eng.pdf","supports":"Visually checked triangle pairs stretch3€5.50adultleg; daypass€17.50adult, route-area validity recheck"},
+    {"id":"bellagio_village_loop","title":"Bellagio tourism — historic village itinerary","url":"https://www.bellagiolakecomo.com/wp-content/uploads/2025/02/itinerario-storico-borgo-it.pdf","supports":"Village map supports waterfront, SalitaSerbelloni, SanGiacomo and PuntaSpartivento; proposed60min timing creative planning"},
+    {"id":"trenord_october_tariff","title":"Trenord — tariff from1 October2026","url":"https://www.trenord.it/fileadmin/contenuti/TRENORD/3-News/Trenord_Informa/Avvisi/2026/AvvisoA4Trenord_2026_179_Tariffario_01_ottobre.pdf","supports":"Distance bands do not establish commercial route distance; €8–10person allowance only, live fare unresolved"}
   ]
 }
