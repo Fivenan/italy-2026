@@ -17,6 +17,9 @@
 !/walks-data.js
 !/budget-data.js
 !/README.md
+!/varenna.html
+!/varenna.css
+!/varenna.js
 !/research/
 /research/*
 !/research/italy.json
@@ -26,6 +29,7 @@
 !/research/food-swiss-frankfurt.json
 !/research/food-music-venice.json
 !/research/walking-method.json
+!/research/varenna-afternoon.json
 !/revised/
 /revised/*
 !/revised/index.html
@@ -58,6 +62,11 @@
 /assets/photos/engadin/*
 !/assets/photos/engadin/silvaplanersee.jpg
 !/assets/photos/engadin/silsersee.jpg
+!/assets/photos/como/
+/assets/photos/como/*
+!/assets/photos/como/varenna-lakefront.jpg
+!/assets/photos/como/bellagio-serbelloni.jpg
+!/assets/photos/como/bellagio-spartivento.jpg
 !/assets/pose-guides/
 /assets/pose-guides/*
 !/assets/pose-guides/st-moritz-lake.webp

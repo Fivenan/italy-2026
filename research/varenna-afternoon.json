@@ -1,0 +1,21 @@
+{
+  "checked_on": "2026-10-22",
+  "scope": "Dedicated outing from the user's Varenna waterfront pin, leaving at 16:00",
+  "release": "ui-varenna-20261022-1600",
+  "hotel": {"label": "Your shared waterfront pin", "lat": 46.0109555, "lon": 9.2830510, "name_verified": false, "source": "https://maps.app.goo.gl/mzbi9q96bpuZ8Hf76?g_st=ic"},
+  "terminals": [
+    {"name": "Varenna car-ferry terminal", "lat": 46.0134089, "lon": 9.2829240, "source": "https://www.openstreetmap.org/node/1863060158", "tags_checked": ["motorcar=yes", "foot=yes"]},
+    {"name": "Bellagio car-ferry terminal, Lungo Lario Manzoni", "lat": 45.9858341, "lon": 9.2599515, "source": "https://www.openstreetmap.org/node/470216788", "tags_checked": ["motorcar=yes"]}
+  ],
+  "sailings": {"outward": "16:30 T127", "outward_backup": "16:55 B171", "return": "18:20 T622", "return_backup": "18:50 B174", "crossing_minutes": 15, "arrival_times": "Departure plus 15 minutes, estimated rather than independently printed arrival rows", "validity": "Weekdays 5 October to 1 November 2026", "source": "https://www.navigazionelaghi.it/wp-content/uploads/2026/09/Orari_WebVerticali-A26_Tfer.pdf"},
+  "fares": {"ordinary_adult_single_eur": 5.5, "two_adults_return_eur": 22, "source": "https://www.navigazionelaghi.it/wp-content/uploads/2026/03/NLC_Tariffe-A4_042026_CT012018_eng.pdf", "note": "Source-dated published fare; confirm service and actual fare at purchase"},
+  "walks": {"hotel_to_pier": "Estimated 0.4-0.6 km, 8-12 minutes via waterfront/Lovers' Walk", "bellagio_short_m": 1023, "bellagio_full_m": 2090.7, "routing_checked_on": "2026-10-22", "routing_source": "https://routing.openstreetmap.de/", "data_source": "https://www.openstreetmap.org/copyright", "note": "FOSSGIS pedestrian network routes compiled into varenna.js. Paths, steps and access require on-site checks. Walking times include slope allowances; interiors, photo detours and Varenna walking excluded from Bellagio totals."},
+  "visit_reference": "https://www.bellagiolakecomo.com/wp-content/uploads/2025/02/itinerario-storico-borgo-it.pdf",
+  "photos": [
+    {"file": "assets/photos/como/varenna-lakefront.jpg", "title": "Lakefront of Varenna 2016", "creator": "Oursana", "source": "https://commons.wikimedia.org/wiki/File:Lakefront_of_Varenna_2016.jpg", "license": "CC0", "license_url": "https://creativecommons.org/publicdomain/zero/1.0/", "date": "2016-06-24"},
+    {"file": "assets/photos/como/bellagio-serbelloni.jpg", "title": "Salita Serbelloni", "creator": "Davide Mauro", "source": "https://commons.wikimedia.org/wiki/File:Salita_Serbelloni.jpg", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0/", "date": "2022-06-05"},
+    {"file": "assets/photos/como/bellagio-spartivento.jpg", "title": "Punta Spartivento @ Bellagio", "creator": "Guilhem Vellut", "source": "https://commons.wikimedia.org/wiki/File:Punta_Spartivento_@_Bellagio_(49589913777).jpg", "license": "CC BY 2.0", "license_url": "https://creativecommons.org/licenses/by/2.0/", "date": "2019-11-04"}
+  ],
+  "photo_modifications": "Resized to maximum width 1280 and JPEG re-encoded. Responsive display crops; the Serbelloni derivative retains CC BY-SA 4.0. Real photographs depict earlier years and do not guarantee October weather, light or access.",
+  "assumptions": ["Two adults", "16:00 means hotel departure", "Shared GPS pin is the desired starting building", "No bookings or boarding priority", "Punta is optional and omitted if late or conditions poor"]
+}
