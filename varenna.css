@@ -6,3 +6,6 @@
 @media(max-width:760px){.stop-card.photo-stop figure{grid-row:1}.stop-card.photo-stop .stop-copy{grid-row:2}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 @media print{.outing-nav,.skip,.button,.route-choice,#load-walk-map,.map-tools{display:none!important}html{scroll-behavior:auto}body{background:white;font-size:11px}.topbar,main,footer{padding-inline:0}.hero{padding-top:20px;grid-template-columns:1fr 1fr;gap:25px}.hero h1{font-size:36px}.hero-photo img{max-height:220px}.photo-note{display:none}.section{padding:25px 0}.section h2{font-size:28px}.stop-card{break-inside:avoid}.sources{break-before:page}.photo-extra>div{display:block!important}footer{padding-bottom:0}}
+/* Clear return paths to both the current guide and the dated itinerary. */
+.topbar a{min-height:44px;display:inline-flex;align-items:center}.itinerary-back{font-size:12px;color:var(--green);text-underline-offset:4px}select:focus-visible{outline:3px solid var(--ochre);outline-offset:4px}
+@media(max-width:600px){.topbar{gap:8px}.topbar .back{flex-basis:100%;font-size:13px}.itinerary-back{flex:1}.topbar .return-shortcut{font-size:12px}}

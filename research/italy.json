@@ -1,60 +1,91 @@
 {
   "scope": "Milan, Varenna and Verona, 19–24 October 2026",
-  "checked_on": "2026-10-22",
+  "checked_on": "2026-10-23",
   "research_policy": "Official venue, operator and destination sources. Suggested activity times are planning estimates. No tickets, hotel reservations, transfers or tables have been booked.",
   "critical_corrections": [
     {
       "claim": "La traviata at La Scala on Monday 19 October, 20:00",
       "verdict": "Wrong production; standard tickets sold out",
       "replacement": "La Scala lists Giselle, a ballet, on 19 October 2026 at 20:00. The event page explicitly says Sold out. Published running time is approximately 2 hours 5 minutes including the interval, giving an approximate 22:05 finish. La traviata's 2026 run ended on 15 October. Treat La Scala as an optional ballet opportunity only if official returns become available.",
-      "sources": ["scala_giselle", "scala_traviata_season"],
+      "sources": [
+        "scala_giselle",
+        "scala_traviata_season"
+      ],
       "importance": "critical"
     },
     {
       "claim": "Book an early Milan dinner at 17:30",
       "verdict": "Does not fit the suggested restaurant's published service",
       "replacement": "Al Mercante's official dinner service begins at 18:30 Monday–Saturday. It is now at Via Cesare Cantù 7, corner Piazza Pio XI. Reserve 18:30 and tell the restaurant about a 20:00 performance if you obtain a ticket; otherwise enjoy a normal early dinner and protect sleep before the 06:20 train.",
-      "sources": ["mercante_hours"],
+      "sources": [
+        "mercante_hours"
+      ],
       "importance": "medium"
     },
     {
       "claim": "St Augustine's baptism belongs to the Sant'Ambrogio visit",
       "verdict": "Historical connection right, location must be distinguished",
       "replacement": "Ambrose baptised Augustine in 387 in the Baptistery of San Giovanni alle Fonti, whose surviving remains are in the Duomo archaeological area. Sant'Ambrogio is a separate basilica, important for Ambrose's legacy and burial. Choose a Duomo ticket that explicitly includes the archaeological area or add the appropriate supplement; a rooftop combo alone does not necessarily include it.",
-      "sources": ["duomo_archaeology", "duomo_ticket_updates", "santambrogio"],
+      "sources": [
+        "duomo_archaeology",
+        "duomo_ticket_updates",
+        "santambrogio"
+      ],
       "importance": "high"
     },
     {
       "claim": "Villa Monastero October Thursday 10:00–18:00",
       "verdict": "Confirmed for October 2026, with a useful missing cutoff",
       "replacement": "Garden opens daily 10:00–18:00; house museum follows those hours but closes Tuesdays. Thursday 22 and Friday 23 are normally open. Last entry is 30 minutes before closing, hence 17:30. Reach it around 16:00 for an unhurried visit rather than arriving at the cutoff.",
-      "sources": ["villa_monastero"],
+      "sources": [
+        "villa_monastero"
+      ],
       "importance": "medium"
     },
     {
       "claim": "La Vista lake-facing dinner in late October",
       "verdict": "Season fits, table and exact date remain unconfirmed",
       "replacement": "Albergo Milano advertises dinner April through late October, closed Tuesdays, from 19:00. Italian and English pages differ on closing time, so use 19:00 and ask for an indoor window table on 22 October; terrace weather and a specific table are not guaranteed. Dinner will be after the best daylight, so enjoy the lakeside view before dinner.",
-      "sources": ["lavista_en", "lavista_it"],
+      "sources": [
+        "lavista_en",
+        "lavista_it"
+      ],
       "importance": "medium"
     },
     {
       "claim": "La Vineria di San Mattia is a simple city-centre hotel stop",
       "verdict": "Hill property with an address ambiguity to resolve",
       "replacement": "La Vineria is part of the Corte San Mattia family farm in Verona's northern hills. Its own site lists Via Sommavalle 1 and says cellar rooms are about 300 m from the main agriturismo; the main Corte San Mattia site lists Via Santa Giuliana 2/A. Ask the host which entrance and check-in point match your booking, then arrange station transfers. Do not use the main farm's marketing distance from the city as a walking time to the Arena or station.",
-      "sources": ["vineria", "corte_sanmattia"],
+      "sources": [
+        "vineria",
+        "corte_sanmattia"
+      ],
       "importance": "high"
     },
     {
       "claim": "Arena opera in late October",
       "verdict": "Summer opera season has ended",
       "replacement": "The 2026 Arena Opera Festival ran 12 June–12 September. The indoor Teatro Filarmonico has its own programme; the published October opera/ballet double bill starts Sunday 25 October, after this itinerary leaves Verona. Do not promise an Arena or Filarmonico opera on 23 October.",
-      "sources": ["arena_season", "arena_calendar"],
+      "sources": [
+        "arena_season",
+        "arena_calendar"
+      ],
       "importance": "high"
     }
   ],
   "verified_facts": [
-    {"id":"day22_regional_and_ferry_plan","status":"published_timetables_not_live_booking","fact":"22October primary candidate08:48 StMoritz→11:00Tirano,12:08RE2827→13:35Varenna.68minute buffer. Bags first;15:25Bellagio ferry,17:20return,18:20backup; later16:30out/18:20return/18:50backup.15min arrival arithmetic. Varenna has rail; Bellagio/Menaggio do not. Two-person ordinary return€22,threelegs€33,stretch3daypass€35 with geographic validity tocheck. Swiss ticket quote unresolved; Italian€16–20two allowance only; no pass assumed. All actual journeys require live status and tickets.","sources":["summer_2026_connections","trenord_re8_2026","como_autumn_2026","como_fares_2026","rhb_regional_reservations"]},
+    {
+      "id": "day22_regional_and_ferry_plan",
+      "status": "published_timetables_not_live_booking",
+      "fact": "22October primary candidate08:48 StMoritz→11:00Tirano,12:08RE2827→13:35Varenna.68minute buffer. Bags first;15:25Bellagio ferry,17:20return,18:20backup; later16:30out/18:20return/18:50backup.15min arrival arithmetic. Varenna has rail; Bellagio/Menaggio do not. Two-person ordinary return€22,threelegs€33,stretch3daypass€35 with geographic validity tocheck. Swiss ticket quote unresolved; Italian€16–20two allowance only; no pass assumed. All actual journeys require live status and tickets.",
+      "sources": [
+        "summer_2026_connections",
+        "trenord_re8_2026",
+        "como_autumn_2026",
+        "como_fares_2026",
+        "rhb_regional_reservations"
+      ]
+    },
     {
       "id": "santambrogio_monday",
       "status": "published_hours",
@@ -71,7 +102,11 @@
       "id": "sanzeno_sat",
       "status": "published_date_specific_exception",
       "fact": "The church operator lists San Zeno's March–October Saturday visitor hours as 09:00–18:00. Visit Verona additionally publishes a specific 24 October exception: 09:00–14:30 and 16:30–18:00. Use 09:00–10:00 in either case. Services can suspend visits. Single-church admission is published as €4, bought on site; no advance reservation is required.",
-      "sources": ["verona_church_hours", "verona_sanzeno_date", "verona_church_tickets"]
+      "sources": [
+        "verona_church_hours",
+        "verona_sanzeno_date",
+        "verona_church_tickets"
+      ]
     },
     {
       "id": "sanzeno_meaning",
@@ -100,15 +135,44 @@
       "anchor": "Duomo archaeological area + Sant'Ambrogio",
       "pace": "Two substantial visits; the roof is optional. The next morning's 06:20 train makes sleep valuable.",
       "schedule": [
-        {"time": "10:20", "activity": "Arrive LIN on your stated flight; exact flight operation remains traveller-supplied."},
-        {"time": "11:15–12:30 approximate", "activity": "Shuttle or taxi toward Centrale, drop luggage at Via Ponte Seveso 18 if the guesthouse agrees, and have a simple lunch. Do not buy a tight 12:30 timed ticket off an inbound flight.", "source": "linate_shuttle"},
-        {"time": "13:30–15:00 proposed", "activity": "Duomo interior and San Giovanni alle Fonti archaeological area. Read the baptism site as a real place in Augustine's story. If you prefer skyline views, allow another 45–60 minutes for the roof and shorten the rest of the afternoon; ticket times, access and availability must be selected on the official portal.", "sources": ["duomo_archaeology", "duomo_tickets"]},
-        {"time": "15:30–16:30 proposed", "activity": "Sant'Ambrogio: atrium, Romanesque interior and crypt if open. Its Monday tourist window is 14:30–18:00, with worship taking priority.", "source": "santambrogio"},
-        {"time": "18:30 proposed", "activity": "Dinner at Al Mercante or a convenient neighbourhood restaurant, then pack for the train. Ask what Milanese dishes are on the day's menu rather than assuming risotto, ossobuco and cotoletta are all offered.", "sources": ["mercante_hours", "mercante_menu"]}
+        {
+          "time": "10:20",
+          "activity": "Arrive LIN on your stated flight; exact flight operation remains traveller-supplied."
+        },
+        {
+          "time": "11:15–12:30 approximate",
+          "activity": "Shuttle or taxi toward Centrale, drop luggage at Via Ponte Seveso 18 if the guesthouse agrees, and have a simple lunch. Do not buy a tight 12:30 timed ticket off an inbound flight.",
+          "source": "linate_shuttle"
+        },
+        {
+          "time": "13:30–15:00 proposed",
+          "activity": "Duomo interior and San Giovanni alle Fonti archaeological area. Read the baptism site as a real place in Augustine's story. If you prefer skyline views, allow another 45–60 minutes for the roof and shorten the rest of the afternoon; ticket times, access and availability must be selected on the official portal.",
+          "sources": [
+            "duomo_archaeology",
+            "duomo_tickets"
+          ]
+        },
+        {
+          "time": "15:30–16:30 proposed",
+          "activity": "Sant'Ambrogio: atrium, Romanesque interior and crypt if open. Its Monday tourist window is 14:30–18:00, with worship taking priority.",
+          "source": "santambrogio"
+        },
+        {
+          "time": "18:30 proposed",
+          "activity": "Dinner at Al Mercante or a convenient neighbourhood restaurant, then pack for the train. Ask what Milanese dishes are on the day's menu rather than assuming risotto, ossobuco and cotoletta are all offered.",
+          "sources": [
+            "mercante_hours",
+            "mercante_menu"
+          ]
+        }
       ],
       "optional_music": "Only if suitable official tickets become available: Giselle ballet at La Scala, 20:00–approximately 22:05. Arrive around 19:15; a 18:30 dinner must be explicitly arranged as a short pre-theatre meal. Mainstream seats were sold out when checked. The more relaxed default is dinner and bed, with vocal music pursued in Venice.",
       "rain_plan": "The cathedral, archaeology and basilica work well in rain. Drop rooftop terraces first if weather or delays intervene.",
-      "skip": ["Last Supper on this compressed arrival day without an existing reservation", "Treating La traviata as an available performance", "The entire Duomo complex, a long lunch, Sant'Ambrogio and a ticket queue in one afternoon"]
+      "skip": [
+        "Last Supper on this compressed arrival day without an existing reservation",
+        "Treating La traviata as an available performance",
+        "The entire Duomo complex, a long lunch, Sant'Ambrogio and a ticket queue in one afternoon"
+      ]
     },
     {
       "date": "2026-10-22",
@@ -117,10 +181,27 @@
       "anchor": "Villa Monastero garden, waterfront and La Vista",
       "pace": "The rail journey from St. Moritz uses much of the day. Stay in Varenna; avoid adding a ferry excursion to Bellagio.",
       "schedule": [
-        {"time": "On arrival", "activity": "Walk or arrange transfer to Albergo Milano, leave luggage, then choose activities around actual arrival rather than an invented rail connection."},
-        {"time": "16:00–17:30 proposed", "activity": "Villa Monastero garden and house if arrival allows. Both are normally open Thursday 10:00–18:00; final entry 17:30. The garden is the priority for lake views. If you arrive after 16:30, shorten the house visit or skip it.", "source": "villa_monastero"},
-        {"time": "Before dusk", "activity": "Waterfront and Passeggiata degli Innamorati; sit with a drink, then Piazza San Giorgio. Church interior is opportunistic because a reliable date-specific schedule has not been established."},
-        {"time": "19:00 proposed", "activity": "La Vista at your hotel: request an indoor lake-facing window table and ask what local lake fish is in season. Published late-October season fits Thursday; exact operation and table require the restaurant's confirmation.", "sources": ["lavista_en", "lavista_it"]}
+        {
+          "time": "On arrival",
+          "activity": "Walk or arrange transfer to Albergo Milano, leave luggage, then choose activities around actual arrival rather than an invented rail connection."
+        },
+        {
+          "time": "16:00–17:30 proposed",
+          "activity": "Villa Monastero garden and house if arrival allows. Both are normally open Thursday 10:00–18:00; final entry 17:30. The garden is the priority for lake views. If you arrive after 16:30, shorten the house visit or skip it.",
+          "source": "villa_monastero"
+        },
+        {
+          "time": "Before dusk",
+          "activity": "Waterfront and Passeggiata degli Innamorati; sit with a drink, then Piazza San Giorgio. Church interior is opportunistic because a reliable date-specific schedule has not been established."
+        },
+        {
+          "time": "19:00 proposed",
+          "activity": "La Vista at your hotel: request an indoor lake-facing window table and ask what local lake fish is in season. Published late-October season fits Thursday; exact operation and table require the restaurant's confirmation.",
+          "sources": [
+            "lavista_en",
+            "lavista_it"
+          ]
+        }
       ],
       "rain_plan": "House museum, a leisurely coffee and a window-table dinner. No boat trip is needed.",
       "friday_morning": "Breakfast and a short waterfront stroll. An 11:35 train allows only a compressed visit after the villa's 10:00 opening, so prioritise the villa on Thursday and be at Varenna-Esino around 11:15 if that service is confirmed. Allow extra time uphill with luggage."
@@ -128,16 +209,31 @@
     {
       "date": "2026-10-23",
       "place": "Verona",
-      "headline": "Let the vineyard stay be the special experience",
-      "anchor": "Farm views and a host-led wine experience, subject to availability",
-      "pace": "After your stated 15:17 arrival, choose either the farm evening or the city walk; doing both with check-in creates repeated hill transfers.",
+      "headline": "Hotel first, then a gentle Verona evening",
+      "anchor": "Ponte Pietra, Sottoriva and the old squares after check-in",
+      "pace": "16:00 arrival confirmed by traveller; all subsequent transfer and walking times are estimates.",
       "schedule": [
-        {"time": "15:17 traveller-supplied", "activity": "Arrive Verona Porta Nuova if the original train itinerary is reconfirmed. Pre-arrange a taxi to the exact La Vineria check-in entrance; leave 30–45 minutes in the plan for meeting the driver, traffic and check-in, an estimate rather than a fare or running-time quote."},
-        {"time": "16:15–18:15 proposed", "activity": "Enjoy the farm's views in daylight and ask about a short wine tasting, farm walk or meeting a family producer. The property advertises wine experiences and produces Valpolicella, Amarone and Recioto; no particular 23 October session is confirmed.", "source": "vineria"},
-        {"time": "Evening", "activity": "Reserve dinner at the family farm's restaurant if it is operating. This best uses a hillside stay and avoids another return taxi. Ask the host about Friday kitchen hours and the walk between your room, tasting and restaurant.", "source": "vineria"}
+        {
+          "time": "16:00 confirmed",
+          "activity": "Verona Porta Nuova; taxi with bags to La Vineria, Via Sommavalle 1. Confirm exact check-in entrance. Ready around 16:45–17:00, estimated."
+        },
+        {
+          "time": "17:15 / 17:40 estimated",
+          "activity": "Taxi down around 17:15; begin Ponte Pietra → Sottoriva → Piazza Erbe → Piazza Signori around 17:40, finishing around 19:00."
+        },
+        {
+          "time": "19:30 proposed",
+          "activity": "Al Pompiere if confirmed table and all-in meal within €80 for two. First courses €16–25, mains €24–34, desserts €8–11; water, wine and covers require current quote. Within 24h request by phone; confirmation required.",
+          "source": "pompiere_hours"
+        },
+        {
+          "time": "Around 21:00 estimated",
+          "activity": "Taxi back uphill; ask host about arrangements. RadioTaxi 24h +39 045 532666; same-evening advance reservation and fare not guaranteed."
+        }
       ],
-      "city_alternative": "If the city matters more: check in, then taxi to Ponte Pietra, walk toward Piazza delle Erbe and Piazza Bra/Arena exterior, and dine at Al Pompiere at 19:30. Arrange the return taxi before dinner. This replaces the farm dinner/tasting, and a separate Castel San Pietro ascent is optional only if time and energy allow.",
-      "rain_plan": "Indoor tasting if confirmed, otherwise a long meal at the farm; keep city sightseeing for Saturday morning."
+      "city_alternative": "Short 45–75 minute river/squares walk; longer 90–120 minute Via Mazzini–Piazza Bra–Arena exterior extension, optional detours unmeasured. Existing measured Ponte Pietra–Arena route remains 1478.5 m. Terrace/funicular replaces part of walk: 45–60 minutes, published Apr–Oct 10–21, €3 return/person (€6/two), recheck operation.",
+      "rain_plan": "Brief squares and indoor meal, or stay at property for Bacaro Agricolo daily 19–21:30, booking recommended; published €63 two-person basket. Confirm room-to-restaurant route.",
+      "giusti": "10–18, last entry 17; not dependable Friday after hotel-first arrival. Defer to another visit without disrupting Saturday San Zeno/onward travel."
     },
     {
       "date": "2026-10-24",
@@ -145,10 +241,26 @@
       "headline": "Protect San Zeno, then move on without rushing",
       "anchor": "09:00 San Zeno",
       "schedule": [
-        {"time": "08:15–08:45 proposed", "activity": "Check out after breakfast; taxi from the hill property. Plan luggage storage before a church visit or go directly to the station and use a verified deposit service. Host/driver timings and luggage arrangements need confirmation."},
-        {"time": "09:00–10:00 proposed", "activity": "San Zeno Maggiore, with the bronze doors, crypt and Mantegna altarpiece. Saturday 24 October is published as open from 09:00, with an afternoon interruption; a morning visit avoids that issue.", "sources": ["verona_church_hours", "verona_sanzeno_date"]},
-        {"time": "10:15–11:15 optional", "activity": "Short walk via Castelvecchio/Ponte Scaligero toward Piazza Bra for the Arena exterior and a coffee. Do not add an Arena interior tour unless you have chosen a later train and checked its admission conditions."},
-        {"time": "Late morning / around noon target", "activity": "Collect luggage and board a confirmed Verona Porta Nuova–Venezia Mestre train. Choose an actual departure with at least 30–45 minutes to retrieve bags and reach the platform after sightseeing. No specific train time has been verified; an early train before roughly 11:00 means dropping the city walk, and a very early departure means dropping San Zeno."}
+        {
+          "time": "08:15–08:45 proposed",
+          "activity": "Check out after breakfast; taxi from the hill property. Plan luggage storage before a church visit or go directly to the station and use a verified deposit service. Host/driver timings and luggage arrangements need confirmation."
+        },
+        {
+          "time": "09:00–10:00 proposed",
+          "activity": "San Zeno Maggiore, with the bronze doors, crypt and Mantegna altarpiece. Saturday 24 October is published as open from 09:00, with an afternoon interruption; a morning visit avoids that issue.",
+          "sources": [
+            "verona_church_hours",
+            "verona_sanzeno_date"
+          ]
+        },
+        {
+          "time": "10:15–11:15 optional",
+          "activity": "Short walk via Castelvecchio/Ponte Scaligero toward Piazza Bra for the Arena exterior and a coffee. Do not add an Arena interior tour unless you have chosen a later train and checked its admission conditions."
+        },
+        {
+          "time": "Late morning / around noon target",
+          "activity": "Collect luggage and board a confirmed Verona Porta Nuova–Venezia Mestre train. Choose an actual departure with at least 30–45 minutes to retrieve bags and reach the platform after sightseeing. No specific train time has been verified; an early train before roughly 11:00 means dropping the city walk, and a very early departure means dropping San Zeno."
+        }
       ],
       "lunch_alternative": "Al Pompiere opens lunch at 12:30, so it requires a later onward train. Do not promise this lunch and an early Venice arrival together."
     }
@@ -160,28 +272,40 @@
       "address": "Via Cesare Cantù 7, corner Piazza Pio XI",
       "why": "Convenient to the Duomo and a workable 18:30 dinner. Traditional Milanese foods to ask about include saffron risotto, ossobuco and cotoletta; the restaurant says its menu changes daily, so dishes are not guaranteed.",
       "hours": "Monday–Saturday lunch 12:00–14:30, dinner 18:30–22:30; Sunday closed",
-      "sources": ["mercante_hours", "mercante_menu"]
+      "sources": [
+        "mercante_hours",
+        "mercante_menu"
+      ]
     },
     {
       "name": "La Vista at Albergo Milano",
       "place": "Varenna",
       "why": "A romantic dinner in your own hotel, with indoor lake-facing windows. Ask about seasonal lake fish; do not assume perch is available or promise a sunset terrace dinner in October.",
       "hours": "April to late October, evenings from 19:00, Tuesdays closed; English and Italian versions differ on closing time",
-      "sources": ["lavista_en", "lavista_it"]
+      "sources": [
+        "lavista_en",
+        "lavista_it"
+      ]
     },
     {
       "name": "Corte San Mattia family farm restaurant / wine experience",
       "place": "Verona hills",
-      "why": "Highest-fit use of your accommodation: local wine and a chance to talk to the people producing it. The farm advertises restaurant bookings, cellar experiences and wine-bar tastings. Confirm the Friday service and exact room-to-restaurant distance with your host.",
-      "sources": ["vineria", "corte_sanmattia"]
+      "why": "Rain/low-energy fallback after check-in: Bacaro Agricolo dinner daily 19–21:30, booking recommended. Published €63 two-person basket; confirm exact room-to-restaurant route. Paid tastings remain optional.",
+      "sources": [
+        "vineria",
+        "corte_sanmattia"
+      ]
     },
     {
       "name": "Trattoria Al Pompiere",
       "place": "Central Verona",
       "address": "Vicolo Regina d'Ungheria 5",
-      "why": "A good city-dinner alternative. Published seasonal menu includes Lessinia salami, Amarone-braised beef cheek and sbrisolona. Its present risotto is not risotto all'Amarone, so do not attribute that dish to this venue without reconfirming.",
+      "why": "Recommended city dinner if table and all-in €80 order are confirmed. Published seasonal menu includes Lessinia salami, Amarone-braised beef cheek and sbrisolona. Its present risotto is not risotto all'Amarone, so do not attribute that dish to this venue without reconfirming.",
       "hours": "Monday–Saturday 12:30–14:00 and 19:30–22:00; Sunday closed",
-      "sources": ["pompiere_hours", "pompiere_menu"]
+      "sources": [
+        "pompiere_hours",
+        "pompiere_menu"
+      ]
     }
   ],
   "must_confirm": [
@@ -195,39 +319,227 @@
     "San Zeno same-day liturgy changes and bag arrangements; the morning window is published as open but can change."
   ],
   "sources": [
-    {"id": "scala_giselle", "title": "La Scala — Giselle, October 2026 dates, sold-out status and running time", "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html", "supports": "19 October at 20:00, sold out, ballet, approximately 2 h 5 m including interval"},
-    {"id": "scala_traviata_season", "title": "La Scala — 2025–2026 season", "url": "https://www.teatroallascala.org/it/stagione/2025-2026/index.html", "supports": "La traviata run 19 September–15 October 2026"},
-    {"id": "scala_boxoffice", "title": "La Scala — official box-office guidelines", "url": "https://www.teatroallascala.org/en/season/box-office/box-office-guidelines.html", "supports": "Limited/no-view balcony procedure, normal €10, non-opera allocation 80, in-person list three hours before, ID/customer code, sales two hours before; doors open 45 minutes before"},
-    {"id": "santambrogio", "title": "Basilica di Sant'Ambrogio — visit information", "url": "https://www.basilicasantambrogio.it/basilica", "supports": "Monday–Saturday sightseeing 10:00–12:00 and 14:30–18:00, services take priority"},
-    {"id": "duomo_archaeology", "title": "Milan Duomo — archaeological area and Augustine's baptism", "url": "https://www.duomomilano.it/en/art-and-culture/archaeological-area/", "supports": "San Giovanni alle Fonti below the Duomo forecourt; Ambrose baptised Augustine here in 387"},
-    {"id": "duomo_ticket_updates", "title": "Milan Duomo — access and ticket-inclusion updates", "url": "https://www.duomomilano.it/en/access-updates-for-the-milan-duomo-monumental-complex/", "supports": "Archaeology requires cathedral ticket, archaeology supplement or culture pass; standard combo rooftop pass lists cathedral, terraces and museum rather than archaeology"},
-    {"id": "duomo_visit", "title": "Milan Duomo — official visit and practical information", "url": "https://www.duomomilano.it/en/guided-tour-and-incentive/", "supports": "Large bags not permitted; official tickets and visit information"},
-    {"id": "duomo_tickets", "title": "Milan Duomo — official ticket portal", "url": "https://ticket.duomomilano.it/", "supports": "Official booking destination only; no 19 October ticket inventory verified"},
-    {"id": "linate_shuttle", "title": "Linate Shuttle — official route and stops", "url": "https://www.linateshuttle.it/en/routes", "supports": "Airport–Milano Centrale connection, Piazza Luigi di Savoia stop; no exact 19 October departure verified"},
-    {"id": "atm_m4", "title": "ATM — M4 airport line and interchange information", "url": "https://www.atm.it/en/ViaggiaConNoi/InfoTraffico/Pages/M4passengerserviceinformation2.aspx", "supports": "Linate airport M4 line; Sant'Ambrogio interchange with M2, a practical one-change route toward Centrale"},
-    {"id": "verona_luggage", "title": "KiBag — official Verona Porta Nuova luggage storage", "url": "https://www.kibag.it/en/deposito-bagagli-verona/deposito-kipoint-verona-pn/", "supports": "In-station ground-level deposit, daily 08:00–20:00; provides a concrete Saturday morning luggage option, capacity and final rate still to check"},
-    {"id": "verona_luggage_station", "title": "Verona Porta Nuova station — KiPoint listing", "url": "https://www.veronaportanuova.it/stores/kipoint", "supports": "Official station listing, ground floor atrium toward bike park, opening 08:00–20:00"},
-    {"id": "mercante_hours", "title": "Al Mercante — official location and opening times", "url": "https://ristorantealmercante.it/it/prenotare-ristorante-milano-centro/", "supports": "Via Cesare Cantù 7; Monday–Saturday 12:00–14:30 and 18:30–22:30; Sunday closed"},
-    {"id": "mercante_menu", "title": "Al Mercante — menu policy", "url": "https://ristorantealmercante.it/it/menu-ristorante-milano/", "supports": "Daily changing seasonal menu; no specific dish guaranteed"},
-    {"id": "villa_monastero", "title": "Villa Monastero — official 2026 opening hours and admission", "url": "https://www.villamonastero.eu/en/opening-hours-ticket/", "supports": "October 2026 house 10:00–18:00 except Tuesday, garden daily 10:00–18:00, last admission 30 minutes before closure"},
-    {"id": "lavista_en", "title": "Albergo Milano — La Vista restaurant, English", "url": "https://www.albergomilanovarenna.com/ristorante-la-vista/", "supports": "April–late October, 19:00–21:30, Tuesdays closed; seasonal menu, indoor windows and weather-dependent summer terrace"},
-    {"id": "lavista_it", "title": "Albergo Milano — La Vista restaurant, Italian", "url": "https://www.albergomilanovarenna.com/it/ristorante-la-vista/", "supports": "April–late October, Tuesday closed, dinner 19:00–22:00, minimum two courses; differs from English on closing time"},
-    {"id": "vineria", "title": "Agriturismo La Vineria — official farm, rooms and services", "url": "https://www.agriturismoverona.farm/", "supports": "Via Sommavalle 1, northern Verona hills; cellar rooms about 300 m from main agriturismo; restaurant and wine experiences, Valpolicella/Amarone/Recioto"},
-    {"id": "corte_sanmattia", "title": "Corte San Mattia — official family-farm accommodation", "url": "https://www.agriturismosanmattia.it/", "supports": "Family of three agriturismi including La Vineria; main property Via Santa Giuliana 2/A; restaurant and tasting links"},
-    {"id": "verona_church_hours", "title": "Chiese Vive Verona — official church visiting hours", "url": "https://chieseverona.it/it/info-visita", "supports": "San Zeno March–October 2026 Saturday 09:00–18:00, services can restrict visits, no reservation required"},
-    {"id": "verona_sanzeno_date", "title": "Visit Verona — San Zeno date-specific opening exceptions", "url": "https://www.visitverona.it/it/luoghi/basilica-di-san-zeno", "supports": "Saturday 24 October visitor opening 09:00–14:30 and 16:30–18:00; services suspend tourism"},
-    {"id": "verona_church_tickets", "title": "Chiese Vive Verona — official admission information", "url": "https://chieseverona.it/it/visite", "supports": "Single-church ticket €4, purchased on site, no advance purchase/reservation"},
-    {"id": "verona_sanzeno_municipal", "title": "Verona municipality — San Zeno basilica", "url": "https://turismo.comune.verona.it/nqcontent.cfm?a_id=35790", "supports": "Bronze doors, crypt with St Zeno's remains, Mantegna altarpiece"},
-    {"id": "arena_season", "title": "Fondazione Arena — 2026 Opera Festival dates", "url": "https://www.arena.it/magazine/news/svelati-i-cast-dellarena-opera-festival-2026/", "supports": "12 June–12 September 2026 festival"},
-    {"id": "arena_calendar", "title": "Fondazione Arena — official upcoming performances", "url": "https://www.arena.it/spettacoli/", "supports": "25 October 15:30 Filarmonico Jeu de cartes/Amelia al ballo opening; no opera listed 23 October"},
-    {"id": "pompiere_hours", "title": "Trattoria Al Pompiere — location, opening and booking", "url": "https://alpompiere.com/en/contatti/", "supports": "Vicolo Regina d'Ungheria 5, Monday–Saturday 12:30–14:00 and 19:30–22:00, Sunday closed, request needs confirmation"},
-    {"id": "pompiere_menu", "title": "Trattoria Al Pompiere — official seasonal menu", "url": "https://alpompiere.com/en/menu/", "supports": "Lessinia salami, Amarone-braised beef cheek, sbrisolona; seasonally variable menu"},
-    {"id":"rhb_regional_reservations","title":"RhB — Bernina line regional seat reservations","url":"https://www.rhb.ch/en/tickets/bernina-line-reservations/","supports":"Optional CHF5 regional seat reservation, unreserved travel permitted; travel ticket separate"},
-    {"id":"summer_2026_connections","title":"Engadin Bus / RhB — summer 2026 timetable through 25 October","url":"https://engadinbus.ch/wp-content/uploads/2026/05/final-low-sommerfahrplan-2026.pdf","supports":"RhB08:48–11:00 and09:48–12:23 Tirano;60409:18–10:56 /10:18–11:56 Chiavenna; live date recheck required"},
-    {"id":"trenord_re8_2026","title":"Trenord — Q180 June 2026 timetable","url":"https://www.trenord.it/fileadmin/contenuti/TRENORD/2-Linee_e_orari/Orario_ferroviario/ORARIO_in_vigore/Q180_giugno_2026.pdf","supports":"PDF page10 printed636 RE2827 Tirano12:08→Varenna13:35, note4 from5August; live disruptions separate"},
-    {"id":"como_autumn_2026","title":"Navigazione Laghi — weekday5 October–1 November ferry timetable","url":"https://www.navigazionelaghi.it/wp-content/uploads/2026/09/Orari_WebVerticali-A26_Tfer.pdf","supports":"Varenna15:25/16:30 toBellagio; Bellagio17:20/18:20/18:50 back; Menaggio alternative retained. Arrivals15min arithmetic"},
-    {"id":"como_fares_2026","title":"Navigazione Laghi — April2026 passenger fares","url":"https://www.navigazionelaghi.it/wp-content/uploads/2026/03/NLC_Tariffe-A4_042026_CT012018_eng.pdf","supports":"Visually checked triangle pairs stretch3€5.50adultleg; daypass€17.50adult, route-area validity recheck"},
-    {"id":"bellagio_village_loop","title":"Bellagio tourism — historic village itinerary","url":"https://www.bellagiolakecomo.com/wp-content/uploads/2025/02/itinerario-storico-borgo-it.pdf","supports":"Village map supports waterfront, SalitaSerbelloni, SanGiacomo and PuntaSpartivento; proposed60min timing creative planning"},
-    {"id":"trenord_october_tariff","title":"Trenord — tariff from1 October2026","url":"https://www.trenord.it/fileadmin/contenuti/TRENORD/3-News/Trenord_Informa/Avvisi/2026/AvvisoA4Trenord_2026_179_Tariffario_01_ottobre.pdf","supports":"Distance bands do not establish commercial route distance; €8–10person allowance only, live fare unresolved"}
+    {
+      "id": "scala_giselle",
+      "title": "La Scala — Giselle, October 2026 dates, sold-out status and running time",
+      "url": "https://www.teatroallascala.org/en/season/2025-2026/ballet/giselle.html",
+      "supports": "19 October at 20:00, sold out, ballet, approximately 2 h 5 m including interval"
+    },
+    {
+      "id": "scala_traviata_season",
+      "title": "La Scala — 2025–2026 season",
+      "url": "https://www.teatroallascala.org/it/stagione/2025-2026/index.html",
+      "supports": "La traviata run 19 September–15 October 2026"
+    },
+    {
+      "id": "scala_boxoffice",
+      "title": "La Scala — official box-office guidelines",
+      "url": "https://www.teatroallascala.org/en/season/box-office/box-office-guidelines.html",
+      "supports": "Limited/no-view balcony procedure, normal €10, non-opera allocation 80, in-person list three hours before, ID/customer code, sales two hours before; doors open 45 minutes before"
+    },
+    {
+      "id": "santambrogio",
+      "title": "Basilica di Sant'Ambrogio — visit information",
+      "url": "https://www.basilicasantambrogio.it/basilica",
+      "supports": "Monday–Saturday sightseeing 10:00–12:00 and 14:30–18:00, services take priority"
+    },
+    {
+      "id": "duomo_archaeology",
+      "title": "Milan Duomo — archaeological area and Augustine's baptism",
+      "url": "https://www.duomomilano.it/en/art-and-culture/archaeological-area/",
+      "supports": "San Giovanni alle Fonti below the Duomo forecourt; Ambrose baptised Augustine here in 387"
+    },
+    {
+      "id": "duomo_ticket_updates",
+      "title": "Milan Duomo — access and ticket-inclusion updates",
+      "url": "https://www.duomomilano.it/en/access-updates-for-the-milan-duomo-monumental-complex/",
+      "supports": "Archaeology requires cathedral ticket, archaeology supplement or culture pass; standard combo rooftop pass lists cathedral, terraces and museum rather than archaeology"
+    },
+    {
+      "id": "duomo_visit",
+      "title": "Milan Duomo — official visit and practical information",
+      "url": "https://www.duomomilano.it/en/guided-tour-and-incentive/",
+      "supports": "Large bags not permitted; official tickets and visit information"
+    },
+    {
+      "id": "duomo_tickets",
+      "title": "Milan Duomo — official ticket portal",
+      "url": "https://ticket.duomomilano.it/",
+      "supports": "Official booking destination only; no 19 October ticket inventory verified"
+    },
+    {
+      "id": "linate_shuttle",
+      "title": "Linate Shuttle — official route and stops",
+      "url": "https://www.linateshuttle.it/en/routes",
+      "supports": "Airport–Milano Centrale connection, Piazza Luigi di Savoia stop; no exact 19 October departure verified"
+    },
+    {
+      "id": "atm_m4",
+      "title": "ATM — M4 airport line and interchange information",
+      "url": "https://www.atm.it/en/ViaggiaConNoi/InfoTraffico/Pages/M4passengerserviceinformation2.aspx",
+      "supports": "Linate airport M4 line; Sant'Ambrogio interchange with M2, a practical one-change route toward Centrale"
+    },
+    {
+      "id": "verona_luggage",
+      "title": "KiBag — official Verona Porta Nuova luggage storage",
+      "url": "https://www.kibag.it/en/deposito-bagagli-verona/deposito-kipoint-verona-pn/",
+      "supports": "In-station ground-level deposit, daily 08:00–20:00; provides a concrete Saturday morning luggage option, capacity and final rate still to check"
+    },
+    {
+      "id": "verona_luggage_station",
+      "title": "Verona Porta Nuova station — KiPoint listing",
+      "url": "https://www.veronaportanuova.it/stores/kipoint",
+      "supports": "Official station listing, ground floor atrium toward bike park, opening 08:00–20:00"
+    },
+    {
+      "id": "mercante_hours",
+      "title": "Al Mercante — official location and opening times",
+      "url": "https://ristorantealmercante.it/it/prenotare-ristorante-milano-centro/",
+      "supports": "Via Cesare Cantù 7; Monday–Saturday 12:00–14:30 and 18:30–22:30; Sunday closed"
+    },
+    {
+      "id": "mercante_menu",
+      "title": "Al Mercante — menu policy",
+      "url": "https://ristorantealmercante.it/it/menu-ristorante-milano/",
+      "supports": "Daily changing seasonal menu; no specific dish guaranteed"
+    },
+    {
+      "id": "villa_monastero",
+      "title": "Villa Monastero — official 2026 opening hours and admission",
+      "url": "https://www.villamonastero.eu/en/opening-hours-ticket/",
+      "supports": "October 2026 house 10:00–18:00 except Tuesday, garden daily 10:00–18:00, last admission 30 minutes before closure"
+    },
+    {
+      "id": "lavista_en",
+      "title": "Albergo Milano — La Vista restaurant, English",
+      "url": "https://www.albergomilanovarenna.com/ristorante-la-vista/",
+      "supports": "April–late October, 19:00–21:30, Tuesdays closed; seasonal menu, indoor windows and weather-dependent summer terrace"
+    },
+    {
+      "id": "lavista_it",
+      "title": "Albergo Milano — La Vista restaurant, Italian",
+      "url": "https://www.albergomilanovarenna.com/it/ristorante-la-vista/",
+      "supports": "April–late October, Tuesday closed, dinner 19:00–22:00, minimum two courses; differs from English on closing time"
+    },
+    {
+      "id": "vineria",
+      "title": "Agriturismo La Vineria — official farm, rooms and services",
+      "url": "https://www.agriturismoverona.farm/",
+      "supports": "Via Sommavalle 1, northern Verona hills; cellar rooms about 300 m from main agriturismo; restaurant and wine experiences, Valpolicella/Amarone/Recioto"
+    },
+    {
+      "id": "corte_sanmattia",
+      "title": "Corte San Mattia — official family-farm accommodation",
+      "url": "https://www.agriturismosanmattia.it/",
+      "supports": "Family of three agriturismi including La Vineria; main property Via Santa Giuliana 2/A; restaurant and tasting links"
+    },
+    {
+      "id": "verona_church_hours",
+      "title": "Chiese Vive Verona — official church visiting hours",
+      "url": "https://chieseverona.it/it/info-visita",
+      "supports": "San Zeno March–October 2026 Saturday 09:00–18:00, services can restrict visits, no reservation required"
+    },
+    {
+      "id": "verona_sanzeno_date",
+      "title": "Visit Verona — San Zeno date-specific opening exceptions",
+      "url": "https://www.visitverona.it/it/luoghi/basilica-di-san-zeno",
+      "supports": "Saturday 24 October visitor opening 09:00–14:30 and 16:30–18:00; services suspend tourism"
+    },
+    {
+      "id": "verona_church_tickets",
+      "title": "Chiese Vive Verona — official admission information",
+      "url": "https://chieseverona.it/it/visite",
+      "supports": "Single-church ticket €4, purchased on site, no advance purchase/reservation"
+    },
+    {
+      "id": "verona_sanzeno_municipal",
+      "title": "Verona municipality — San Zeno basilica",
+      "url": "https://turismo.comune.verona.it/nqcontent.cfm?a_id=35790",
+      "supports": "Bronze doors, crypt with St Zeno's remains, Mantegna altarpiece"
+    },
+    {
+      "id": "arena_season",
+      "title": "Fondazione Arena — 2026 Opera Festival dates",
+      "url": "https://www.arena.it/magazine/news/svelati-i-cast-dellarena-opera-festival-2026/",
+      "supports": "12 June–12 September 2026 festival"
+    },
+    {
+      "id": "arena_calendar",
+      "title": "Fondazione Arena — official upcoming performances",
+      "url": "https://www.arena.it/spettacoli/",
+      "supports": "25 October 15:30 Filarmonico Jeu de cartes/Amelia al ballo opening; no opera listed 23 October"
+    },
+    {
+      "id": "pompiere_hours",
+      "title": "Trattoria Al Pompiere — location, opening and booking",
+      "url": "https://alpompiere.com/en/contatti/",
+      "supports": "Vicolo Regina d'Ungheria 5, Monday–Saturday 12:30–14:00 and 19:30–22:00, Sunday closed, request needs confirmation"
+    },
+    {
+      "id": "pompiere_menu",
+      "title": "Trattoria Al Pompiere — official seasonal menu",
+      "url": "https://alpompiere.com/en/menu/",
+      "supports": "First courses €16–25, mains €24–34, desserts €8–11 checked 23 October 2026; extras require quote"
+    },
+    {
+      "id": "rhb_regional_reservations",
+      "title": "RhB — Bernina line regional seat reservations",
+      "url": "https://www.rhb.ch/en/tickets/bernina-line-reservations/",
+      "supports": "Optional CHF5 regional seat reservation, unreserved travel permitted; travel ticket separate"
+    },
+    {
+      "id": "summer_2026_connections",
+      "title": "Engadin Bus / RhB — summer 2026 timetable through 25 October",
+      "url": "https://engadinbus.ch/wp-content/uploads/2026/05/final-low-sommerfahrplan-2026.pdf",
+      "supports": "RhB08:48–11:00 and09:48–12:23 Tirano;60409:18–10:56 /10:18–11:56 Chiavenna; live date recheck required"
+    },
+    {
+      "id": "trenord_re8_2026",
+      "title": "Trenord — Q180 June 2026 timetable",
+      "url": "https://www.trenord.it/fileadmin/contenuti/TRENORD/2-Linee_e_orari/Orario_ferroviario/ORARIO_in_vigore/Q180_giugno_2026.pdf",
+      "supports": "PDF page10 printed636 RE2827 Tirano12:08→Varenna13:35, note4 from5August; live disruptions separate"
+    },
+    {
+      "id": "como_autumn_2026",
+      "title": "Navigazione Laghi — weekday5 October–1 November ferry timetable",
+      "url": "https://www.navigazionelaghi.it/wp-content/uploads/2026/09/Orari_WebVerticali-A26_Tfer.pdf",
+      "supports": "Varenna15:25/16:30 toBellagio; Bellagio17:20/18:20/18:50 back; Menaggio alternative retained. Arrivals15min arithmetic"
+    },
+    {
+      "id": "como_fares_2026",
+      "title": "Navigazione Laghi — April2026 passenger fares",
+      "url": "https://www.navigazionelaghi.it/wp-content/uploads/2026/03/NLC_Tariffe-A4_042026_CT012018_eng.pdf",
+      "supports": "Visually checked triangle pairs stretch3€5.50adultleg; daypass€17.50adult, route-area validity recheck"
+    },
+    {
+      "id": "bellagio_village_loop",
+      "title": "Bellagio tourism — historic village itinerary",
+      "url": "https://www.bellagiolakecomo.com/wp-content/uploads/2025/02/itinerario-storico-borgo-it.pdf",
+      "supports": "Village map supports waterfront, SalitaSerbelloni, SanGiacomo and PuntaSpartivento; proposed60min timing creative planning"
+    },
+    {
+      "id": "trenord_october_tariff",
+      "title": "Trenord — tariff from1 October2026",
+      "url": "https://www.trenord.it/fileadmin/contenuti/TRENORD/3-News/Trenord_Informa/Avvisi/2026/AvvisoA4Trenord_2026_179_Tariffario_01_ottobre.pdf",
+      "supports": "Distance bands do not establish commercial route distance; €8–10person allowance only, live fare unresolved"
+    },
+    {
+      "id": "verona_funicular_oct23",
+      "title": "Funicolare Verona — fares and hours",
+      "url": "https://www.funicolarediverona.it/de/fahrkarten/",
+      "supports": "Apr–Oct 10–21, €3 return/person; actual operation recheck"
+    },
+    {
+      "id": "verona_taxi_oct23",
+      "title": "RadioTaxi Verona — call taxi",
+      "url": "https://radiotaxiverona.it/en/call-taxi/",
+      "supports": "24h +39 045 532666; no fare or same-evening advance-booking guarantee"
+    },
+    {
+      "id": "verona_giusti_oct23",
+      "title": "Giardino Giusti — opening",
+      "url": "https://giardinogiusti.com/opening/?lan=en/",
+      "supports": "10–18, last entry 17; unsuitable dependable Friday branch"
+    }
   ]
 }

@@ -103,7 +103,7 @@ window.TRIP_FOOD = {
       "Dinner daily 19:00–21:30. Confirm table and room-to-restaurant route.",
       "https://www.agriturismosanmattia.it/en/restaurant-agritourism-verona.php",
       "Corte San Mattia Verona",
-      "<div class=\"review-note\"><strong>Reviews checked 18 October 2026</strong><p><a href=\"https://www.tripadvisor.com/Restaurant_Review-g187871-d2441992-Reviews-Corte_San_Mattia_Agriturismo_Verona-Verona_Province_of_Verona_Veneto.html\" target=\"_blank\" rel=\"noopener noreferrer\">Restaurant listing ↗</a>, <a href=\"https://www.tripadvisor.com/RestaurantsNear-g187871-d561455-Corte_San_Mattia_Agriturismo_Verona-Verona_Province_of_Verona_Veneto.html\" target=\"_blank\" rel=\"noopener noreferrer\">Tripadvisor nearby restaurant snapshot ↗</a>3.8/5,424 reviews. Different from hotel rating. Scenic convenience and producer wine, not strongest independent restaurant score.</p><p><a href=\"https://www.agriturismosanmattia.it/en/restaurant-agritourism-verona.php\" target=\"_blank\" rel=\"noopener noreferrer\">Live official menu ↗</a> still supports63 TWO basket with goatcheese12,2pasta15,sharedtiramisu7,2Valpolicella3.50,water2,2covers2.50. Dinner daily19–21:30,booking recommended; correct linked online form on operator page. Retain23Oct default because hill lodging/transfer fit, with honest review caveat.</p></div>"
+      "<div class=\"review-note\"><strong>Reviews checked 18 October 2026</strong><p><a href=\"https://www.tripadvisor.com/Restaurant_Review-g187871-d2441992-Reviews-Corte_San_Mattia_Agriturismo_Verona-Verona_Province_of_Verona_Veneto.html\" target=\"_blank\" rel=\"noopener noreferrer\">Restaurant listing ↗</a>, <a href=\"https://www.tripadvisor.com/RestaurantsNear-g187871-d561455-Corte_San_Mattia_Agriturismo_Verona-Verona_Province_of_Verona_Veneto.html\" target=\"_blank\" rel=\"noopener noreferrer\">Tripadvisor nearby restaurant snapshot ↗</a>3.8/5,424 reviews. Different from hotel rating. Scenic convenience and producer wine, not strongest independent restaurant score.</p><p><a href=\"https://www.agriturismosanmattia.it/en/restaurant-agritourism-verona.php\" target=\"_blank\" rel=\"noopener noreferrer\">Live official menu ↗</a> still supports63 TWO basket with goatcheese12,2pasta15,sharedtiramisu7,2Valpolicella3.50,water2,2covers2.50. Dinner daily19–21:30,booking recommended; correct linked online form on operator page. Use as23Oct rain/low-energy fallback after hotel check-in, with honest review caveat.</p></div>"
     ],
     [
       "La Bottega della Gina XXL",
@@ -118,9 +118,9 @@ window.TRIP_FOOD = {
     [
       "Trattoria Al Pompiere",
       "Quality-led city alternative · Guide-selected, NOT starred",
-      "~€58 food + extras",
-      "Two €24 pastas + shared €10 dessert = €58 before water/covers; keep total within €80 and add separate taxis. Two €30 mains + two €10 desserts already reach €80 before extras. Replaces the farm dinner.",
-      "Mon–Sat 12:30–14:00 /19:30–22:00. Reserve if chosen.",
+      "€80 all-in meal cap",
+      "23 Oct official menu: first courses €16–25, mains €24–34, desserts €8–11. Confirm water, wine and covers before choosing a complete order within €80 for two; taxis separate. Recommended city dinner if table and budget are confirmed.",
+      "Mon–Sat 12:30–14:00 /19:30–22:00. Within 24h request by phone; confirmation required.",
       "https://alpompiere.com/en/menu/",
       "Trattoria Al Pompiere Verona",
       "<div class=\"review-note\"><strong>Reviews checked 18 October 2026</strong><p><a href=\"https://www.tripadvisor.co.uk/Restaurant_Review-g187871-d1087226-Reviews-Trattoria_al_Pompiere-Verona_Province_of_Verona_Veneto.html\" target=\"_blank\" rel=\"noopener noreferrer\">Tripadvisor ↗</a>4.4/5,2538 reviews; <a href=\"https://guide.michelin.com/gb/en/veneto/verona/restaurant/trattoria-al-pompiere\" target=\"_blank\" rel=\"noopener noreferrer\">Michelin professional listing ↗</a> praises Venetian traditional cooking. Guide-selected, NOT a Michelin star.</p><a href=\"https://alpompiere.com/en/contatti/\" target=\"_blank\" rel=\"noopener noreferrer\">Official booking/hours ↗</a></div>"
